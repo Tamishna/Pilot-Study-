@@ -1,0 +1,2220 @@
+node,nodeLabel,is_seed,group,id,nodeLabel2
+Q100145786,William Gabriel Duvall,FALSE,ancestor,0,William Gabriel Duvall 0
+Q100145788,Gabriell Duvall,FALSE,ancestor,1,Gabriell Duvall 1
+Q100145789,Benjamin Duvall,FALSE,ancestor,2,Benjamin Duvall 2
+Q100153033,"John Fettiplace, of East Shefford, Berks",FALSE,ancestor,3,"John Fettiplace, of East Shefford, Berks 3"
+Q100153035,"Sir Thomas Fettiplace, of East Shefford",FALSE,ancestor,4,"Sir Thomas Fettiplace, of East Shefford 4"
+Q100153036,"Henry Fettiplace, of East Shefford",FALSE,ancestor,5,"Henry Fettiplace, of East Shefford 5"
+Q100153040,Beatriz|Beatrice,FALSE,ancestor,6,Beatriz|Beatrice 6
+Q100153041,Joan|Jane Fabian,FALSE,ancestor,7,Joan|Jane Fabian 7
+Q100153042,Edward Fabian,FALSE,ancestor,8,Edward Fabian 8
+Q100153043,"William Besilles, of Bessiles-Leigh",FALSE,ancestor,9,"William Besilles, of Bessiles-Leigh 9"
+Q100153044,"Thomas Bessiles (Bessells), of Carswell",FALSE,ancestor,10,"Thomas Bessiles (Bessells), of Carswell 10"
+Q100153045,"Sir Peter Besylles (Besells), of Besselslegh & Bokeland, Berks",FALSE,ancestor,11,"Sir Peter Besylles (Besells), of Besselslegh & Bokeland, Berks 11"
+Q100153048,Margery Hannys (Hannes),FALSE,ancestor,12,Margery Hannys (Hannes) 12
+Q100153051,Clemence Ledyard,FALSE,ancestor,13,Clemence Ledyard 13
+Q100153052,Alice Harcourt,FALSE,ancestor,14,Alice Harcourt 14
+Q100153064,Margaret Hoo,FALSE,ancestor,15,Margaret Hoo 15
+Q100447686,Elizabeth Noyes,FALSE,ancestor,16,Elizabeth Noyes 16
+Q100447816,Thomas Barber,FALSE,ancestor,17,Thomas Barber 17
+Q100447820,John Barber,FALSE,ancestor,18,John Barber 18
+Q100447822,Elizabeth Lumley,FALSE,ancestor,19,Elizabeth Lumley 19
+Q100447825,Jane Bancroft,FALSE,ancestor,20,Jane Bancroft 20
+Q101163257,Sir John Troutbeck,FALSE,ancestor,21,Sir John Troutbeck 21
+Q101163261,Marjery Hulse (Holes),FALSE,ancestor,22,Marjery Hulse (Holes) 22
+Q101231732,Sybil|Juliana Darset (Dorset),FALSE,ancestor,23,Sybil|Juliana Darset (Dorset) 23
+Q101422788,"Nathaniel Foote, III",FALSE,ancestor,24,"Nathaniel Foote, III 24"
+Q101422789,"Nathaniel Foote, II",FALSE,ancestor,25,"Nathaniel Foote, II 25"
+Q101422798,Margaret Foote,FALSE,ancestor,26,Margaret Foote 26
+Q101422800,Catherine Bliss,FALSE,ancestor,27,Catherine Bliss 27
+Q101422852,John Chapin,FALSE,ancestor,28,John Chapin 28
+Q101422853,Phillipe Easton,FALSE,ancestor,29,Phillipe Easton 29
+Q101422856,Henry Penny,FALSE,ancestor,30,Henry Penny 30
+Q101422857,Jane,FALSE,ancestor,31,Jane 31
+Q101423104,Michael Spencer,FALSE,ancestor,32,Michael Spencer 32
+Q101423105,"John Spencer, of Edworth",FALSE,ancestor,33,"John Spencer, of Edworth 33"
+Q101423106,Ann Merrill,FALSE,ancestor,34,Ann Merrill 34
+Q101423107,NN,FALSE,ancestor,35,NN 35
+Q101424359,Margaret Jones,FALSE,ancestor,36,Margaret Jones 36
+Q101424361,Ephraim Foote,FALSE,ancestor,37,Ephraim Foote 37
+Q101522612,Katherine de Arderne,FALSE,ancestor,38,Katherine de Arderne 38
+Q101522619,Isabel de Strange,FALSE,ancestor,39,Isabel de Strange 39
+Q101522622,Sir Lawrence Pabenham,FALSE,ancestor,40,Sir Lawrence Pabenham 40
+Q101522624,Elizabeth Engaine,FALSE,ancestor,41,Elizabeth Engaine 41
+Q102434015,Lawrence Preston Gise,FALSE,ancestor,42,Lawrence Preston Gise 42
+Q102434144,Mattie Louise Strait,FALSE,ancestor,43,Mattie Louise Strait 43
+Q102434206,Theodore John Jorgensen,FALSE,ancestor,44,Theodore John Jorgensen 44
+Q102434217,Dolores Pollack,FALSE,ancestor,45,Dolores Pollack 45
+Q103948038,"Richard Danvers, of Calthorpe",FALSE,ancestor,46,"Richard Danvers, of Calthorpe 46"
+Q103948067,Agnes Brancaster (Brancestre),FALSE,ancestor,47,Agnes Brancaster (Brancestre) 47
+Q103948114,Juliana,FALSE,ancestor,48,Juliana 48
+Q104038132,Lancelot Lisle,FALSE,ancestor,49,Lancelot Lisle 49
+Q104038136,John Lisle,FALSE,ancestor,50,John Lisle 50
+Q104038141,John de Lisle,FALSE,ancestor,51,John de Lisle 51
+Q104038143,Christina de Tisted,FALSE,ancestor,52,Christina de Tisted 52
+Q104038144,Maria Rogers,FALSE,ancestor,53,Maria Rogers 53
+Q104038147,Ann Wroughton,FALSE,ancestor,54,Ann Wroughton 54
+Q104038154,"Sir John Hungerford, of Down Ampney",FALSE,ancestor,55,"Sir John Hungerford, of Down Ampney 55"
+Q104038156,"Margaret Blount, of Mangotsfield",FALSE,ancestor,56,"Margaret Blount, of Mangotsfield 56"
+Q104038158,Jane Darell,FALSE,ancestor,57,Jane Darell 57
+Q104038161,"Sir Edward Darell, of Littlecote",FALSE,ancestor,58,"Sir Edward Darell, of Littlecote 58"
+Q104038162,Jane|Alice Croft,FALSE,ancestor,59,Jane|Alice Croft 59
+Q104038164,Bridget Fettiplace,FALSE,ancestor,60,Bridget Fettiplace 60
+Q104038166,"Sir John Fettiplace, of East Shefford",FALSE,ancestor,61,"Sir John Fettiplace, of East Shefford 61"
+Q104038170,Dorothy Danvers,FALSE,ancestor,62,Dorothy Danvers 62
+Q104038174,Anne Stradling,FALSE,ancestor,63,Anne Stradling 63
+Q104038224,"William Bond, of Lutton",FALSE,ancestor,64,"William Bond, of Lutton 64"
+Q104038225,"Robert Bond, of Lutton",FALSE,ancestor,65,"Robert Bond, of Lutton 65"
+Q104038227,"Robert Bond, of Beauchamp's Bache",FALSE,ancestor,66,"Robert Bond, of Beauchamp's Bache 66"
+Q104038228,"NN Lutton, Heiress of Lutton",FALSE,ancestor,67,"NN Lutton, Heiress of Lutton 67"
+Q104038231,Mary Hody,FALSE,ancestor,68,Mary Hody 68
+Q104038234,Elizabeth Prowz,FALSE,ancestor,69,Elizabeth Prowz 69
+Q104038238,"Robert Samways, of Toller",FALSE,ancestor,70,"Robert Samways, of Toller 70"
+Q104038267,Alienore|Aline|Alianore Le Strange,FALSE,ancestor,71,Alienore|Aline|Alianore Le Strange 71
+Q104038271,Christian Halle (Hall),FALSE,ancestor,72,Christian Halle (Hall) 72
+Q104038273,"John Halle (Hall), of Salisbury",FALSE,ancestor,73,"John Halle (Hall), of Salisbury 73"
+Q104038274,"Sir Edmund|John Blount, of Mangotsfield",FALSE,ancestor,74,"Sir Edmund|John Blount, of Mangotsfield 74"
+Q104038276,"John Blount, of Mangotsfield",FALSE,ancestor,75,"John Blount, of Mangotsfield 75"
+Q104038278,Robert Blount,FALSE,ancestor,76,Robert Blount 76
+Q104038279,Willelma Aberle,FALSE,ancestor,77,Willelma Aberle 77
+Q104038280,Thomas Abarle (Aberle|Aberhale),FALSE,ancestor,78,Thomas Abarle (Aberle|Aberhale) 78
+Q104038282,Alice Lathebrooke,FALSE,ancestor,79,Alice Lathebrooke 79
+Q104038284,Margaret Seymour,FALSE,ancestor,80,Margaret Seymour 80
+Q104038325,Joan|Jane Hawte (Haute),FALSE,ancestor,81,Joan|Jane Hawte (Haute) 81
+Q104038327,"Sir Edmund Hawte (Haute), of Petham",FALSE,ancestor,82,"Sir Edmund Hawte (Haute), of Petham 82"
+Q104038328,Benedicta|Bennet Shelving,FALSE,ancestor,83,Benedicta|Bennet Shelving 83
+Q104038330,"Sir Thomas Coven (Couen|Cawne), of Ightham, Kent",FALSE,ancestor,84,"Sir Thomas Coven (Couen|Cawne), of Ightham, Kent 84"
+Q104038332,Lora de Moraunt,FALSE,ancestor,85,Lora de Moraunt 85
+Q104038398,"Richard Danvers, of Prescote",FALSE,ancestor,86,"Richard Danvers, of Prescote 86"
+Q104038400,Elizabeth Langston,FALSE,ancestor,87,Elizabeth Langston 87
+Q104038402,"John Langston, of Caversfield",FALSE,ancestor,88,"John Langston, of Caversfield 88"
+Q104038405,Elizabeth Grimsby,FALSE,ancestor,89,Elizabeth Grimsby 89
+Q104038408,"Sir John Stradling, of Dauntsey",FALSE,ancestor,90,"Sir John Stradling, of Dauntsey 90"
+Q104038411,"Sir Edmund Stradling, of Winterbourne",FALSE,ancestor,91,"Sir Edmund Stradling, of Winterbourne 91"
+Q104038416,Joan Dauntsey,FALSE,ancestor,92,Joan Dauntsey 92
+Q104038423,Elizabeth Arundell,FALSE,ancestor,93,Elizabeth Arundell 93
+Q104038428,Alice Langford,FALSE,ancestor,94,Alice Langford 94
+Q104038429,"Edward Langford, of Bradfield",FALSE,ancestor,95,"Edward Langford, of Bradfield 95"
+Q104038432,Sir Robert Langford,FALSE,ancestor,96,Sir Robert Langford 96
+Q104038437,Elizabeth,FALSE,ancestor,97,Elizabeth 97
+Q104038438,Sanche Blount,FALSE,ancestor,98,Sanche Blount 98
+Q104038460,George de Lisle,FALSE,ancestor,99,George de Lisle 99
+Q104038463,"John de Lisle, Baron Lisle",FALSE,ancestor,100,"John de Lisle, Baron Lisle 100"
+Q104038466,"Sir John de Lisle, Lord Lisle",FALSE,ancestor,101,"Sir John de Lisle, Lord Lisle 101"
+Q104038489,Elizabeth,FALSE,ancestor,102,Elizabeth 102
+Q104038491,Margery Bremshote,FALSE,ancestor,103,Margery Bremshote 103
+Q104038493,"John Bremshote, of Bramshot",FALSE,ancestor,104,"John Bremshote, of Bramshot 104"
+Q104038496,Ann Montgomery,FALSE,ancestor,105,Ann Montgomery 105
+Q104038502,"Robert Bond, of Earth, Cornwall",FALSE,ancestor,106,"Robert Bond, of Earth, Cornwall 106"
+Q104038721,"John Digges, of Digges Court",FALSE,ancestor,107,"John Digges, of Digges Court 107"
+Q104038723,Joan Clifton,FALSE,ancestor,108,Joan Clifton 108
+Q104038726,"Sir Gervase Clifton, of Clifton & Hodsock",FALSE,ancestor,109,"Sir Gervase Clifton, of Clifton & Hodsock 109"
+Q104038728,Isabel Franceys,FALSE,ancestor,110,Isabel Franceys 110
+Q104038730,Isabel Finch alias Herbert,FALSE,ancestor,111,Isabel Finch alias Herbert 111
+Q104038732,"Vincent Finch alias Herbert, of Netherfield",FALSE,ancestor,112,"Vincent Finch alias Herbert, of Netherfield 112"
+Q104038734,Isabel Cralle,FALSE,ancestor,113,Isabel Cralle 113
+Q104038942,"Sir Robert Browne, of Beechworth",FALSE,ancestor,114,"Sir Robert Browne, of Beechworth 114"
+Q104472077,"Sir James Beler, of Eye-Kettleby",FALSE,ancestor,115,"Sir James Beler, of Eye-Kettleby 115"
+Q104472085,Margaret de Bernake (Barnard|Bernard|Bernack),FALSE,ancestor,116,Margaret de Bernake (Barnard|Bernard|Bernack) 116
+Q104551512,Moses Cass,FALSE,ancestor,117,Moses Cass 117
+Q104551518,Patience Case,FALSE,ancestor,118,Patience Case 118
+Q104913471,Anthony Collamore,FALSE,ancestor,119,Anthony Collamore 119
+Q105446586,Lillian Margaret Dewall,FALSE,ancestor,120,Lillian Margaret Dewall 120
+Q105767146,William Everard,FALSE,ancestor,121,William Everard 121
+Q105767149,William Everard,FALSE,ancestor,122,William Everard 122
+Q105767152,Isabel Bedel,FALSE,ancestor,123,Isabel Bedel 123
+Q105767157,Thomas Cornish,FALSE,ancestor,124,Thomas Cornish 124
+Q105767160,Eden|Idonea Hunt,FALSE,ancestor,125,Eden|Idonea Hunt 125
+Q105767165,John Hunt,FALSE,ancestor,126,John Hunt 126
+Q105767170,Margaret Pecche,FALSE,ancestor,127,Margaret Pecche 127
+Q105767189,Humphrey Waltham,FALSE,ancestor,128,Humphrey Waltham 128
+Q105770210,John Belknap,FALSE,ancestor,129,John Belknap 129
+Q105770214,Alice Belknap,FALSE,ancestor,130,Alice Belknap 130
+Q105770218,"John Darset (Dorset), of Essex",FALSE,ancestor,131,"John Darset (Dorset), of Essex 131"
+Q105793092,William Jermyn,FALSE,ancestor,132,William Jermyn 132
+Q105793095,Christian,FALSE,ancestor,133,Christian 133
+Q105793099,"William Bernard, of Isleham",FALSE,ancestor,134,"William Bernard, of Isleham 134"
+Q105793104,Agnes,FALSE,ancestor,135,Agnes 135
+Q105793107,"Sir Nicholas Lillying, of Abingdon, et.at.",FALSE,ancestor,136,"Sir Nicholas Lillying, of Abingdon, et.at. 136"
+Q105793110,Isabel,FALSE,ancestor,137,Isabel 137
+Q105793113,"Sir John Mallory, of Welton (Wooton)",FALSE,ancestor,138,"Sir John Mallory, of Welton (Wooton) 138"
+Q105793122,"John Appleton, of Waldingfield Magna, Suffolk",FALSE,ancestor,139,"John Appleton, of Waldingfield Magna, Suffolk 139"
+Q105794613,Henry Frowick,FALSE,ancestor,140,Henry Frowick 140
+Q105794618,Alice de Cornhill,FALSE,ancestor,141,Alice de Cornhill 141
+Q105794655,Edward Gillford or de Guldeford,FALSE,ancestor,142,Edward Gillford or de Guldeford 142
+Q105794658,Sir William de Guildford,FALSE,ancestor,143,Sir William de Guildford 143
+Q105794662,"Joan de Halden, of Halden, Kent",FALSE,ancestor,144,"Joan de Halden, of Halden, Kent 144"
+Q105794667,Julian Pitlesden,FALSE,ancestor,145,Julian Pitlesden 145
+Q105794668,"John Stephen Pitlesden, of Tenderden, Kent",FALSE,ancestor,146,"John Stephen Pitlesden, of Tenderden, Kent 146"
+Q105794717,"William Gulby, of Orpington",FALSE,ancestor,147,"William Gulby, of Orpington 147"
+Q105801343,"William Denys (Dennis), of Gloucester",FALSE,ancestor,148,"William Denys (Dennis), of Gloucester 148"
+Q105801355,Katherine|Margred Gwrgan (Wogan),FALSE,ancestor,149,Katherine|Margred Gwrgan (Wogan) 149
+Q105801357,"Thomas Mead (atte Mede), of Meadsplace, Som",FALSE,ancestor,150,"Thomas Mead (atte Mede), of Meadsplace, Som 150"
+Q105801359,Agnes,FALSE,ancestor,151,Agnes 151
+Q105803191,"Huw ap Robin ap Gruffudd Gôch Conwy, of Bryneuryn",FALSE,ancestor,152,"Huw ap Robin ap Gruffudd Gôch Conwy, of Bryneuryn 152"
+Q105803193,Robin ap Gruffudd Gôch ap Dafydd ap Madog of Rhôs,FALSE,ancestor,153,Robin ap Gruffudd Gôch ap Dafydd ap Madog of Rhôs 153
+Q105803194,Gruffudd Gôch ap Dafydd ap Madog ap Meurig of Rhôs,FALSE,ancestor,154,Gruffudd Gôch ap Dafydd ap Madog ap Meurig of Rhôs 154
+Q105803195,Efa ferch Ieuan ab Einion Grach ap Llywarch,FALSE,ancestor,155,Efa ferch Ieuan ab Einion Grach ap Llywarch 155
+Q105803196,Erddylad ferch Llywelyn ap Tudur ap Dafydd,FALSE,ancestor,156,Erddylad ferch Llywelyn ap Tudur ap Dafydd 156
+Q105803198,Llywelyn ap Tudur ap Dafydd,FALSE,ancestor,157,Llywelyn ap Tudur ap Dafydd 157
+Q105803199,Elizabeth Salusbury,FALSE,ancestor,158,Elizabeth Salusbury 158
+Q105803201,"Henry 'Hen' Salusbury, of Lleweny",FALSE,ancestor,159,"Henry 'Hen' Salusbury, of Lleweny 159"
+Q105803202,Annes Courtois (Curteis),FALSE,ancestor,160,Annes Courtois (Curteis) 160
+Q105803203,"Elizabeth Done, of Utkinton",FALSE,ancestor,161,"Elizabeth Done, of Utkinton 161"
+Q105803204,"Sir John Done, of Utkinton",FALSE,ancestor,162,"Sir John Done, of Utkinton 162"
+Q105803205,Cecily Troutbeck,FALSE,ancestor,163,Cecily Troutbeck 163
+Q105803210,Owain ap Meurig ap Llywelyn of Bodeon,FALSE,ancestor,164,Owain ap Meurig ap Llywelyn of Bodeon 164
+Q105803219,Gwenhwyfar ferch Meurig Llwyd ap Meurig Fychan an Ynyr Fychan,FALSE,ancestor,165,Gwenhwyfar ferch Meurig Llwyd ap Meurig Fychan an Ynyr Fychan 165
+Q105803226,Angharad ferch Hywel ap Tudur ab Ithel Fychan ap Maredudd,FALSE,ancestor,166,Angharad ferch Hywel ap Tudur ab Ithel Fychan ap Maredudd 166
+Q105803227,Hywel ap Tudur ab Ithel Fych ab Ithel Llwyd ab Ithel Gam ap Maredudd,FALSE,ancestor,167,Hywel ap Tudur ab Ithel Fych ab Ithel Llwyd ab Ithel Gam ap Maredudd 167
+Q105803228,Lleucu Llwyd ferch Rhys ap Robert ap Gruffudd ap Hywel,FALSE,ancestor,168,Lleucu Llwyd ferch Rhys ap Robert ap Gruffudd ap Hywel 168
+Q105803230,"Elen ferch Robert ap Maredudd Llwyd, of Glynllifon",FALSE,ancestor,169,"Elen ferch Robert ap Maredudd Llwyd, of Glynllifon 169"
+Q105805206,"Thomas Knollys, of North Mymms",FALSE,ancestor,170,"Thomas Knollys, of North Mymms 170"
+Q105805208,Isabell,FALSE,ancestor,171,Isabell 171
+Q105818325,Robert de Worsley,FALSE,ancestor,172,Robert de Worsley 172
+Q105818326,Isabel,FALSE,ancestor,173,Isabel 173
+Q105818328,Sara de Stockport,FALSE,ancestor,174,Sara de Stockport 174
+Q105818329,Dafydd ab Ednyfed Gam ab Iorwerth Foel,FALSE,ancestor,175,Dafydd ab Ednyfed Gam ab Iorwerth Foel 175
+Q105872022,"Edward Sackville, of Emmington",FALSE,ancestor,176,"Edward Sackville, of Emmington 176"
+Q105872025,Margaret Wakehurst,FALSE,ancestor,177,Margaret Wakehurst 177
+Q105872162,"William Troutbeck, of Dunham",FALSE,ancestor,178,"William Troutbeck, of Dunham 178"
+Q105872165,Joan le Mascy de Rixton,FALSE,ancestor,179,Joan le Mascy de Rixton 179
+Q105872168,"Thomas Hulse (Holes), of Branstath",FALSE,ancestor,180,"Thomas Hulse (Holes), of Branstath 180"
+Q105872843,Joane,FALSE,ancestor,181,Joane 181
+Q105881952,Thomas Gates,FALSE,ancestor,182,Thomas Gates 182
+Q105881953,Stephen Gates,FALSE,ancestor,183,Stephen Gates 183
+Q105881954,Ann Neave,FALSE,ancestor,184,Ann Neave 184
+Q105881956,Elizabeth Freeman,FALSE,ancestor,185,Elizabeth Freeman 185
+Q105881957,John Freeman,FALSE,ancestor,186,John Freeman 186
+Q105904628,Rebecca Woolsey,FALSE,ancestor,187,Rebecca Woolsey 187
+Q106630002,Lloyd Preston Gise,FALSE,ancestor,188,Lloyd Preston Gise 188
+Q106630003,Rebecca Mabel Hall,FALSE,ancestor,189,Rebecca Mabel Hall 189
+Q106630007,Henrietta Trammell,FALSE,ancestor,190,Henrietta Trammell 190
+Q106630009,Thomas King Hall,FALSE,ancestor,191,Thomas King Hall 191
+Q106630013,Yancy Clarence Straight (Strait),FALSE,ancestor,192,Yancy Clarence Straight (Strait) 192
+Q106630015,Marie A Strait,FALSE,ancestor,193,Marie A Strait 193
+Q106630017,John Joseph Strait,FALSE,ancestor,194,John Joseph Strait 194
+Q106630018,Martha Eudora Strait,FALSE,ancestor,195,Martha Eudora Strait 195
+Q106630021,Robert Hall,FALSE,ancestor,196,Robert Hall 196
+Q106630022,Mary Minerva Polly,FALSE,ancestor,197,Mary Minerva Polly 197
+Q106630024,James Brown Hall,FALSE,ancestor,198,James Brown Hall 198
+Q106630025,Rebecca Hall,FALSE,ancestor,199,Rebecca Hall 199
+Q106630027,"John Gladden King, Sr",FALSE,ancestor,200,"John Gladden King, Sr 200"
+Q106630028,Parmelia Millie King,FALSE,ancestor,201,Parmelia Millie King 201
+Q106630032,John Joseph Strait,FALSE,ancestor,202,John Joseph Strait 202
+Q106630036,Mary S. Boyd,FALSE,ancestor,203,Mary S. Boyd 203
+Q106630037,"James Strait, Sr.",FALSE,ancestor,204,"James Strait, Sr. 204"
+Q106630038,"Margaret ""Peggy"" Strait",FALSE,ancestor,205,"Margaret ""Peggy"" Strait 205"
+Q106630039,James Boyd,FALSE,ancestor,206,James Boyd 206
+Q106630040,"Margaret ""Mary"" Lewis",FALSE,ancestor,207,"Margaret ""Mary"" Lewis 207"
+Q106630046,"Christopher Strait, Sr.",FALSE,ancestor,208,"Christopher Strait, Sr. 208"
+Q106630047,Mary Strait,FALSE,ancestor,209,Mary Strait 209
+Q106630048,Johann L. Strait,FALSE,ancestor,210,Johann L. Strait 210
+Q106630050,Margaret Elizabeth Mannesse,FALSE,ancestor,211,Margaret Elizabeth Mannesse 211
+Q106630051,"Henry J Huddleston, Jr.",FALSE,ancestor,212,"Henry J Huddleston, Jr. 212"
+Q106630052,Mary Huddleston,FALSE,ancestor,213,Mary Huddleston 213
+Q106634326,William James Thompson,FALSE,ancestor,214,William James Thompson 214
+Q106634327,Ida Thompson,FALSE,ancestor,215,Ida Thompson 215
+Q106634328,Barker Lovell Thompson,FALSE,ancestor,216,Barker Lovell Thompson 216
+Q106634329,Caroline M Thompson,FALSE,ancestor,217,Caroline M Thompson 217
+Q106634331,John Theophilus Medcalf,FALSE,ancestor,218,John Theophilus Medcalf 218
+Q106634332,Susan Elizabeth Medcalf,FALSE,ancestor,219,Susan Elizabeth Medcalf 219
+Q106634341,William Medcalf,FALSE,ancestor,220,William Medcalf 220
+Q106634342,Martha Ann Medcalf,FALSE,ancestor,221,Martha Ann Medcalf 221
+Q106634343,William Medcalf,FALSE,ancestor,222,William Medcalf 222
+Q106634344,Martha Medcalf,FALSE,ancestor,223,Martha Medcalf 223
+Q106634345,William Binns,FALSE,ancestor,224,William Binns 224
+Q106634346,Elizabeth Binns,FALSE,ancestor,225,Elizabeth Binns 225
+Q106703059,"John Done, of Utkinton",FALSE,ancestor,226,"John Done, of Utkinton 226"
+Q106703060,"Elizabeth Dutton, of Dutton",FALSE,ancestor,227,"Elizabeth Dutton, of Dutton 227"
+Q107182929,Sarah Buck,FALSE,ancestor,228,Sarah Buck 228
+Q107182930,Patience Morton,FALSE,ancestor,229,Patience Morton 229
+Q107273446,William Hooker Rice,FALSE,ancestor,230,William Hooker Rice 230
+Q107273447,Charles Rice,FALSE,ancestor,231,Charles Rice 231
+Q107273448,Sarah Rice,FALSE,ancestor,232,Sarah Rice 232
+Q107273451,Isabella Rice,FALSE,ancestor,233,Isabella Rice 233
+Q107273453,John Sanderson,FALSE,ancestor,234,John Sanderson 234
+Q107273455,Elizabeth Sanderson,FALSE,ancestor,235,Elizabeth Sanderson 235
+Q107273461,Julius Hopkins Rice,FALSE,ancestor,236,Julius Hopkins Rice 236
+Q107273462,Rowena Rice,FALSE,ancestor,237,Rowena Rice 237
+Q107273463,NN Rice,FALSE,ancestor,238,NN Rice 238
+Q107273464,Seth Rice,FALSE,ancestor,239,Seth Rice 239
+Q107273475,Seth Rice,FALSE,ancestor,240,Seth Rice 240
+Q107273479,Adonijah Rice,FALSE,ancestor,241,Adonijah Rice 241
+Q107273491,Sarah Rice (Lynde),FALSE,ancestor,242,Sarah Rice (Lynde) 242
+Q107273510,Mary Willet Ried Newman,FALSE,ancestor,243,Mary Willet Ried Newman 243
+Q107273516,Thomas N. Ried,FALSE,ancestor,244,Thomas N. Ried 244
+Q107276944,"Thomas|John Hody (Huddy), of Kington Magna",FALSE,ancestor,245,"Thomas|John Hody (Huddy), of Kington Magna 245"
+Q107276946,Adam Hody,FALSE,ancestor,246,Adam Hody 246
+Q107276949,Isabel Gilbarde,FALSE,ancestor,247,Isabel Gilbarde 247
+Q107276950,Margaret Cole,FALSE,ancestor,248,Margaret Cole 248
+Q107276954,"John Cole, of Nethaway",FALSE,ancestor,249,"John Cole, of Nethaway 249"
+Q107276960,Margaret,FALSE,ancestor,250,Margaret 250
+Q107279030,Anne|Mary Sidney,FALSE,ancestor,251,Anne|Mary Sidney 251
+Q107279039,Joan Bellers (Beler),FALSE,ancestor,252,Joan Bellers (Beler) 252
+Q108102594,William Hallett Jr.,FALSE,ancestor,253,William Hallett Jr. 253
+Q108102597,Sarah Hallett,FALSE,ancestor,254,Sarah Hallett 254
+Q108852636,"Gerard Spencer, II",FALSE,ancestor,255,"Gerard Spencer, II 255"
+Q109852954,Katherine|Catherine de Drayton,FALSE,ancestor,256,Katherine|Catherine de Drayton 256
+Q109852963,Maud Mauduit,FALSE,ancestor,257,Maud Mauduit 257
+Q109852964,"Sir Thomas de Mauduit, of Warminster",FALSE,ancestor,258,"Sir Thomas de Mauduit, of Warminster 258"
+Q109852970,Joan,FALSE,ancestor,259,Joan 259
+Q110067842,Margred ferch Madog ab Elise ab Iorwerth,FALSE,ancestor,260,Margred ferch Madog ab Elise ab Iorwerth 260
+Q110067846,Gwerful ferch Tudur Fychan ap Gronwy,FALSE,ancestor,261,Gwerful ferch Tudur Fychan ap Gronwy 261
+Q110103440,Robert Shelley,FALSE,ancestor,262,Robert Shelley 262
+Q110103442,Elizabeth Petit,FALSE,ancestor,263,Elizabeth Petit 263
+Q110103578,NN,FALSE,ancestor,264,NN 264
+Q110103583,"William Sidney, of Penshurst",FALSE,ancestor,265,"William Sidney, of Penshurst 265"
+Q110103591,"William D'Oilly, of Hughenden",FALSE,ancestor,266,"William D'Oilly, of Hughenden 266"
+Q110290233,Gwenhwyfar ferch Llywelyn ab Edmund ap gruffudd,FALSE,ancestor,267,Gwenhwyfar ferch Llywelyn ab Edmund ap gruffudd 267
+Q110290234,Llywelyn ab Edmund ap Gruffudd ab Ednyfed,FALSE,ancestor,268,Llywelyn ab Edmund ap Gruffudd ab Ednyfed 268
+Q110290288,Gwenhwyfar ferch Ynyr Fychan,FALSE,ancestor,269,Gwenhwyfar ferch Ynyr Fychan 269
+Q110290321,Gruffudd ap Hywel Coetmor ap Gruffudd Fychan ap Gruffudd of Penmachno,FALSE,ancestor,270,Gruffudd ap Hywel Coetmor ap Gruffudd Fychan ap Gruffudd of Penmachno 270
+Q110290322,Hywel Coetmor ap Gruffudd Fychan ap Gruffudd ap Dafydd Gôch,FALSE,ancestor,271,Hywel Coetmor ap Gruffudd Fychan ap Gruffudd ap Dafydd Gôch 271
+Q110290323,Gwenllian ferch Rhys ap Robert ap Gruffudd,FALSE,ancestor,272,Gwenllian ferch Rhys ap Robert ap Gruffudd 272
+Q110290324,Myfanwy ferch Llywelyn ab Owain Hên ap Gruffudd,FALSE,ancestor,273,Myfanwy ferch Llywelyn ab Owain Hên ap Gruffudd 273
+Q110290325,Llywelyn ab Owain Hên ap Gruffudd ab Owain of Cae'rgerrig,FALSE,ancestor,274,Llywelyn ab Owain Hên ap Gruffudd ab Owain of Cae'rgerrig 274
+Q110290326,Angharad ferch Gronwy ap Tudur ap Dafydd,FALSE,ancestor,275,Angharad ferch Gronwy ap Tudur ap Dafydd 275
+Q110290327,Rhys ab Ieuan of Cymer,FALSE,ancestor,276,Rhys ab Ieuan of Cymer 276
+Q110290328,Ieuan of Cymer,FALSE,ancestor,277,Ieuan of Cymer 277
+Q110290366,Rhys ap Gruffudd ap Madog Gloddaith ap Madog Fychan of Gloddaeth,FALSE,ancestor,278,Rhys ap Gruffudd ap Madog Gloddaith ap Madog Fychan of Gloddaeth 278
+Q110290367,Gwerful Gôch ferch Dafydd Fychan ap Dafydd Llwyd ap Cynwrig of Trefeilir,FALSE,ancestor,279,Gwerful Gôch ferch Dafydd Fychan ap Dafydd Llwyd ap Cynwrig of Trefeilir 279
+Q110290410,Dafydd ap Madog ap Meurig ap Dafydd,FALSE,ancestor,280,Dafydd ap Madog ap Meurig ap Dafydd 280
+Q110290411,Madog ap Meurig ap Dafydd ap Llywarch,FALSE,ancestor,281,Madog ap Meurig ap Dafydd ap Llywarch 281
+Q110290412,Ieuan ab Einion Grach ap Llywarch,FALSE,ancestor,282,Ieuan ab Einion Grach ap Llywarch 282
+Q110290413,Einion Grach ap Llywarch,FALSE,ancestor,283,Einion Grach ap Llywarch 283
+Q110290421,Gruffudd Fychan ap Gruffudd ap Dafydd Gôch,FALSE,ancestor,284,Gruffudd Fychan ap Gruffudd ap Dafydd Gôch 284
+Q110290454,Tudur ap Dafydd Fychan ap Dafydd ab Einion Fychan of Betws-yn-Rhôs,FALSE,ancestor,285,Tudur ap Dafydd Fychan ap Dafydd ab Einion Fychan of Betws-yn-Rhôs 285
+Q110290455,Angharad ferch Llywelyn ap Gronwy Fychan ap Gronwy,FALSE,ancestor,286,Angharad ferch Llywelyn ap Gronwy Fychan ap Gronwy 286
+Q110290456,Gwenllian ferch Rhys ap Gruffudd ap Madog ap Madog Fychan of Gloddaeth,FALSE,ancestor,287,Gwenllian ferch Rhys ap Gruffudd ap Madog ap Madog Fychan of Gloddaeth 287
+Q110290457,Ralph Salusbury,FALSE,ancestor,288,Ralph Salusbury 288
+Q110290458,Margred ferch Ieuan ap Cadwgan ap Llywarch Fychan,FALSE,ancestor,289,Margred ferch Ieuan ap Cadwgan ap Llywarch Fychan 289
+Q110290459,Sir John Curteis (Courtois),FALSE,ancestor,290,Sir John Curteis (Courtois) 290
+Q110290483,Meurig Llwyd ap Meurig Fychan ab Ynyr Fychan ab Ynyr of Nannau,FALSE,ancestor,291,Meurig Llwyd ap Meurig Fychan ab Ynyr Fychan ab Ynyr of Nannau 291
+Q110290485,Mallt ferch Hywel Pickill ap Meurig ap Sandde ap Dafydd,FALSE,ancestor,292,Mallt ferch Hywel Pickill ap Meurig ap Sandde ap Dafydd 292
+Q110290493,Mallt ferch Madog Gloddaith ap Madog Fychan ap Madog,FALSE,ancestor,293,Mallt ferch Madog Gloddaith ap Madog Fychan ap Madog 293
+Q110290494,Gruffudd ap Gronwy ap Hywel ap Cynwrig,FALSE,ancestor,294,Gruffudd ap Gronwy ap Hywel ap Cynwrig 294
+Q110290495,Tangwystl ferch Gwrgeneu Fychan ap Gwrgeneu ap Meurig,FALSE,ancestor,295,Tangwystl ferch Gwrgeneu Fychan ap Gwrgeneu ap Meurig 295
+Q110290503,Tudur ab Ithel Fychan ab Ithel Llwyd ab Ithel Gam ap Maredudd,FALSE,ancestor,296,Tudur ab Ithel Fychan ab Ithel Llwyd ab Ithel Gam ap Maredudd 296
+Q110290504,Erddylad ferch Madog ap Llywelyn ap Griffi ap Cadwgan,FALSE,ancestor,297,Erddylad ferch Madog ap Llywelyn ap Griffi ap Cadwgan 297
+Q110290505,Edmund ap Gruffudd ab Endyfed ap Gruffudd,FALSE,ancestor,298,Edmund ap Gruffudd ab Endyfed ap Gruffudd 298
+Q110290793,William Salusbury,FALSE,ancestor,299,William Salusbury 299
+Q110290794,Ieuan ap Cadwgan ap Llywarch Fychan ap Llywarch Gôch,FALSE,ancestor,300,Ieuan ap Cadwgan ap Llywarch Fychan ap Llywarch Gôch 300
+Q110290795,Sir Arthur Curteis (Courtois),FALSE,ancestor,301,Sir Arthur Curteis (Courtois) 301
+Q110290796,"John Donne (Done), of Utkinton",FALSE,ancestor,302,"John Donne (Done), of Utkinton 302"
+Q110290797,Agnes de Helton,FALSE,ancestor,303,Agnes de Helton 303
+Q110315924,"Richard Wakehurst, of Ardingley",FALSE,ancestor,304,"Richard Wakehurst, of Ardingley 304"
+Q110315926,"Elizabeth Etchingham, of Dixter",FALSE,ancestor,305,"Elizabeth Etchingham, of Dixter 305"
+Q110315929,Roger de Stockport,FALSE,ancestor,306,Roger de Stockport 306
+Q110316014,"Gilbert Hawkwood, of Hedington Sible",FALSE,ancestor,307,"Gilbert Hawkwood, of Hedington Sible 307"
+Q110388722,Lleucu ferch Gronwy ap Gruffudd ap Madog,FALSE,ancestor,308,Lleucu ferch Gronwy ap Gruffudd ap Madog 308
+Q110426941,John Petit,FALSE,ancestor,309,John Petit 309
+Q110426943,"Sir Thomas Sackville, of Buckhurst",FALSE,ancestor,310,"Sir Thomas Sackville, of Buckhurst 310"
+Q110426946,Margaret Dallingridge,FALSE,ancestor,311,Margaret Dallingridge 311
+Q110441213,Rev. Huw Humphreys,FALSE,ancestor,312,Rev. Huw Humphreys 312
+Q110441214,Jane ferch Thomas Hughes,FALSE,ancestor,313,Jane ferch Thomas Hughes 313
+Q110441658,Lleuki ferch Cynwrig Sais ab Ithel Fychan ab Ithel Llwyd,FALSE,ancestor,314,Lleuki ferch Cynwrig Sais ab Ithel Fychan ab Ithel Llwyd 314
+Q110503411,John Drake,FALSE,ancestor,315,John Drake 315
+Q110503412,Hannah Moore,FALSE,ancestor,316,Hannah Moore 316
+Q110582468,Llywelyn ap Gronwy Fychan ap Gronwy ab Ednyfed Fychan,FALSE,ancestor,317,Llywelyn ap Gronwy Fychan ap Gronwy ab Ednyfed Fychan 317
+Q110582483,Gwerful ferch Robert ap Gruffudd ap Hywel,FALSE,ancestor,318,Gwerful ferch Robert ap Gruffudd ap Hywel 318
+Q110635501,Gruffudd Gôch ab Adda ap Madog ap Maredudd,FALSE,ancestor,319,Gruffudd Gôch ab Adda ap Madog ap Maredudd 319
+Q110635502,NN ferch Brochdun,FALSE,ancestor,320,NN ferch Brochdun 320
+Q110635503,Angharad ferch Tudur ap Dafydd ap Tudur,FALSE,ancestor,321,Angharad ferch Tudur ap Dafydd ap Tudur 321
+Q110636422,Gwladus ferch Gruffudd ap Hywel Y Pedolau ap Gruffudd,FALSE,ancestor,322,Gwladus ferch Gruffudd ap Hywel Y Pedolau ap Gruffudd 322
+Q110636451,Hywel ap Llywelyn ap Gruffudd,FALSE,ancestor,323,Hywel ap Llywelyn ap Gruffudd 323
+Q110636453,Llywelyn ap Gruffudd,FALSE,ancestor,324,Llywelyn ap Gruffudd 324
+Q110636772,Dafydd Fychan ap Dafydd ab Einion Fychan ab Einion Ddû,FALSE,ancestor,325,Dafydd Fychan ap Dafydd ab Einion Fychan ab Einion Ddû 325
+Q110636774,Gwerful ferch Adda ap Gruffudd ap Madog,FALSE,ancestor,326,Gwerful ferch Adda ap Gruffudd ap Madog 326
+Q110730709,Sir William de Guildford,FALSE,ancestor,327,Sir William de Guildford 327
+Q110730710,Sir John de Halden,FALSE,ancestor,328,Sir John de Halden 328
+Q111444008,"John Whethill, of Wethill, Salop",FALSE,ancestor,329,"John Whethill, of Wethill, Salop 329"
+Q111466684,John de Cornhill (Cornwall|Cornwell),FALSE,ancestor,330,John de Cornhill (Cornwall|Cornwell) 330
+Q111466689,Matilda|Elizabeth,FALSE,ancestor,331,Matilda|Elizabeth 331
+Q114341843,Frances Barnard,FALSE,ancestor,332,Frances Barnard 332
+Q114797157,Sgt. John Dickinson,FALSE,ancestor,333,Sgt. John Dickinson 333
+Q114797163,Sarah Foote,FALSE,ancestor,334,Sarah Foote 334
+Q114797165,Mercy Chamberlin,FALSE,ancestor,335,Mercy Chamberlin 335
+Q114797983,Jeremiah Keeler,FALSE,ancestor,336,Jeremiah Keeler 336
+Q114797984,"Jonah Keeler, Jr.",FALSE,ancestor,337,"Jonah Keeler, Jr. 337"
+Q115287292,Rachel Smith,FALSE,ancestor,338,Rachel Smith 338
+Q115575171,John Spencer,FALSE,ancestor,339,John Spencer 339
+Q115656445,David Barber,FALSE,ancestor,340,David Barber 340
+Q115656448,Ruth Barber,FALSE,ancestor,341,Ruth Barber 341
+Q115714596,John Jermyn,FALSE,ancestor,342,John Jermyn 342
+Q115714609,Joane,FALSE,ancestor,343,Joane 343
+Q115714610,"Gilbert Bernard, of Isleham",FALSE,ancestor,344,"Gilbert Bernard, of Isleham 344"
+Q115714616,Claricia,FALSE,ancestor,345,Claricia 345
+Q115779523,Deborah Collamore,FALSE,ancestor,346,Deborah Collamore 346
+Q115779524,Samuel Collamore,FALSE,ancestor,347,Samuel Collamore 347
+Q115779527,Susanah Collamore (Oakman),FALSE,ancestor,348,Susanah Collamore (Oakman) 348
+Q115779539,"Collamer, I",FALSE,ancestor,349,"Collamer, I 349"
+Q115779540,Peter Collamore,FALSE,ancestor,350,Peter Collamore 350
+Q116054296,Elizabeth,FALSE,ancestor,351,Elizabeth 351
+Q116054298,William Mering,FALSE,ancestor,352,William Mering 352
+Q116147492,Owain Hên ap Gruffudd ab Owain,FALSE,ancestor,353,Owain Hên ap Gruffudd ab Owain 353
+Q116147493,NN ferch Cynwrig Fychan ap Cynwrig ap Llywarch,FALSE,ancestor,354,NN ferch Cynwrig Fychan ap Cynwrig ap Llywarch 354
+Q116147503,Gronwy ap Tudur ap Dafydd ap Rhirid,FALSE,ancestor,355,Gronwy ap Tudur ap Dafydd ap Rhirid 355
+Q116147509,Margred ferch Llywelyn Ddû ap Gruffudd ab Iorwerth Foel,FALSE,ancestor,356,Margred ferch Llywelyn Ddû ap Gruffudd ab Iorwerth Foel 356
+Q122260348,John Isaac,FALSE,ancestor,357,John Isaac 357
+Q122260349,Joan Toke,FALSE,ancestor,358,Joan Toke 358
+Q122261816,Aaron Jaqua,FALSE,ancestor,359,Aaron Jaqua 359
+Q122261817,Rebecca House,FALSE,ancestor,360,Rebecca House 360
+Q124913374,William Hallett,FALSE,ancestor,361,William Hallett 361
+Q125223889,"Samuel Barber, I",FALSE,ancestor,362,"Samuel Barber, I 362"
+Q126098269,George Bledsoe,FALSE,ancestor,363,George Bledsoe 363
+Q126098283,Captain William Bledsoe,FALSE,ancestor,364,Captain William Bledsoe 364
+Q130215751,Hannah Cave,FALSE,ancestor,365,Hannah Cave 365
+Q130728660,Susanna Duvall,FALSE,ancestor,366,Susanna Duvall 366
+Q131154569,Mary Maynard,FALSE,ancestor,367,Mary Maynard 367
+Q131299975,Edward Ketcham,FALSE,ancestor,368,Edward Ketcham 368
+Q131300007,"Nathaniel Buffett, Jr.",FALSE,ancestor,369,"Nathaniel Buffett, Jr. 369"
+Q131300008,Temperance Buffett,FALSE,ancestor,370,Temperance Buffett 370
+Q131300011,"Zebulon Whitman, Sr.",FALSE,ancestor,371,"Zebulon Whitman, Sr. 371"
+Q131300012,Sarah Whitman,FALSE,ancestor,372,Sarah Whitman 372
+Q135286429,"Nathaniel Buffett, Sr.",FALSE,ancestor,373,"Nathaniel Buffett, Sr. 373"
+Q135286431,Hannah Buffett,FALSE,ancestor,374,Hannah Buffett 374
+Q135286433,Samuel Titus,FALSE,ancestor,375,Samuel Titus 375
+Q15441865,John Lisle,FALSE,ancestor,376,John Lisle 376
+Q15452170,Walter Woodworth,FALSE,ancestor,377,Walter Woodworth 377
+Q15713261,Thomas St Clere,FALSE,ancestor,378,Thomas St Clere 378
+Q15791098,Carl Victor Page,FALSE,ancestor,379,Carl Victor Page 379
+Q15917318,Mark Sension,FALSE,ancestor,380,Mark Sension 380
+Q16204119,"Henry Scrope, 1st Baron Scrope of Masham",FALSE,ancestor,381,"Henry Scrope, 1st Baron Scrope of Masham 381"
+Q16833647,James Draper,FALSE,ancestor,382,James Draper 382
+Q16845627,Anthony Hungerford,FALSE,ancestor,383,Anthony Hungerford 383
+Q16851845,Samuel Keeler,FALSE,ancestor,384,Samuel Keeler 384
+Q16851864,Ralph Keeler,FALSE,ancestor,385,Ralph Keeler 385
+Q16854049,"Matthew Marvin, Sr.",FALSE,ancestor,386,"Matthew Marvin, Sr. 386"
+Q16854052,"Matthias Sention, Sr.",FALSE,ancestor,387,"Matthias Sention, Sr. 387"
+Q16854175,Samuel Smith,FALSE,ancestor,388,Samuel Smith 388
+Q16859779,Nathaniel Foote,FALSE,ancestor,389,Nathaniel Foote 389
+Q16863395,William Mountfort,FALSE,ancestor,390,William Mountfort 390
+Q17138715,Elizabeth Segrave,FALSE,ancestor,391,Elizabeth Segrave 391
+Q17479484,Richard Wydeville,FALSE,ancestor,392,Richard Wydeville 392
+Q18527485,Robert Willoughby,FALSE,ancestor,393,Robert Willoughby 393
+Q18528815,Thomas Blount,FALSE,ancestor,394,Thomas Blount 394
+Q18530899,Thomas Umfraville,FALSE,ancestor,395,Thomas Umfraville 395
+Q18534239,Nicholas Harrington,FALSE,ancestor,396,Nicholas Harrington 396
+Q18535774,Lowri ferch Gruffudd Fychan,FALSE,ancestor,397,Lowri ferch Gruffudd Fychan 397
+Q18671323,George Phillips,FALSE,ancestor,398,George Phillips 398
+Q18671789,Sir John Harrington,FALSE,ancestor,399,Sir John Harrington 399
+Q18672619,Thomas Mallory,FALSE,ancestor,400,Thomas Mallory 400
+Q18681528,Richard Croft,FALSE,ancestor,401,Richard Croft 401
+Q18730241,Edward Stradling,FALSE,ancestor,402,Edward Stradling 402
+Q18821787,Gwilym ap Gruffudd,FALSE,ancestor,403,Gwilym ap Gruffudd 403
+Q18875291,Baldwin Mountford,FALSE,ancestor,404,Baldwin Mountford 404
+Q18917711,William Stradling,FALSE,ancestor,405,William Stradling 405
+Q19288283,Nathaniel Dickinson,FALSE,ancestor,406,Nathaniel Dickinson 406
+Q20900225,Edward Zuckerberg,FALSE,ancestor,407,Edward Zuckerberg 407
+Q20900226,Karen Kempner,FALSE,ancestor,408,Karen Kempner 408
+Q22815213,Marged ferch Tomos,FALSE,ancestor,409,Marged ferch Tomos 409
+Q2350777,Gruffudd Fychan II,FALSE,ancestor,410,Gruffudd Fychan II 410
+Q23822714,George Gale,FALSE,ancestor,411,George Gale 411
+Q24289596,William Berkeley,FALSE,ancestor,412,William Berkeley 412
+Q256075,Helen Robson Walton,FALSE,ancestor,413,Helen Robson Walton 413
+Q2581065,"William Willoughby, 5. Baron Willoughby de Eresby",FALSE,ancestor,414,"William Willoughby, 5. Baron Willoughby de Eresby 414"
+Q26221371,Isabel de Mowbray,FALSE,ancestor,415,Isabel de Mowbray 415
+Q26265546,Thomas Walwyn,FALSE,ancestor,416,Thomas Walwyn 416
+Q26709200,Humphrey Stafford,FALSE,ancestor,417,Humphrey Stafford 417
+Q26710506,Ralph Stafford,FALSE,ancestor,418,Ralph Stafford 418
+Q27956858,"Maurice Berkeley, 3rd Baron Berkeley",FALSE,ancestor,419,"Maurice Berkeley, 3rd Baron Berkeley 419"
+Q27990227,John Stradling,FALSE,ancestor,420,John Stradling 420
+Q28064904,Maurice Berkeley,FALSE,ancestor,421,Maurice Berkeley 421
+Q28321610,John Aylesbury,FALSE,ancestor,422,John Aylesbury 422
+Q28321690,Thomas Aylesbury,FALSE,ancestor,423,Thomas Aylesbury 423
+Q289571,Alice Walton,TRUE,seed list,424,Alice Walton 424
+Q28971193,Philip Mede,FALSE,ancestor,425,Philip Mede 425
+Q29025403,Edward Burnell,FALSE,ancestor,426,Edward Burnell 426
+Q3012329,"John de Grey, 2nd Baron Grey de Rotherfield",FALSE,ancestor,427,"John de Grey, 2nd Baron Grey de Rotherfield 427"
+Q30302765,Florence Spellman,FALSE,ancestor,428,Florence Spellman 428
+Q312556,Jeff Bezos,TRUE,seed list,429,Jeff Bezos 429
+Q323446,John Hawkwood,FALSE,ancestor,430,John Hawkwood 430
+Q348932,"Richard FitzAlan, 11. Earl of Arundel",FALSE,ancestor,431,"Richard FitzAlan, 11. Earl of Arundel 431"
+Q36215,Mark Zuckerberg,TRUE,seed list,432,Mark Zuckerberg 432
+Q3806461,"James Berkeley, 1. Baron Berkeley",FALSE,ancestor,433,"James Berkeley, 1. Baron Berkeley 433"
+Q454928,Mary Maxwell Gates,FALSE,ancestor,434,Mary Maxwell Gates 434
+Q47213,Warren Buffett,TRUE,seed list,435,Warren Buffett 435
+Q4725858,Alice FitzAlan,FALSE,ancestor,436,Alice FitzAlan 436
+Q4725958,Alice Lisle,FALSE,ancestor,437,Alice Lisle 437
+Q4934,Larry Page,TRUE,seed list,438,Larry Page 438
+Q497827,Sam Walton,FALSE,ancestor,439,Sam Walton 439
+Q51862142,Thomas Umfraville,FALSE,ancestor,440,Thomas Umfraville 440
+Q52083630,John Danvers,FALSE,ancestor,441,John Danvers 441
+Q52435837,Richard Tempest,FALSE,ancestor,442,Richard Tempest 442
+Q52437919,Kynard de la Bere,FALSE,ancestor,443,Kynard de la Bere 443
+Q5284,Bill Gates,TRUE,seed list,444,Bill Gates 444
+Q52846541,John Hungerford,FALSE,ancestor,445,John Hungerford 445
+Q5342627,Edward Doty,FALSE,ancestor,446,Edward Doty 446
+Q5362776,Elizabeth FitzAlan,FALSE,ancestor,447,Elizabeth FitzAlan 447
+Q5362782,Elizabeth Fones,FALSE,ancestor,448,Elizabeth Fones 448
+Q5363791,"Elizabeth de Bohun, Countess of Arundel",FALSE,ancestor,449,"Elizabeth de Bohun, Countess of Arundel 449"
+Q5363805,"Elizabeth le Despenser, Baroness Berkeley",FALSE,ancestor,450,"Elizabeth le Despenser, Baroness Berkeley 450"
+Q53649941,John Burdet,FALSE,ancestor,451,John Burdet 451
+Q53650143,Elizabeth Stafford,FALSE,ancestor,452,Elizabeth Stafford 452
+Q5542649,George Morton,FALSE,ancestor,453,George Morton 453
+Q5553473,Gervase Clifton,FALSE,ancestor,454,Gervase Clifton 454
+Q5560881,Gilbert Denys,FALSE,ancestor,455,Gilbert Denys 455
+Q55979202,Leila Stahl Buffett,FALSE,ancestor,456,Leila Stahl Buffett 456
+Q56006558,Adam Winthrop,FALSE,ancestor,457,Adam Winthrop 457
+Q56176617,Einion ap Gruffudd,FALSE,ancestor,458,Einion ap Gruffudd 458
+Q56178921,Ieuan ap Adda ap Iorwerth,FALSE,ancestor,459,Ieuan ap Adda ap Iorwerth 459
+Q5721272,"Henry FitzHugh, 3rd Baron FitzHugh",FALSE,ancestor,460,"Henry FitzHugh, 3rd Baron FitzHugh 460"
+Q5722186,Henry Green,FALSE,ancestor,461,Henry Green 461
+Q5722188,Henry Green,FALSE,ancestor,462,Henry Green 462
+Q61278545,John de Wydeville of Grafton,FALSE,ancestor,463,John de Wydeville of Grafton 463
+Q61278546,Isabella Gobion,FALSE,ancestor,464,Isabella Gobion 464
+Q61278555,Joan Bedlisgate,FALSE,ancestor,465,Joan Bedlisgate 465
+Q61278561,John Bedlisgate,FALSE,ancestor,466,John Bedlisgate 466
+Q61278562,Joan Beauchamp,FALSE,ancestor,467,Joan Beauchamp 467
+Q61895870,Richard Knollys,FALSE,ancestor,468,Richard Knollys 468
+Q61895872,Margaret d'Oyley,FALSE,ancestor,469,Margaret d'Oyley 469
+Q61911767,Sir John Guildford,FALSE,ancestor,470,Sir John Guildford 470
+Q61911768,Alice Waller,FALSE,ancestor,471,Alice Waller 471
+Q61913340,Henry Belknap,FALSE,ancestor,472,Henry Belknap 472
+Q61913341,Margaret Knollys,FALSE,ancestor,473,Margaret Knollys 473
+Q61962932,Lucy Lestrange,FALSE,ancestor,474,Lucy Lestrange 474
+Q61962936,Alice Skipwith,FALSE,ancestor,475,Alice Skipwith 475
+Q61962943,"Roger le Strange, 5th Baron Strange",FALSE,ancestor,476,"Roger le Strange, 5th Baron Strange 476"
+Q61962945,Aline Fitzalan,FALSE,ancestor,477,Aline Fitzalan 477
+Q61971044,"Henry FitzHugh, 2nd Lord FitzHugh",FALSE,ancestor,478,"Henry FitzHugh, 2nd Lord FitzHugh 478"
+Q61971723,Joan de Fourneux,FALSE,ancestor,479,Joan de Fourneux 479
+Q61971749,Joan le Scrope,FALSE,ancestor,480,Joan le Scrope 480
+Q61971756,"Henry FitzHugh, 1st Lord FitzHugh",FALSE,ancestor,481,"Henry FitzHugh, 1st Lord FitzHugh 481"
+Q6239497,John Hody,FALSE,ancestor,482,John Hody 482
+Q6240414,John Hungerford,FALSE,ancestor,483,John Hungerford 483
+Q6257369,John Seymour,FALSE,ancestor,484,John Seymour 484
+Q6257374,John Seymour,FALSE,ancestor,485,John Seymour 485
+Q6265603,"John Mowbray, 4. Baron Mowbray",FALSE,ancestor,486,"John Mowbray, 4. Baron Mowbray 486"
+Q6525377,Leonard Hoar,FALSE,ancestor,487,Leonard Hoar 487
+Q6793015,Maurice Denys,FALSE,ancestor,488,Maurice Denys 488
+Q6793454,"Maurice Russell, knight",FALSE,ancestor,489,"Maurice Russell, knight 489"
+Q6793556,"Maurice de Berkeley, 4th Baron Berkeley",FALSE,ancestor,490,"Maurice de Berkeley, 4th Baron Berkeley 490"
+Q6827220,Tudur ap Goronwy,FALSE,ancestor,491,Tudur ap Goronwy 491
+Q684014,William H. Gates senior,FALSE,ancestor,492,William H. Gates senior 492
+Q692927,Mareen Duvall,FALSE,ancestor,493,Mareen Duvall 493
+Q7025528,Nicholas Haute,FALSE,ancestor,494,Nicholas Haute 494
+Q711992,"Thomas Mowbray, 1. Duke of Norfolk",FALSE,ancestor,495,"Thomas Mowbray, 1. Duke of Norfolk 495"
+Q723488,Howard Buffett,FALSE,ancestor,496,Howard Buffett 496
+Q7288314,"Ralph de Cromwell, 1. Baron Cromwell",FALSE,ancestor,497,"Ralph de Cromwell, 1. Baron Cromwell 497"
+Q7321853,Rhys ap Tudur,FALSE,ancestor,498,Rhys ap Tudur 498
+Q7324124,Richard Berkeley,FALSE,ancestor,499,Richard Berkeley 499
+Q7328093,Richard Norton,FALSE,ancestor,500,Richard Norton 500
+Q7329644,Richard Vaughan,FALSE,ancestor,501,Richard Vaughan 501
+Q7341964,Robert Bealknap,FALSE,ancestor,502,Robert Bealknap 502
+Q7349061,Robert Puleston,FALSE,ancestor,503,Robert Puleston 503
+Q7350415,Robert Titus,FALSE,ancestor,504,Robert Titus 504
+Q736477,S. Robson Walton,TRUE,seed list,505,S. Robson Walton 505
+Q7411088,Samuel Chapin,FALSE,ancestor,506,Samuel Chapin 506
+Q741784,Jim Walton,TRUE,seed list,507,Jim Walton 507
+Q75241114,David Fychan,FALSE,ancestor,508,David Fychan 508
+Q75241162,Elizabeth Coker,FALSE,ancestor,509,Elizabeth Coker 509
+Q75241165,Sir George Darell,FALSE,ancestor,510,Sir George Darell 510
+Q75241182,Sir Thomas Tunstall,FALSE,ancestor,511,Sir Thomas Tunstall 511
+Q75241183,Isabel Harrington,FALSE,ancestor,512,Isabel Harrington 512
+Q75241186,Marjery Willoughby,FALSE,ancestor,513,Marjery Willoughby 513
+Q75241198,John Beller,FALSE,ancestor,514,John Beller 514
+Q75241199,Elizabeth Houby,FALSE,ancestor,515,Elizabeth Houby 515
+Q75241201,Anthony Houby,FALSE,ancestor,516,Anthony Houby 516
+Q75241212,Joan Wydevill,FALSE,ancestor,517,Joan Wydevill 517
+Q75241243,Ottwell Worsley,FALSE,ancestor,518,Ottwell Worsley 518
+Q75241245,Rose Trevor,FALSE,ancestor,519,Rose Trevor 519
+Q75241246,Richard Worsley,FALSE,ancestor,520,Richard Worsley 520
+Q75241248,Catherine Clark,FALSE,ancestor,521,Catherine Clark 521
+Q75241249,John Clark,FALSE,ancestor,522,John Clark 522
+Q75241251,Edward Trevor,FALSE,ancestor,523,Edward Trevor 523
+Q75241252,Angharad Puleston,FALSE,ancestor,524,Angharad Puleston 524
+Q75241278,Isabel William,FALSE,ancestor,525,Isabel William 525
+Q75247597,Ieuan ap Gruffudd,FALSE,ancestor,526,Ieuan ap Gruffudd 526
+Q75248132,Joan de Roddam,FALSE,ancestor,527,Joan de Roddam 527
+Q75248170,Agnes (?),FALSE,ancestor,528,Agnes (?) 528
+Q75248230,Margaret de Umfreville,FALSE,ancestor,529,Margaret de Umfreville 529
+Q75248232,John Constable,FALSE,ancestor,530,John Constable 530
+Q75248236,John Constable,FALSE,ancestor,531,John Constable 531
+Q75266880,Joan Beaufort,FALSE,ancestor,532,Joan Beaufort 532
+Q75268794,Sir Renfrey Arundell,FALSE,ancestor,533,Sir Renfrey Arundell 533
+Q75268801,Joan Colshull,FALSE,ancestor,534,Joan Colshull 534
+Q75271437,Isabel Meade,FALSE,ancestor,535,Isabel Meade 535
+Q75271575,Sir James de Berkeley,FALSE,ancestor,536,Sir James de Berkeley 536
+Q75271576,Elizabeth Bluet,FALSE,ancestor,537,Elizabeth Bluet 537
+Q75271577,Sir John Bluet,FALSE,ancestor,538,Sir John Bluet 538
+Q7529771,Sir William Shelley,FALSE,ancestor,539,Sir William Shelley 539
+Q75351169,Elizabeth Clinton,FALSE,ancestor,540,Elizabeth Clinton 540
+Q75382827,Maud de Bernake,FALSE,ancestor,541,Maud de Bernake 541
+Q75400598,Sir John de Beauchamp,FALSE,ancestor,542,Sir John de Beauchamp 542
+Q75400614,Sir Humphrey Stafford,FALSE,ancestor,543,Sir Humphrey Stafford 543
+Q75401034,Catherine de Botetourt,FALSE,ancestor,544,Catherine de Botetourt 544
+Q75401035,Maurice Berkeley,FALSE,ancestor,545,Maurice Berkeley 545
+Q75401038,Maurice Berkeley,FALSE,ancestor,546,Maurice Berkeley 546
+Q75401041,Richard Berkeley,FALSE,ancestor,547,Richard Berkeley 547
+Q75401042,Sir John Berkeley,FALSE,ancestor,548,Sir John Berkeley 548
+Q75418809,Isabel (?),FALSE,ancestor,549,Isabel (?) 549
+Q75418812,Ann Stafford,FALSE,ancestor,550,Ann Stafford 550
+Q75431779,William le Botiler,FALSE,ancestor,551,William le Botiler 551
+Q75443653,"Sir Richard Whetehill, of Calais",FALSE,ancestor,552,"Sir Richard Whetehill, of Calais 552"
+Q75446880,Joan de Sudeley,FALSE,ancestor,553,Joan de Sudeley 553
+Q75453579,Sir White Beconshaw,FALSE,ancestor,554,Sir White Beconshaw 554
+Q75509012,Eleanor Fitzalan,FALSE,ancestor,555,Eleanor Fitzalan 555
+Q75521030,Margaret Burnell,FALSE,ancestor,556,Margaret Burnell 556
+Q75521043,Sir Edmund Hungerford,FALSE,ancestor,557,Sir Edmund Hungerford 557
+Q75541545,Sir John Croker,FALSE,ancestor,558,Sir John Croker 558
+Q75558048,Margery Venables,FALSE,ancestor,559,Margery Venables 559
+Q75558616,Margaret Gresley,FALSE,ancestor,560,Margaret Gresley 560
+Q75560718,Joan la Warre,FALSE,ancestor,561,Joan la Warre 561
+Q75560944,Eleanor Aylesbury,FALSE,ancestor,562,Eleanor Aylesbury 562
+Q75561216,Maud Hastings,FALSE,ancestor,563,Maud Hastings 563
+Q75565179,William Darrell,FALSE,ancestor,564,William Darrell 564
+Q75565180,Elizabeth Calstone,FALSE,ancestor,565,Elizabeth Calstone 565
+Q75565181,Thomas Calstone,FALSE,ancestor,566,Thomas Calstone 566
+Q75574005,Eleanor Fitzhugh,FALSE,ancestor,567,Eleanor Fitzhugh 567
+Q75574313,John Villiers,FALSE,ancestor,568,John Villiers 568
+Q75574315,Joan Mering,FALSE,ancestor,569,Joan Mering 569
+Q75574316,Richard Villiers,FALSE,ancestor,570,Richard Villiers 570
+Q75586457,John Fitzwilliam,FALSE,ancestor,571,John Fitzwilliam 571
+Q75616810,Sir William de Stanley,FALSE,ancestor,572,Sir William de Stanley 572
+Q75616811,Margery de Hooton,FALSE,ancestor,573,Margery de Hooton 573
+Q75645598,Ellen Montfort,FALSE,ancestor,574,Ellen Montfort 574
+Q75645599,Johanna Dinham,FALSE,ancestor,575,Johanna Dinham 575
+Q75645628,Sir John Dinham,FALSE,ancestor,576,Sir John Dinham 576
+Q75655386,Richard Wheathill,FALSE,ancestor,577,Richard Wheathill 577
+Q75670351,Isabel de Bourne,FALSE,ancestor,578,Isabel de Bourne 578
+Q75670355,Sir Thomas de Bourne,FALSE,ancestor,579,Sir Thomas de Bourne 579
+Q75674149,Robert Sexton,FALSE,ancestor,580,Robert Sexton 580
+Q75674455,Rose Sexton,FALSE,ancestor,581,Rose Sexton 581
+Q75717836,Geoffrey Pigot,FALSE,ancestor,582,Geoffrey Pigot 582
+Q75718875,Sir William Darell,FALSE,ancestor,583,Sir William Darell 583
+Q75718877,Emma (?),FALSE,ancestor,584,Emma (?) 584
+Q75764610,Joseph Keeler,FALSE,ancestor,585,Joseph Keeler 585
+Q75764611,Elizabeth Whitney,FALSE,ancestor,586,Elizabeth Whitney 586
+Q75764953,Nathaniel House,FALSE,ancestor,587,Nathaniel House 587
+Q75764954,Hannah Davenport,FALSE,ancestor,588,Hannah Davenport 588
+Q75765686,Robert Foote,FALSE,ancestor,589,Robert Foote 589
+Q75765689,Joan Brooke,FALSE,ancestor,590,Joan Brooke 590
+Q75765691,Elizabeth Deming,FALSE,ancestor,591,Elizabeth Deming 591
+Q75765733,Henry Howland,FALSE,ancestor,592,Henry Howland 592
+Q75765734,Margaret (?),FALSE,ancestor,593,Margaret (?) 593
+Q75765850,Timothy Stanley,FALSE,ancestor,594,Timothy Stanley 594
+Q75765852,Elizabeth (?),FALSE,ancestor,595,Elizabeth (?) 595
+Q75765853,Elizabeth Stanley,FALSE,ancestor,596,Elizabeth Stanley 596
+Q75765858,Sarah St. John,FALSE,ancestor,597,Sarah St. John 597
+Q75765875,Thomas Davenport,FALSE,ancestor,598,Thomas Davenport 598
+Q75765878,Mary (?),FALSE,ancestor,599,Mary (?) 599
+Q75765879,Jonathan Davenport,FALSE,ancestor,600,Jonathan Davenport 600
+Q75765881,Hannah Maynard,FALSE,ancestor,601,Hannah Maynard 601
+Q75769355,Sir John de Croft,FALSE,ancestor,602,Sir John de Croft 602
+Q75769360,Janet Glendower,FALSE,ancestor,603,Janet Glendower 603
+Q75769362,William de Croft,FALSE,ancestor,604,William de Croft 604
+Q75769365,Margaret Walwyn,FALSE,ancestor,605,Margaret Walwyn 605
+Q75769367,Eleanor Cornwall,FALSE,ancestor,606,Eleanor Cornwall 606
+Q75771262,Maud de Cromwell,FALSE,ancestor,607,Maud de Cromwell 607
+Q75771264,Sir William Fitzwilliam,FALSE,ancestor,608,Sir William Fitzwilliam 608
+Q75771265,Sir John Fitzwilliam,FALSE,ancestor,609,Sir John Fitzwilliam 609
+Q75771274,Eleanor Green,FALSE,ancestor,610,Eleanor Green 610
+Q75775677,Thomas de la Barre,FALSE,ancestor,611,Thomas de la Barre 611
+Q75776429,Edmund Cornwall,FALSE,ancestor,612,Edmund Cornwall 612
+Q75776431,Elizabeth de la Barre,FALSE,ancestor,613,Elizabeth de la Barre 613
+Q75776879,Alice Verney,FALSE,ancestor,614,Alice Verney 614
+Q75776882,William Verney,FALSE,ancestor,615,William Verney 615
+Q75792222,Sir John Danvers,FALSE,ancestor,616,Sir John Danvers 616
+Q75793830,Margaret Thwaite,FALSE,ancestor,617,Margaret Thwaite 617
+Q75794116,Sir John Mallory,FALSE,ancestor,618,Sir John Mallory 618
+Q75811436,Sir Thomas Tunstall,FALSE,ancestor,619,Sir Thomas Tunstall 619
+Q75827388,Elizabeth Michaelgrove,FALSE,ancestor,620,Elizabeth Michaelgrove 620
+Q75827556,John Michaelgrove,FALSE,ancestor,621,John Michaelgrove 621
+Q75827558,Richard Sackville,FALSE,ancestor,622,Richard Sackville 622
+Q75860163,Margaret de Peche,FALSE,ancestor,623,Margaret de Peche 623
+Q75860166,Margaret de Clinton,FALSE,ancestor,624,Margaret de Clinton 624
+Q75875908,Isobel St. Barbe,FALSE,ancestor,625,Isobel St. Barbe 625
+Q75908776,Katherine Peverell,FALSE,ancestor,626,Katherine Peverell 626
+Q75926028,Thomas Coningsby,FALSE,ancestor,627,Thomas Coningsby 627
+Q75926032,Blanch Hancliffe,FALSE,ancestor,628,Blanch Hancliffe 628
+Q75926033,Thomas Coningsby,FALSE,ancestor,629,Thomas Coningsby 629
+Q75926035,Elizabeth Whethill,FALSE,ancestor,630,Elizabeth Whethill 630
+Q75926039,Thomas Coningsby,FALSE,ancestor,631,Thomas Coningsby 631
+Q75926163,Katharine Waldiffe,FALSE,ancestor,632,Katharine Waldiffe 632
+Q75926164,Sir Humphrey Coningsby,FALSE,ancestor,633,Sir Humphrey Coningsby 633
+Q75926166,Alice Ferebie,FALSE,ancestor,634,Alice Ferebie 634
+Q75926796,Isabel Elizabeth Dennis,FALSE,ancestor,635,Isabel Elizabeth Dennis 635
+Q75926799,Elizabeth Coningsby,FALSE,ancestor,636,Elizabeth Coningsby 636
+Q75927065,Elizabeth Jermy,FALSE,ancestor,637,Elizabeth Jermy 637
+Q75927113,Mary Berkeley,FALSE,ancestor,638,Mary Berkeley 638
+Q75927688,Bridgett Hungerford,FALSE,ancestor,639,Bridgett Hungerford 639
+Q75927692,Bridgett Lisle,FALSE,ancestor,640,Bridgett Lisle 640
+Q75933581,Elizabeth Grey,FALSE,ancestor,641,Elizabeth Grey 641
+Q75933583,Sir Robert Grey,FALSE,ancestor,642,Sir Robert Grey 642
+Q75933584,Lora de St Quentin,FALSE,ancestor,643,Lora de St Quentin 643
+Q75933586,Sir Herbert de St. Quintin,FALSE,ancestor,644,Sir Herbert de St. Quintin 644
+Q75933748,Richard Waller,FALSE,ancestor,645,Richard Waller 645
+Q75933749,Margaret Gulby,FALSE,ancestor,646,Margaret Gulby 646
+Q75933750,John Waller,FALSE,ancestor,647,John Waller 647
+Q75933752,Margaret Lansdall,FALSE,ancestor,648,Margaret Lansdall 648
+Q75933754,Thomas Waller,FALSE,ancestor,649,Thomas Waller 649
+Q75933755,Christina Chalfont,FALSE,ancestor,650,Christina Chalfont 650
+Q75939754,Thomas Lansdall,FALSE,ancestor,651,Thomas Lansdall 651
+Q75958835,Margaret verch Dafydd,FALSE,ancestor,652,Margaret verch Dafydd 652
+Q75958839,Sir Piers Dutton,FALSE,ancestor,653,Sir Piers Dutton 653
+Q75961221,Hywel ap Iorwerth,FALSE,ancestor,654,Hywel ap Iorwerth 654
+Q75961224,Angharad verch Hywel,FALSE,ancestor,655,Angharad verch Hywel 655
+Q75961225,Hwlcyn ap Hywel,FALSE,ancestor,656,Hwlcyn ap Hywel 656
+Q75961226,Dafydd ab Iorwerth,FALSE,ancestor,657,Dafydd ab Iorwerth 657
+Q75961227,Erddylad ap Dafydd,FALSE,ancestor,658,Erddylad ap Dafydd 658
+Q75961229,Llywelyn ap Hwlcyn,FALSE,ancestor,659,Llywelyn ap Hwlcyn 659
+Q75961231,Ieuan Llwyd ap Gruffudd,FALSE,ancestor,660,Ieuan Llwyd ap Gruffudd 660
+Q75961232,Mali ap Ieuan,FALSE,ancestor,661,Mali ap Ieuan 661
+Q75961234,Meurig ap Llywelyn,FALSE,ancestor,662,Meurig ap Llywelyn 662
+Q75961235,Ieuan Fychan ab Ieuan,FALSE,ancestor,663,Ieuan Fychan ab Ieuan 663
+Q75961236,Margaret verch Ieuan,FALSE,ancestor,664,Margaret verch Ieuan 664
+Q75972653,Sir John Tempest,FALSE,ancestor,665,Sir John Tempest 665
+Q75972655,Margaret de Holand,FALSE,ancestor,666,Margaret de Holand 666
+Q75972661,Sir Richard Tempest,FALSE,ancestor,667,Sir Richard Tempest 667
+Q75972664,Maria Talbot,FALSE,ancestor,668,Maria Talbot 668
+Q75972843,Sir Richard Tempest,FALSE,ancestor,669,Sir Richard Tempest 669
+Q75972847,Sir William Tempest,FALSE,ancestor,670,Sir William Tempest 670
+Q75978217,Joan le Botiler,FALSE,ancestor,671,Joan le Botiler 671
+Q76003679,Margaret de Stainforth,FALSE,ancestor,672,Margaret de Stainforth 672
+Q76003681,Robert de Stainforth,FALSE,ancestor,673,Robert de Stainforth 673
+Q76021504,Anne Browne,FALSE,ancestor,674,Anne Browne 674
+Q76048560,Maredudd ap Hywel ap Dafydd,FALSE,ancestor,675,Maredudd ap Hywel ap Dafydd 675
+Q76048581,Thomas 'Hen' Salesbury,FALSE,ancestor,676,Thomas 'Hen' Salesbury 676
+Q76153757,Mildred Sackville,FALSE,ancestor,677,Mildred Sackville 677
+Q76154814,Sir Thomas Hungerford,FALSE,ancestor,678,Sir Thomas Hungerford 678
+Q76154815,Anthony Hungerford,FALSE,ancestor,679,Anthony Hungerford 679
+Q76154818,Bridget Shelley,FALSE,ancestor,680,Bridget Shelley 680
+Q76165864,John Shelley,FALSE,ancestor,681,John Shelley 681
+Q76165866,Beatrice Hawkwood,FALSE,ancestor,682,Beatrice Hawkwood 682
+Q76165867,John Shelley,FALSE,ancestor,683,John Shelley 683
+Q76165871,Sir Hamon Belknap,FALSE,ancestor,684,Sir Hamon Belknap 684
+Q76165873,Alice Belknap,FALSE,ancestor,685,Alice Belknap 685
+Q76165875,Sir John Shelley,FALSE,ancestor,686,Sir John Shelley 686
+Q76165878,Mary Fitzwilliam,FALSE,ancestor,687,Mary Fitzwilliam 687
+Q76183944,"Thomas le Botiler, 4th Lord Sudeley",FALSE,ancestor,688,"Thomas le Botiler, 4th Lord Sudeley 688"
+Q76183946,Alice Beauchamp,FALSE,ancestor,689,Alice Beauchamp 689
+Q76196593,William Villiers,FALSE,ancestor,690,William Villiers 690
+Q76197501,Thomas Tupper,FALSE,ancestor,691,Thomas Tupper 691
+Q76197503,Thomas Tupper,FALSE,ancestor,692,Thomas Tupper 692
+Q76197507,Martha Mayhew,FALSE,ancestor,693,Martha Mayhew 693
+Q76197509,Eliakim Tupper,FALSE,ancestor,694,Eliakim Tupper 694
+Q76201108,Sir Thomas Harcourt,FALSE,ancestor,695,Sir Thomas Harcourt 695
+Q76201112,Joan Francis,FALSE,ancestor,696,Joan Francis 696
+Q76201125,Sir Richard Harcourt,FALSE,ancestor,697,Sir Richard Harcourt 697
+Q76201129,Edith St. Clere,FALSE,ancestor,698,Edith St. Clere 698
+Q76214368,Gruffudd ap Gwilym,FALSE,ancestor,699,Gruffudd ap Gwilym 699
+Q76214369,Generys ferch Madog,FALSE,ancestor,700,Generys ferch Madog 700
+Q76215134,Morfudd Goch,FALSE,ancestor,701,Morfudd Goch 701
+Q76241017,Thomas de la Haye,FALSE,ancestor,702,Thomas de la Haye 702
+Q76241018,Joan Babthorpe,FALSE,ancestor,703,Joan Babthorpe 703
+Q76273183,Adda ap Iorwerth Ddu,FALSE,ancestor,704,Adda ap Iorwerth Ddu 704
+Q76273186,Ednyfed 'Gam' ab Iorwerth Foel,FALSE,ancestor,705,Ednyfed 'Gam' ab Iorwerth Foel 705
+Q76273214,Gwladus ferch Llywelyn,FALSE,ancestor,706,Gwladus ferch Llywelyn 706
+Q76273216,Adda 'Goch' ap Ieuaf ab Adda,FALSE,ancestor,707,Adda 'Goch' ap Ieuaf ab Adda 707
+Q76273217,Isabel ferch Gruffudd,FALSE,ancestor,708,Isabel ferch Gruffudd 708
+Q76273220,Ednyfed ap Tudor ap Gronwy,FALSE,ancestor,709,Ednyfed ap Tudor ap Gronwy 709
+Q76273222,Angharad ferch Ednyfed ap Tudur,FALSE,ancestor,710,Angharad ferch Ednyfed ap Tudur 710
+Q76277933,Sir William Tunstall,FALSE,ancestor,711,Sir William Tunstall 711
+Q76277934,Isabella English,FALSE,ancestor,712,Isabella English 712
+Q76277935,Sir William English,FALSE,ancestor,713,Sir William English 713
+Q76277936,Katharine Banastre,FALSE,ancestor,714,Katharine Banastre 714
+Q76277944,Ales (?),FALSE,ancestor,715,Ales (?) 715
+Q76283072,Thomas ap Robert Vaughan,FALSE,ancestor,716,Thomas ap Robert Vaughan 716
+Q76327639,John Cornish,FALSE,ancestor,717,John Cornish 717
+Q76329874,Bridget Hoar,FALSE,ancestor,718,Bridget Hoar 718
+Q76329878,Charles Hoare,FALSE,ancestor,719,Charles Hoare 719
+Q76329879,Joanna Hinkesman,FALSE,ancestor,720,Joanna Hinkesman 720
+Q76331283,Elizabeth Vaughan,FALSE,ancestor,721,Elizabeth Vaughan 721
+Q76331285,Thomas Mallory,FALSE,ancestor,722,Thomas Mallory 722
+Q76331439,Alice Corbet,FALSE,ancestor,723,Alice Corbet 723
+Q76331527,Edmund Freeman,FALSE,ancestor,724,Edmund Freeman 724
+Q76336657,Sir Thomas Frowyk,FALSE,ancestor,725,Sir Thomas Frowyk 725
+Q76337455,Joan Sturgeon,FALSE,ancestor,726,Joan Sturgeon 726
+Q76337456,Ricchard Sturgeon,FALSE,ancestor,727,Ricchard Sturgeon 727
+Q76345422,Joan de Cherleton,FALSE,ancestor,728,Joan de Cherleton 728
+Q76353305,John FitzWilliam,FALSE,ancestor,729,John FitzWilliam 729
+Q76353307,Ellen Villiers,FALSE,ancestor,730,Ellen Villiers 730
+Q7787966,Thomas Browne,FALSE,ancestor,731,Thomas Browne 731
+Q7788616,Thomas Cornell,FALSE,ancestor,732,Thomas Cornell 732
+Q7789607,Thomas FitzAlan,FALSE,ancestor,733,Thomas FitzAlan 733
+Q7791577,Thomas Knollys,FALSE,ancestor,734,Thomas Knollys 734
+Q7792250,Thomas Mayhew,FALSE,ancestor,735,Thomas Mayhew 735
+Q7794997,"Thomas West, 1st Baron West",FALSE,ancestor,736,"Thomas West, 1st Baron West 736"
+Q7965192,"Walter Hungerford, 1. Baron Hungerford",FALSE,ancestor,737,"Walter Hungerford, 1. Baron Hungerford 737"
+Q8007781,William Denys,FALSE,ancestor,738,William Denys 738
+Q8009090,"William FitzHugh, 4th Baron FitzHugh",FALSE,ancestor,739,"William FitzHugh, 4th Baron FitzHugh 739"
+Q8009133,William Fitzwilliam,FALSE,ancestor,740,William Fitzwilliam 740
+Q8011017,William Haute,FALSE,ancestor,741,William Haute 741
+Q8014130,William L'Isle,FALSE,ancestor,742,William L'Isle 742
+Q87653589,Anne Berkeley,FALSE,ancestor,743,Anne Berkeley 743
+Q88218120,Anne Winthrop,FALSE,ancestor,744,Anne Winthrop 744
+Q88218243,Thomas Fones,FALSE,ancestor,745,Thomas Fones 745
+Q90162822,Samuel Appleton,FALSE,ancestor,746,Samuel Appleton 746
+Q90162863,Sarah Appleton,FALSE,ancestor,747,Sarah Appleton 747
+Q90163404,Samuel Phillips,FALSE,ancestor,748,Samuel Phillips 748
+Q90177625,Margaret Worsley,FALSE,ancestor,749,Margaret Worsley 749
+Q90177947,Margery Whetehill,FALSE,ancestor,750,Margery Whetehill 750
+Q90178033,Mary Isaac,FALSE,ancestor,751,Mary Isaac 751
+Q91555999,Arthur Howland,FALSE,ancestor,752,Arthur Howland 752
+Q92327581,Edward Doty,FALSE,ancestor,753,Edward Doty 753
+Q92464290,Jacklyn Gise,FALSE,ancestor,754,Jacklyn Gise 754
+Q92597022,Thomas Gibson Walton,FALSE,ancestor,755,Thomas Gibson Walton 755
+Q92759,Larry Ellison,TRUE,seed list,756,Larry Ellison 756
+Q96075442,Katherine de Pabenham,FALSE,ancestor,757,Katherine de Pabenham 757
+Q96075536,Isabel Dyggs,FALSE,ancestor,758,Isabel Dyggs 758
+Q96075542,Humphrey Sackville,FALSE,ancestor,759,Humphrey Sackville 759
+Q96075543,Catherine Browne,FALSE,ancestor,760,Catherine Browne 760
+Q96075552,Joane Moynes,FALSE,ancestor,761,Joane Moynes 761
+Q96076727,Cecily Penny,FALSE,ancestor,762,Cecily Penny 762
+Q96198424,Edward Tyler,FALSE,ancestor,763,Edward Tyler 763
+Q96198425,Robert Tyler,FALSE,ancestor,764,Robert Tyler 764
+Q96198426,Susannah Duvall,FALSE,ancestor,765,Susannah Duvall 765
+Q96198427,Elizabeth Duvall,FALSE,ancestor,766,Elizabeth Duvall 766
+Q96198428,Samuel Duvall,FALSE,ancestor,767,Samuel Duvall 767
+Q96198429,Elizabeth Ijams,FALSE,ancestor,768,Elizabeth Ijams 768
+Q96199103,Robert Day,FALSE,ancestor,769,Robert Day 769
+Q96199106,Editha Stebbins,FALSE,ancestor,770,Editha Stebbins 770
+Q96199474,Thomas Emerson,FALSE,ancestor,771,Thomas Emerson 771
+Q96199475,Philippa Perkins,FALSE,ancestor,772,Philippa Perkins 772
+Q96199478,Jacob Perkins,FALSE,ancestor,773,Jacob Perkins 773
+Q96199479,John Perkins Jr.,FALSE,ancestor,774,John Perkins Jr. 774
+Q96199480,Elizabeth (Westly),FALSE,ancestor,775,Elizabeth (Westly) 775
+Q96199481,Sarah Wainwright,FALSE,ancestor,776,Sarah Wainwright 776
+Q96201178,William Henry Gates,FALSE,ancestor,777,William Henry Gates 777
+Q96201179,William Henry Gates,FALSE,ancestor,778,William Henry Gates 778
+Q96201180,Joseph Stanton Gates,FALSE,ancestor,779,Joseph Stanton Gates 779
+Q96201182,Israel Gates,FALSE,ancestor,780,Israel Gates 780
+Q96201183,Simon Gates,FALSE,ancestor,781,Simon Gates 781
+Q96201184,Caleb Gates,FALSE,ancestor,782,Caleb Gates 782
+Q96201186,Mary Fobes,FALSE,ancestor,783,Mary Fobes 783
+Q96201187,Prudence Billings,FALSE,ancestor,784,Prudence Billings 784
+Q96201189,Ruth,FALSE,ancestor,785,Ruth 785
+Q96201190,Martha Satterlee,FALSE,ancestor,786,Martha Satterlee 786
+Q96201191,Rebecca Eppinhauser,FALSE,ancestor,787,Rebecca Eppinhauser 787
+Q96201192,Lillian Elizabeth Rice,FALSE,ancestor,788,Lillian Elizabeth Rice 788
+Q96201199,James Willard Maxwell,FALSE,ancestor,789,James Willard Maxwell 789
+Q96201200,James Willard Maxwell,FALSE,ancestor,790,James Willard Maxwell 790
+Q96201202,Thomas George Maxwell,FALSE,ancestor,791,Thomas George Maxwell 791
+Q96201203,Louisa Mary Woodworth,FALSE,ancestor,792,Louisa Mary Woodworth 792
+Q96201204,Harvey Woodworth,FALSE,ancestor,793,Harvey Woodworth 793
+Q96201206,Luther Woodworth,FALSE,ancestor,794,Luther Woodworth 794
+Q96201207,Joseph Woodworth,FALSE,ancestor,795,Joseph Woodworth 795
+Q96201208,Sally Gould,FALSE,ancestor,796,Sally Gould 796
+Q96201209,Nancy Couse,FALSE,ancestor,797,Nancy Couse 797
+Q96201210,Emeline (Emily) Keeler Brush,FALSE,ancestor,798,Emeline (Emily) Keeler Brush 798
+Q96201211,George Phillips Brush,FALSE,ancestor,799,George Phillips Brush 799
+Q96201212,Daniel Brush,FALSE,ancestor,800,Daniel Brush 800
+Q96201213,Hannah Phillips,FALSE,ancestor,801,Hannah Phillips 801
+Q96201214,Polly Keeler,FALSE,ancestor,802,Polly Keeler 802
+Q96201215,Belle Oakley,FALSE,ancestor,803,Belle Oakley 803
+Q96201216,Oscar Rodman Oakley,FALSE,ancestor,804,Oscar Rodman Oakley 804
+Q96201217,Gabriel Linch Oakley,FALSE,ancestor,805,Gabriel Linch Oakley 805
+Q96201218,Delia Jane Tupper,FALSE,ancestor,806,Delia Jane Tupper 806
+Q96201219,Chauncey Tupper,FALSE,ancestor,807,Chauncey Tupper 807
+Q96201220,Thomas Tupper,FALSE,ancestor,808,Thomas Tupper 808
+Q96201221,Parthenia Paqua,FALSE,ancestor,809,Parthenia Paqua 809
+Q96201222,Delia Gibbs,FALSE,ancestor,810,Delia Gibbs 810
+Q96201223,Isabella A. Thompson,FALSE,ancestor,811,Isabella A. Thompson 811
+Q96201224,Adele Thompson,FALSE,ancestor,812,Adele Thompson 812
+Q96201228,Samuel Phillips,FALSE,ancestor,813,Samuel Phillips 813
+Q96201229,George Phillips,FALSE,ancestor,814,George Phillips 814
+Q96201230,George Phillips,FALSE,ancestor,815,George Phillips 815
+Q96201232,"Thomas Appleton, of Waldingfield Parva, Suffolk",FALSE,ancestor,816,"Thomas Appleton, of Waldingfield Parva, Suffolk 816"
+Q96201233,"William Appleton, of Waddingfield Parva, Suffolk",FALSE,ancestor,817,"William Appleton, of Waddingfield Parva, Suffolk 817"
+Q96201235,"Edward Isaac, of Well Court",FALSE,ancestor,818,"Edward Isaac, of Well Court 818"
+Q96201236,Judith Everard,FALSE,ancestor,819,Judith Everard 819
+Q96201237,John Everard,FALSE,ancestor,820,John Everard 820
+Q96201238,Thomas Everard,FALSE,ancestor,821,Thomas Everard 821
+Q96201239,Margaret Wiseman,FALSE,ancestor,822,Margaret Wiseman 822
+Q96201240,Judith Bourne,FALSE,ancestor,823,Judith Bourne 823
+Q96201241,Sarah Hallett,FALSE,ancestor,824,Sarah Hallett 824
+Q96201242,Elizabeth Mills,FALSE,ancestor,825,Elizabeth Mills 825
+Q96201243,Sarah Mills,FALSE,ancestor,826,Sarah Mills 826
+Q96201443,Thomas Duvall,FALSE,ancestor,827,Thomas Duvall 827
+Q96201444,Nicola Staggard,FALSE,ancestor,828,Nicola Staggard 828
+Q96201445,Suzanna,FALSE,ancestor,829,Suzanna 829
+Q96201446,William Ijams,FALSE,ancestor,830,William Ijams 830
+Q96201447,Elizabeth Cheney,FALSE,ancestor,831,Elizabeth Cheney 831
+Q96201448,Richard Cheyney,FALSE,ancestor,832,Richard Cheyney 832
+Q96201449,Charity,FALSE,ancestor,833,Charity 833
+Q96209934,John Freeman,FALSE,ancestor,834,John Freeman 834
+Q96209935,Agnes Cocke,FALSE,ancestor,835,Agnes Cocke 835
+Q96209936,Alice Coles,FALSE,ancestor,836,Alice Coles 836
+Q96213065,"Robert Appleton, of Waddingfield",FALSE,ancestor,837,"Robert Appleton, of Waddingfield 837"
+Q96213066,Mary Mountney,FALSE,ancestor,838,Mary Mountney 838
+Q96213070,Agnes Jermyn,FALSE,ancestor,839,Agnes Jermyn 839
+Q96213071,"William Isaac, of Patrixbourne",FALSE,ancestor,840,"William Isaac, of Patrixbourne 840"
+Q96213073,Margery Hawte,FALSE,ancestor,841,Margery Hawte 841
+Q96213075,Elizabeth Muston,FALSE,ancestor,842,Elizabeth Muston 842
+Q96213076,Henry Everard,FALSE,ancestor,843,Henry Everard 843
+Q96213078,NN,FALSE,ancestor,844,NN 844
+Q96215947,John Perkins 'the Elder',FALSE,ancestor,845,John Perkins 'the Elder' 845
+Q96215948,Judith Gater,FALSE,ancestor,846,Judith Gater 846
+Q96216120,Henry Perkins,FALSE,ancestor,847,Henry Perkins 847
+Q96216121,Elizabeth Sawbridge,FALSE,ancestor,848,Elizabeth Sawbridge 848
+Q96216122,Michael Gater,FALSE,ancestor,849,Michael Gater 849
+Q96216502,John Brooke,FALSE,ancestor,850,John Brooke 850
+Q96216503,Elizabeth Whetman,FALSE,ancestor,851,Elizabeth Whetman 851
+Q96216560,Benjamin Day,FALSE,ancestor,852,Benjamin Day 852
+Q96216561,John Day Jr.,FALSE,ancestor,853,John Day Jr. 853
+Q96216562,Grace Spencer,FALSE,ancestor,854,Grace Spencer 854
+Q96216563,Margaret Foote,FALSE,ancestor,855,Margaret Foote 855
+Q96216895,Peter Noyes,FALSE,ancestor,856,Peter Noyes 856
+Q96216896,"Thomas Noyes, of Weyhill",FALSE,ancestor,857,"Thomas Noyes, of Weyhill 857"
+Q96216897,Dorothy,FALSE,ancestor,858,Dorothy 858
+Q96216898,Elizabeth Smith,FALSE,ancestor,859,Elizabeth Smith 859
+Q96216899,Richard Smith,FALSE,ancestor,860,Richard Smith 860
+Q96216900,Julian,FALSE,ancestor,861,Julian 861
+Q96217464,Edward Marvin,FALSE,ancestor,862,Edward Marvin 862
+Q96217465,Margaret,FALSE,ancestor,863,Margaret 863
+Q96217483,Reinold Marvin,FALSE,ancestor,864,Reinold Marvin 864
+Q96217484,John Marvin,FALSE,ancestor,865,John Marvin 865
+Q96217485,Margaret,FALSE,ancestor,866,Margaret 866
+Q96217486,Joan,FALSE,ancestor,867,Joan 867
+Q96219123,Ernest P. Buffett,FALSE,ancestor,868,Ernest P. Buffett 868
+Q96219124,Sidney Homan Buffett,FALSE,ancestor,869,Sidney Homan Buffett 869
+Q96219125,David Nathaniel Buffett,FALSE,ancestor,870,David Nathaniel Buffett 870
+Q96219126,Zebulon Buffett,FALSE,ancestor,871,Zebulon Buffett 871
+Q96219127,Elizabeth Chichester,FALSE,ancestor,872,Elizabeth Chichester 872
+Q96219128,Ebenezer Chichester,FALSE,ancestor,873,Ebenezer Chichester 873
+Q96219129,Eliphalet Chichester,FALSE,ancestor,874,Eliphalet Chichester 874
+Q96219130,Mary Pine,FALSE,ancestor,875,Mary Pine 875
+Q96219131,Keziah Ketcham,FALSE,ancestor,876,Keziah Ketcham 876
+Q96219132,Fanny Maria Homan,FALSE,ancestor,877,Fanny Maria Homan 877
+Q96219133,Evelyn Ketcham,FALSE,ancestor,878,Evelyn Ketcham 878
+Q96219134,Henrietta Duval,FALSE,ancestor,879,Henrietta Duval 879
+Q96219136,John Ammon Stahl,FALSE,ancestor,880,John Ammon Stahl 880
+Q96219137,Stella Frances Barber,FALSE,ancestor,881,Stella Frances Barber 881
+Q96219138,Ford Bela Barber,FALSE,ancestor,882,Ford Bela Barber 882
+Q96219139,Lawrence Barber,FALSE,ancestor,883,Lawrence Barber 883
+Q96219140,Bela Barber,FALSE,ancestor,884,Bela Barber 884
+Q96219141,Stephen Barber,FALSE,ancestor,885,Stephen Barber 885
+Q96219142,Alice Cass,FALSE,ancestor,886,Alice Cass 886
+Q96219143,Margaret Jones,FALSE,ancestor,887,Margaret Jones 887
+Q96219144,Susan Ann Watson,FALSE,ancestor,888,Susan Ann Watson 888
+Q96219145,John Watson,FALSE,ancestor,889,John Watson 889
+Q96219146,Deborah Collomore Pennell,FALSE,ancestor,890,Deborah Collomore Pennell 890
+Q96219147,Thomas Pennell,FALSE,ancestor,891,Thomas Pennell 891
+Q96219149,Stephen Pennell,FALSE,ancestor,892,Stephen Pennell 892
+Q96219150,Mary Cotton,FALSE,ancestor,893,Mary Cotton 893
+Q96219151,Thomas Cotton,FALSE,ancestor,894,Thomas Cotton 894
+Q96219152,Agnes Smith,FALSE,ancestor,895,Agnes Smith 895
+Q96219153,Rhoda Mallet,FALSE,ancestor,896,Rhoda Mallet 896
+Q96219158,Jeremiah Chichester,FALSE,ancestor,897,Jeremiah Chichester 897
+Q96219159,James Chichester,FALSE,ancestor,898,James Chichester 898
+Q96219160,James Chichester,FALSE,ancestor,899,James Chichester 899
+Q96219161,Eunice Porter,FALSE,ancestor,900,Eunice Porter 900
+Q96219162,Elizabeth Davis,FALSE,ancestor,901,Elizabeth Davis 901
+Q96219163,Sarah Witman Brush,FALSE,ancestor,902,Sarah Witman Brush 902
+Q96219167,Leonard Cotton,FALSE,ancestor,903,Leonard Cotton 903
+Q96219168,Thomas Cotton,FALSE,ancestor,904,Thomas Cotton 904
+Q96219171,Anthony Lisle,FALSE,ancestor,905,Anthony Lisle 905
+Q96219172,Thomas Lisle,FALSE,ancestor,906,Thomas Lisle 906
+Q96219174,Mary Moore,FALSE,ancestor,907,Mary Moore 907
+Q96219175,Elizabeth Dormer,FALSE,ancestor,908,Elizabeth Dormer 908
+Q96219185,William Beconshaw,FALSE,ancestor,909,William Beconshaw 909
+Q96219186,Alice White,FALSE,ancestor,910,Alice White 910
+Q96219187,"William White, of Ellingham",FALSE,ancestor,911,"William White, of Ellingham 911"
+Q96219188,Edith Bond,FALSE,ancestor,912,Edith Bond 912
+Q96219189,"William Bond, of Blackmanston",FALSE,ancestor,913,"William Bond, of Blackmanston 913"
+Q96219191,"Denis Bond, of Lutton",FALSE,ancestor,914,"Denis Bond, of Lutton 914"
+Q96219192,Alice Samways,FALSE,ancestor,915,Alice Samways 915
+Q96219193,Ann Long,FALSE,ancestor,916,Ann Long 916
+Q96219194,"Richard Long, of Glastonbury",FALSE,ancestor,917,"Richard Long, of Glastonbury 917"
+Q96219195,Hannah,FALSE,ancestor,918,Hannah 918
+Q96237447,Robert Stanley,FALSE,ancestor,919,Robert Stanley 919
+Q96237449,Ruth Garland,FALSE,ancestor,920,Ruth Garland 920
+Q96237591,Walter Gaylord,FALSE,ancestor,921,Walter Gaylord 921
+Q96237593,William Gaylord,FALSE,ancestor,922,William Gaylord 922
+Q96237594,Mary Walter,FALSE,ancestor,923,Mary Walter 923
+Q96237595,Mary Stebbins,FALSE,ancestor,924,Mary Stebbins 924
+Q96237597,Edward Stebbins,FALSE,ancestor,925,Edward Stebbins 925
+Q96237599,Frances Tough,FALSE,ancestor,926,Frances Tough 926
+Q96243952,Capt. Roger Mallory,FALSE,ancestor,927,Capt. Roger Mallory 927
+Q96243956,Jane Holland,FALSE,ancestor,928,Jane Holland 928
+Q96243957,Jane Holland,FALSE,ancestor,929,Jane Holland 929
+Q96243991,"Robert Fychan ap Gruyffud Hywel, of Talhenbont",FALSE,ancestor,930,"Robert Fychan ap Gruyffud Hywel, of Talhenbont 930"
+Q96243995,Gruffudd ap Hywel ap Madog,FALSE,ancestor,931,Gruffudd ap Hywel ap Madog 931
+Q96243998,Hywel ap Madog ap Ieuan,FALSE,ancestor,932,Hywel ap Madog ap Ieuan 932
+Q96244000,"Madog ap Ieuan ab Einion, of Pennarth of Pennarth",FALSE,ancestor,933,"Madog ap Ieuan ab Einion, of Pennarth of Pennarth 933"
+Q96244002,Gwerful ferch Rhys ap Tudur ap Gronwy,FALSE,ancestor,934,Gwerful ferch Rhys ap Tudur ap Gronwy 934
+Q96244009,Efa ferch Gruffudd Goch ab Adda ap Madog,FALSE,ancestor,935,Efa ferch Gruffudd Goch ab Adda ap Madog 935
+Q96244010,Erddylad ferch Gruffudd ap Hywel Coetmor ap Gruffudd Fychan,FALSE,ancestor,936,Erddylad ferch Gruffudd ap Hywel Coetmor ap Gruffudd Fychan 936
+Q96244012,Lowri ferch Dafydd ap Rhys ap Ieuan,FALSE,ancestor,937,Lowri ferch Dafydd ap Rhys ap Ieuan 937
+Q96244015,"Dafydd ap Rhys ap Ieuan, of Cymer of Cymer",FALSE,ancestor,938,"Dafydd ap Rhys ap Ieuan, of Cymer of Cymer 938"
+Q96244019,Mali verch Ieuan ab Einion ap Gruffudd,FALSE,ancestor,939,Mali verch Ieuan ab Einion ap Gruffudd 939
+Q96244022,"Ieuan ab Einion ap Gruffudd, of Cryniarth of Cryniarth",FALSE,ancestor,940,"Ieuan ab Einion ap Gruffudd, of Cryniarth of Cryniarth 940"
+Q96244025,Gruffudd ap Llywelyn ap Cynwrig,FALSE,ancestor,941,Gruffudd ap Llywelyn ap Cynwrig 941
+Q96244027,Efa ferch Madog ab Elise ap Iorwerth,FALSE,ancestor,942,Efa ferch Madog ab Elise ap Iorwerth 942
+Q96244028,Tangwystl ferch Rhydderch ap Ieuan Llwyd,FALSE,ancestor,943,Tangwystl ferch Rhydderch ap Ieuan Llwyd 943
+Q96244029,Angharad ferch Dafydd ab Y Giwn Llwyd ap Dafydd,FALSE,ancestor,944,Angharad ferch Dafydd ab Y Giwn Llwyd ap Dafydd 944
+Q96244030,Lowri ferch Huw Conwy Hen ap Robin ap Gruffudd Goch,FALSE,ancestor,945,Lowri ferch Huw Conwy Hen ap Robin ap Gruffudd Goch 945
+Q96244032,Catrin ferch Gruffudd John Gruffudd,FALSE,ancestor,946,Catrin ferch Gruffudd John Gruffudd 946
+Q96244034,"Gruffudd ap John ap Gruffudd, of Cefnamwlch of Cefnamwlch",FALSE,ancestor,947,"Gruffudd ap John ap Gruffudd, of Cefnamwlch of Cefnamwlch 947"
+Q96244036,"John ap Gruffudd ap Dafydd, of Cefnamwlch of Cefnamwlch",FALSE,ancestor,948,"John ap Gruffudd ap Dafydd, of Cefnamwlch of Cefnamwlch 948"
+Q96244038,Gruffudd ap Dafydd Fychan ap Ieuan,FALSE,ancestor,949,Gruffudd ap Dafydd Fychan ap Ieuan 949
+Q96244040,Dafydd Fychan ap Ieuan ap Maredudd of Cefnamwlch,FALSE,ancestor,950,Dafydd Fychan ap Ieuan ap Maredudd of Cefnamwlch 950
+Q96244042,Ieuan ap Maredudd ap Ieuan Goch of Penllech,FALSE,ancestor,951,Ieuan ap Maredudd ap Ieuan Goch of Penllech 951
+Q96244045,Maredudd ab Ieuan Goch ap Dafydd Goch of Penllech,FALSE,ancestor,952,Maredudd ab Ieuan Goch ap Dafydd Goch of Penllech 952
+Q96244047,Morfudd ferch Gruffudd ap Llywelyn Fychan ap Llywelyn,FALSE,ancestor,953,Morfudd ferch Gruffudd ap Llywelyn Fychan ap Llywelyn 953
+Q96244048,NN,FALSE,ancestor,954,NN 954
+Q96244050,Catrin ferch Hywel ap Llywelyn ap Gruffudd,FALSE,ancestor,955,Catrin ferch Hywel ap Llywelyn ap Gruffudd 955
+Q96244053,Margred ferch Hywel y Farf ap Llywelyn ap Hywel,FALSE,ancestor,956,Margred ferch Hywel y Farf ap Llywelyn ap Hywel 956
+Q96244056,Annes ferch John ap Maredudd ap Ieuan,FALSE,ancestor,957,Annes ferch John ap Maredudd ap Ieuan 957
+Q96244059,Margred verch Owain ap Meurig ap Llywelyn,FALSE,ancestor,958,Margred verch Owain ap Meurig ap Llywelyn 958
+Q96305878,Jonah Keeler,FALSE,ancestor,959,Jonah Keeler 959
+Q96305879,Ruth Smith,FALSE,ancestor,960,Ruth Smith 960
+Q96311650,Roger Mallory,FALSE,ancestor,961,Roger Mallory 961
+Q96311651,Roger Mallory,FALSE,ancestor,962,Roger Mallory 962
+Q96311655,"Sir William Mallory, of Studley",FALSE,ancestor,963,"Sir William Mallory, of Studley 963"
+Q96311657,Ursula Gale,FALSE,ancestor,964,Ursula Gale 964
+Q96311658,Jane Bower,FALSE,ancestor,965,Jane Bower 965
+Q96311662,Mary Holderby,FALSE,ancestor,966,Mary Holderby 966
+Q96311664,Sarah Street,FALSE,ancestor,967,Sarah Street 967
+Q96311724,Nancy Lee Lawrence,FALSE,ancestor,968,Nancy Lee Lawrence 968
+Q96311727,Reuben Moore Lawrence,FALSE,ancestor,969,Reuben Moore Lawrence 969
+Q96311728,Reuben Lawrence,FALSE,ancestor,970,Reuben Lawrence 970
+Q96311729,Rebecca Moore,FALSE,ancestor,971,Rebecca Moore 971
+Q96311731,William Moore,FALSE,ancestor,972,William Moore 972
+Q96311733,Rebecca Hite Smith,FALSE,ancestor,973,Rebecca Hite Smith 973
+Q96311736,John Smith,FALSE,ancestor,974,John Smith 974
+Q96311737,Sarah Mallory,FALSE,ancestor,975,Sarah Mallory 975
+Q96311738,Uriel Mallory,FALSE,ancestor,976,Uriel Mallory 976
+Q96311742,Hannah Cave,FALSE,ancestor,977,Hannah Cave 977
+Q96311744,Mary Ellen James,FALSE,ancestor,978,Mary Ellen James 978
+Q96311985,Nest ferch Gruffudd ab Adda ap Gruffudd ap Madog of Dol-gôch,FALSE,ancestor,979,Nest ferch Gruffudd ab Adda ap Gruffudd ap Madog of Dol-gôch 979
+Q96318366,"Thomas Appleton, of Waddingfield Parva, Suffolk",FALSE,ancestor,980,"Thomas Appleton, of Waddingfield Parva, Suffolk 980"
+Q96318367,"John Appleton, of Wadingfield Parva",FALSE,ancestor,981,"John Appleton, of Wadingfield Parva 981"
+Q96318372,"John Appleton, of Waldingham Magna",FALSE,ancestor,982,"John Appleton, of Waldingham Magna 982"
+Q96318373,Margaret Welling,FALSE,ancestor,983,Margaret Welling 983
+Q96318374,Richard Welling,FALSE,ancestor,984,Richard Welling 984
+Q96318375,Margerie Crane,FALSE,ancestor,985,Margerie Crane 985
+Q96318377,"Robert Crane, of Stonham",FALSE,ancestor,986,"Robert Crane, of Stonham 986"
+Q96318381,"Thomas Jermyn, of Rushbrooke",FALSE,ancestor,987,"Thomas Jermyn, of Rushbrooke 987"
+Q96318382,"Thomas Jermyn, of Rushbrooke",FALSE,ancestor,988,"Thomas Jermyn, of Rushbrooke 988"
+Q96318383,John Jermyn,FALSE,ancestor,989,John Jermyn 989
+Q96318387,"Margaret Leyman, of Ipswich",FALSE,ancestor,990,"Margaret Leyman, of Ipswich 990"
+Q96318389,Catherine Bernard,FALSE,ancestor,991,Catherine Bernard 991
+Q96318390,"Sir John Bernard, of Norfolk & Suffolk",FALSE,ancestor,992,"Sir John Bernard, of Norfolk & Suffolk 992"
+Q96318391,"Robert Bernard, of Isleham",FALSE,ancestor,993,"Robert Bernard, of Isleham 993"
+Q96318392,Elizabeth Lillying (Lilling),FALSE,ancestor,994,Elizabeth Lillying (Lilling) 994
+Q96318396,"Ellen Mallory, of Norfolk",FALSE,ancestor,995,"Ellen Mallory, of Norfolk 995"
+Q96318398,"John Mallory, of Welton (Wooton)",FALSE,ancestor,996,"John Mallory, of Welton (Wooton) 996"
+Q96318399,Jane Lane,FALSE,ancestor,997,Jane Lane 997
+Q96318401,"Sir Thomas Hawte, of Bishopsbourne",FALSE,ancestor,998,"Sir Thomas Hawte, of Bishopsbourne 998"
+Q96318406,"Sir William Hawte, of Bishopsbourne",FALSE,ancestor,999,"Sir William Hawte, of Bishopsbourne 999"
+Q96318410,Joan Horne,FALSE,ancestor,1000,Joan Horne 1000
+Q96318414,Henry Horne (Heron),FALSE,ancestor,1001,Henry Horne (Heron) 1001
+Q96318415,Isabel Frowick,FALSE,ancestor,1002,Isabel Frowick 1002
+Q96318418,Henry Frowick,FALSE,ancestor,1003,Henry Frowick 1003
+Q96318421,Isabel,FALSE,ancestor,1004,Isabel 1004
+Q96318426,Joan Cotton,FALSE,ancestor,1005,Joan Cotton 1005
+Q96318428,"Adrian Whetehill, Comptroller of Calais",FALSE,ancestor,1006,"Adrian Whetehill, Comptroller of Calais 1006"
+Q96318432,Joan,FALSE,ancestor,1007,Joan 1007
+Q96318441,"William Muston, of Stoke Bardolf",FALSE,ancestor,1008,"William Muston, of Stoke Bardolf 1008"
+Q96318443,Thomas Everard,FALSE,ancestor,1009,Thomas Everard 1009
+Q96318444,"Thomas Everard, of Much Waltham",FALSE,ancestor,1010,"Thomas Everard, of Much Waltham 1010"
+Q96318446,John Everard,FALSE,ancestor,1011,John Everard 1011
+Q96318449,Catherine,FALSE,ancestor,1012,Catherine 1012
+Q96318450,"Joan Cornish, of Much Waltham",FALSE,ancestor,1013,"Joan Cornish, of Much Waltham 1013"
+Q96318456,Agnes Waltham,FALSE,ancestor,1014,Agnes Waltham 1014
+Q96318458,Mary Cornish,FALSE,ancestor,1015,Mary Cornish 1015
+Q96318460,John Cornish,FALSE,ancestor,1016,John Cornish 1016
+Q96318463,Agnes Walden,FALSE,ancestor,1017,Agnes Walden 1017
+Q96322773,William Stebbins,FALSE,ancestor,1018,William Stebbins 1018
+Q96322774,Mary,FALSE,ancestor,1019,Mary 1019
+Q96322807,John Prowse,FALSE,ancestor,1020,John Prowse 1020
+Q96337990,Benjamin Duvall,FALSE,ancestor,1021,Benjamin Duvall 1021
+Q96337991,Benjamin Duvall,FALSE,ancestor,1022,Benjamin Duvall 1022
+Q96337993,Sophia Griffith,FALSE,ancestor,1023,Sophia Griffith 1023
+Q96346399,Thomas Perkins,FALSE,ancestor,1024,Thomas Perkins 1024
+Q96346400,Alice (Kebble),FALSE,ancestor,1025,Alice (Kebble) 1025
+Q96414376,Richard Cocke,FALSE,ancestor,1026,Richard Cocke 1026
+Q96480383,Gerard Spencer,FALSE,ancestor,1027,Gerard Spencer 1027
+Q96480384,Alice Whitbread,FALSE,ancestor,1028,Alice Whitbread 1028
+Q96480768,Richard Prowse,FALSE,ancestor,1029,Richard Prowse 1029
+Q96480771,John Prowse,FALSE,ancestor,1030,John Prowse 1030
+Q96480775,Agnes Bampfield,FALSE,ancestor,1031,Agnes Bampfield 1031
+Q96480778,Thomas Bampfield,FALSE,ancestor,1032,Thomas Bampfield 1032
+Q96480781,John Bampfield,FALSE,ancestor,1033,John Bampfield 1033
+Q96480784,Joan Gilbert,FALSE,ancestor,1034,Joan Gilbert 1034
+Q96480787,Agnes Coplestone,FALSE,ancestor,1035,Agnes Coplestone 1035
+Q96480790,Margaret Norton,FALSE,ancestor,1036,Margaret Norton 1036
+Q96572775,Adam Winthrop,FALSE,ancestor,1037,Adam Winthrop 1037
+Q96572776,Agnes Sharpe,FALSE,ancestor,1038,Agnes Sharpe 1038
+Q96572777,"Henry Browne, of Prittlewell, Essex",FALSE,ancestor,1039,"Henry Browne, of Prittlewell, Essex 1039"
+Q96572778,Agnes Browne,FALSE,ancestor,1040,Agnes Browne 1040
+Q96778118,"Richard Fettiplace, of East Shefford",FALSE,ancestor,1041,"Richard Fettiplace, of East Shefford 1041"
+Q96778119,Elizabeth Besilles (Bessells),FALSE,ancestor,1042,Elizabeth Besilles (Bessells) 1042
+Q96985260,Ralph Tough,FALSE,ancestor,1043,Ralph Tough 1043
+Q96985262,NN,FALSE,ancestor,1044,NN 1044
+Q97094807,Lemuel Woodworth,FALSE,ancestor,1045,Lemuel Woodworth 1045
+Q97094808,Elizabeth Hunt,FALSE,ancestor,1046,Elizabeth Hunt 1046
+Q97094809,Thomas Hunt,FALSE,ancestor,1047,Thomas Hunt 1047
+Q97094810,William Hunt,FALSE,ancestor,1048,William Hunt 1048
+Q97094811,Sarah Emerson,FALSE,ancestor,1049,Sarah Emerson 1049
+Q97094812,Mary Smith,FALSE,ancestor,1050,Mary Smith 1050
+Q97657948,Richard Cornell,FALSE,ancestor,1051,Richard Cornell 1051
+Q97657949,Mary,FALSE,ancestor,1052,Mary 1052
+Q97749941,Ted Jorgensen,FALSE,ancestor,1053,Ted Jorgensen 1053
+Q98051103,"Peter Noyes, of Weyhill",FALSE,ancestor,1054,"Peter Noyes, of Weyhill 1054"
+Q98051106,Edith Blake,FALSE,ancestor,1055,Edith Blake 1055
+Q98051110,"Thomas Smith, of Ore",FALSE,ancestor,1056,"Thomas Smith, of Ore 1056"
+Q98051113,Helen Pococke,FALSE,ancestor,1057,Helen Pococke 1057
+Q98053394,James Isaac,FALSE,ancestor,1058,James Isaac 1058
+Q98053399,Bennet Guildford,FALSE,ancestor,1059,Bennet Guildford 1059
+Q98103243,"John Langston, of Caversfield, Oxon",FALSE,ancestor,1060,"John Langston, of Caversfield, Oxon 1060"
+Q98103244,Elizabeth Denton,FALSE,ancestor,1061,Elizabeth Denton 1061
+Q98103921,John Day,FALSE,ancestor,1062,John Day 1062
+Q98103923,Mary Gaylord,FALSE,ancestor,1063,Mary Gaylord 1063
+Q982472,Henry Beaufort,FALSE,ancestor,1064,Henry Beaufort 1064
+Q98961345,Adam Winthrop,FALSE,ancestor,1065,Adam Winthrop 1065
+Q98961348,Joane Burton,FALSE,ancestor,1066,Joane Burton 1066
+Q98961349,"Robert Sharpe, of Islington",FALSE,ancestor,1067,"Robert Sharpe, of Islington 1067"
+Q98961352,"William Sharpe, of Islington",FALSE,ancestor,1068,"William Sharpe, of Islington 1068"
+Q98961353,Elizabeth,FALSE,ancestor,1069,Elizabeth 1069
+Q98961357,"John Browne, of Witham, Essex",FALSE,ancestor,1070,"John Browne, of Witham, Essex 1070"
+Q98967065,"Walter Dennis, of Siston, Gloucs",FALSE,ancestor,1071,"Walter Dennis, of Siston, Gloucs 1071"
+Q98967073,Margaret Russell,FALSE,ancestor,1072,Margaret Russell 1072
+Q98967076,Katherine Stradling,FALSE,ancestor,1073,Katherine Stradling 1073
+Q98967081,Agnes Danvers,FALSE,ancestor,1074,Agnes Danvers 1074
+Q98967083,"Sir Robert Danvers, of Ipswell",FALSE,ancestor,1075,"Sir Robert Danvers, of Ipswell 1075"
+Q98967088,Agnes Delabar (de la Bere),FALSE,ancestor,1076,Agnes Delabar (de la Bere) 1076
+Q98967092,Sir Richard de la Bere (Delabar),FALSE,ancestor,1077,Sir Richard de la Bere (Delabar) 1077
+Q98967094,Joan West,FALSE,ancestor,1078,Joan West 1078
+Q98967123,"Thomas Mead, of Meadsplace",FALSE,ancestor,1079,"Thomas Mead, of Meadsplace 1079"
+Q98967126,John Sharp,FALSE,ancestor,1080,John Sharp 1080
+Q98967129,Joan,FALSE,ancestor,1081,Joan 1081
+Q98967517,"Walter Cotton, of Landwade, Cambs",FALSE,ancestor,1082,"Walter Cotton, of Landwade, Cambs 1082"
+Q98967518,"John Cotton, of Coton & Cambridge",FALSE,ancestor,1083,"John Cotton, of Coton & Cambridge 1083"
+Q98967522,Margaret,FALSE,ancestor,1084,Margaret 1084
+Q98967523,"Joan Reade, of Checkendon, Oxon",FALSE,ancestor,1085,"Joan Reade, of Checkendon, Oxon 1085"
+Q98967524,"John Reade (Read), of Checkenden (Checkingden), Oxon",FALSE,ancestor,1086,"John Reade (Read), of Checkenden (Checkingden), Oxon 1086"
+Q98967525,Cecilia Harlyngrugge,FALSE,ancestor,1087,Cecilia Harlyngrugge 1087
+Q99066717,Robert ap Maredudd ap Hwlcyn Llwyd (Lloyd) ap Tudur Gôch of Glynllifon,FALSE,ancestor,1088,Robert ap Maredudd ap Hwlcyn Llwyd (Lloyd) ap Tudur Gôch of Glynllifon 1088
+Q99066727,"Ellen Bulkeley, of Beaumaris",FALSE,ancestor,1089,"Ellen Bulkeley, of Beaumaris 1089"
+Q99069788,Maredudd ap Hwlcyn Lloyd ap Tudur Gôch ap Gronwy of Glynllifon,FALSE,ancestor,1090,Maredudd ap Hwlcyn Lloyd ap Tudur Gôch ap Gronwy of Glynllifon 1090
+Q99069795,Hwlcyn Lloyd ap Tudur Gôch ap Gronwy ab Einion of Glynllifon,FALSE,ancestor,1091,Hwlcyn Lloyd ap Tudur Gôch ap Gronwy ab Einion of Glynllifon 1091
+Q99069806,Tudur Gôch ap Gronwy ab Einion ab Ieuan of Plas Nantle,FALSE,ancestor,1092,Tudur Gôch ap Gronwy ab Einion ab Ieuan of Plas Nantle 1092
+Q99069817,Morfudd ferch Hywel ab Iorwerth Fychan ab Iorwerth Gôch,FALSE,ancestor,1093,Morfudd ferch Hywel ab Iorwerth Fychan ab Iorwerth Gôch 1093
+Q99069827,Nest ferch Cynwrig ap Maredudd Ddû ap Gronwy,FALSE,ancestor,1094,Nest ferch Cynwrig ap Maredudd Ddû ap Gronwy 1094
+Q99069833,Cynwrig ap Maredudd Ddû ap Gronwy ap Maredudd ab Iorwerth,FALSE,ancestor,1095,Cynwrig ap Maredudd Ddû ap Gronwy ap Maredudd ab Iorwerth 1095
+Q99069845,Angharad ferch Madog ap Gryffudd Fychan ap Gruffudd,FALSE,ancestor,1096,Angharad ferch Madog ap Gryffudd Fychan ap Gruffudd 1096
+Q99069919,"William Bulkeley, of Cheadle",FALSE,ancestor,1097,"William Bulkeley, of Cheadle 1097"
+Q99069929,"Richard Bulkeley, of Cheadle",FALSE,ancestor,1098,"Richard Bulkeley, of Cheadle 1098"
+Q99069940,"Sir Richard Bulkeley, of Cheadle, Ches",FALSE,ancestor,1099,"Sir Richard Bulkeley, of Cheadle, Ches 1099"
+Q99069983,Maud|Alice Bostock,FALSE,ancestor,1100,Maud|Alice Bostock 1100
+Q99069999,Sir Ralph Bostock,FALSE,ancestor,1101,Sir Ralph Bostock 1101
+Q99070014,Isabel Lawton,FALSE,ancestor,1102,Isabel Lawton 1102
+Q99070028,"Elen ferch Gwilym ap Gruffudd Gwilym, of Penrhyn",FALSE,ancestor,1103,"Elen ferch Gwilym ap Gruffudd Gwilym, of Penrhyn 1103"
+Q99070099,Janet Stanley,FALSE,ancestor,1104,Janet Stanley 1104
+Q99070243,"Hywel y Farf ap Llywelyn ap Hywel ab Iorwerth Ddû ab Iorwerth Ddû, of Treiorworth",FALSE,ancestor,1105,"Hywel y Farf ap Llywelyn ap Hywel ab Iorwerth Ddû ab Iorwerth Ddû, of Treiorworth 1105"
+Q99070257,Llywelyn ap Hywel ab Iorwerth Ddû ab Iorwerth,FALSE,ancestor,1106,Llywelyn ap Hywel ab Iorwerth Ddû ab Iorwerth 1106
+Q99070269,Mallt ferch Rhys ab Ieaun ab Einion ap Gruffudd ap Hywel ap Maredudd,FALSE,ancestor,1107,Mallt ferch Rhys ab Ieaun ab Einion ap Gruffudd ap Hywel ap Maredudd 1107
+Q99070276,Rhys ab Ieuan ap Gruffudd ap Hywel ap Maredudd of Madryn,FALSE,ancestor,1108,Rhys ab Ieuan ap Gruffudd ap Hywel ap Maredudd of Madryn 1108
+Q99070287,Angharad ferch Gruffudd ap Madog Gloddaith ap Madog Fychan ap Madog,FALSE,ancestor,1109,Angharad ferch Gruffudd ap Madog Gloddaith ap Madog Fychan ap Madog 1109
+Q99070332,John ap Maredudd ab Ieuan ap Maredudd of Ystumcegid,FALSE,ancestor,1110,John ap Maredudd ab Ieuan ap Maredudd of Ystumcegid 1110
+Q99070343,Maredudd ab Ieuan ap Maredudd ap Hywel of Ystumcegid,FALSE,ancestor,1111,Maredudd ab Ieuan ap Maredudd ap Hywel of Ystumcegid 1111
+Q99070350,Ieuan ap Maredudd ap Hywel ap Dafydd of Cefn-y-fan,FALSE,ancestor,1112,Ieuan ap Maredudd ap Hywel ap Dafydd of Cefn-y-fan 1112
+Q99070363,Lleucu ferch Hywel ap Meurig Fychan ab Ynyr Fychan ab Ynyr,FALSE,ancestor,1113,Lleucu ferch Hywel ap Meurig Fychan ab Ynyr Fychan ab Ynyr 1113
+Q99070370,Margred verch Einion ab Ithel ap Gwrgeneu Fychan ap Gwrgeneu of Rhiwaedog,FALSE,ancestor,1114,Margred verch Einion ab Ithel ap Gwrgeneu Fychan ap Gwrgeneu of Rhiwaedog 1114
+Q99070379,Einion ab Ithel ap Gwrgeneu Fychan ap Gwrgeneu,FALSE,ancestor,1115,Einion ab Ithel ap Gwrgeneu Fychan ap Gwrgeneu 1115
+Q99070389,Mallt ferch Maradudd Ddû ap Gruffudd ap Maredudd ab Einion,FALSE,ancestor,1116,Mallt ferch Maradudd Ddû ap Gruffudd ap Maredudd ab Einion 1116
+Q99070397,Gwenhwyfar ferch Gronwy ab Ieuan ab Einion,FALSE,ancestor,1117,Gwenhwyfar ferch Gronwy ab Ieuan ab Einion 1117
+Q99070408,Gronwy ab Ieuan ab Einion ap Gruffudd of Gwynfryn,FALSE,ancestor,1118,Gronwy ab Ieuan ab Einion ap Gruffudd of Gwynfryn 1118
+Q99070430,Ieuan ab Einion ap Gruffudd ap Hywel of Bron-y-Foel,FALSE,ancestor,1119,Ieuan ab Einion ap Gruffudd ap Hywel of Bron-y-Foel 1119
+Q99070439,Gwenhwyfar verch Einion (of Ceinmyrch) ab Ynyr Fychan (of Nannau) ab Ynr,FALSE,ancestor,1120,Gwenhwyfar verch Einion (of Ceinmyrch) ab Ynyr Fychan (of Nannau) ab Ynr 1120
+Q99070448,Eleanor|Elen Puleston,FALSE,ancestor,1121,Eleanor|Elen Puleston 1121
+Q99071353,Rhydderch ab Ieuan Llwyd ab Ieuan ap Gruffudd Foel of Castell-odwyn,FALSE,ancestor,1122,Rhydderch ab Ieuan Llwyd ab Ieuan ap Gruffudd Foel of Castell-odwyn 1122
+Q99071403,Margred ferch Gruffudd Gryg ab ieuan Fychan ab Ieuan ap Rhys,FALSE,ancestor,1123,Margred ferch Gruffudd Gryg ab ieuan Fychan ab Ieuan ap Rhys 1123
+Q99071692,Elen ferch Thomas ap Llywelyn ab Owain ap Maredudd,FALSE,ancestor,1124,Elen ferch Thomas ap Llywelyn ab Owain ap Maredudd 1124
+Q99072218,Rhys ap Robert ap Gruffudd ap Hywel,FALSE,ancestor,1125,Rhys ap Robert ap Gruffudd ap Hywel 1125
+Q99072277,Gwladus Drahaus ferch Madog Llwyd ab Iorwerth Foel ab Iorwerth Fychan,FALSE,ancestor,1126,Gwladus Drahaus ferch Madog Llwyd ab Iorwerth Foel ab Iorwerth Fychan 1126
+Q99072487,Hywel ap Meurig Fychan ab Ynyr Fychan ab Ynyr,FALSE,ancestor,1127,Hywel ap Meurig Fychan ab Ynyr Fychan ab Ynyr 1127
+Q99072508,Ynyr Fychan ab Ynyr ap Meurig ap Madog of Nannau,FALSE,ancestor,1128,Ynyr Fychan ab Ynyr ap Meurig ap Madog of Nannau 1128
+Q99072526,Gwenhwyfar ferch Gruffudd ap Gwen ap Gronwy,FALSE,ancestor,1129,Gwenhwyfar ferch Gruffudd ap Gwen ap Gronwy 1129
+Q99072581,NN,FALSE,ancestor,1130,NN 1130
+Q99072588,Ithel ap Gwrgeneu Fychan ap Gwrgeneu,FALSE,ancestor,1131,Ithel ap Gwrgeneu Fychan ap Gwrgeneu 1131
+Q99072626,Maredudd Ddû ap Gruffudd ap Maredudd ab Einion,FALSE,ancestor,1132,Maredudd Ddû ap Gruffudd ap Maredudd ab Einion 1132
+Q99072675,Einion ap Grufudd ap Llywelyn of Gwynfryn,FALSE,ancestor,1133,Einion ap Grufudd ap Llywelyn of Gwynfryn 1133
+Q99073219,Einion ab Ynyr Fychan ab Ynyr ap Meurig of Ceinmeirch,FALSE,ancestor,1134,Einion ab Ynyr Fychan ab Ynyr ap Meurig of Ceinmeirch 1134
+Q99073259,Gwenhwyfar verch Einion 'y Mab' ap Gruffudd Foel ab Ieuan ab Adda,FALSE,ancestor,1135,Gwenhwyfar verch Einion 'y Mab' ap Gruffudd Foel ab Ieuan ab Adda 1135
+Q99073294,"Sir Richard Puleston, of Emral",FALSE,ancestor,1136,"Sir Richard Puleston, of Emral 1136"
+Q99073349,Lleucu ferch Madog Foel ab Ieuaf ap Llywelyn ap Cynwrig Efell ap Madog ap Maredudd ap Bleddyn ap Cynfyn,FALSE,ancestor,1137,Lleucu ferch Madog Foel ab Ieuaf ap Llywelyn ap Cynwrig Efell ap Madog ap Maredudd ap Bleddyn ap Cynfyn 1137
+Q99075659,Mallt ferch Gruffudd ap Dafydd Llwyd ap Hwfa ap Madog,FALSE,ancestor,1138,Mallt ferch Gruffudd ap Dafydd Llwyd ap Hwfa ap Madog 1138
+Q99075669,Gruffudd ap Dafydd Llwyd ap Hwfa ap Madog,FALSE,ancestor,1139,Gruffudd ap Dafydd Llwyd ap Hwfa ap Madog 1139
+Q99075723,Efa ferch Gruffudd ap Dafydd Gôch ap Dafydd,FALSE,ancestor,1140,Efa ferch Gruffudd ap Dafydd Gôch ap Dafydd 1140
+Q99075772,Gruffudd ap Madog Gloddaith ap Madog Fychan ap Madog,FALSE,ancestor,1141,Gruffudd ap Madog Gloddaith ap Madog Fychan ap Madog 1141
+Q99082377,Gwenhwyfar|Gwenllian verch Adda Gôch ab Ieuaf ab Adda ab Awr of Trevor,FALSE,ancestor,1142,Gwenhwyfar|Gwenllian verch Adda Gôch ab Ieuaf ab Adda ab Awr of Trevor 1142
+Q99082409,Angharad ferch Dafydd,FALSE,ancestor,1143,Angharad ferch Dafydd 1143
+Q99082540,Dafydd ab Y Gwion Llwyd ap Dafydd ap Madog of Hendwr,FALSE,ancestor,1144,Dafydd ab Y Gwion Llwyd ap Dafydd ap Madog of Hendwr 1144
+Q99082549,Y Gwion Llwyd ap Dafydd ap Madog of Hendwr,FALSE,ancestor,1145,Y Gwion Llwyd ap Dafydd ap Madog of Hendwr 1145
+Q99082569,Mali ferch Dafydd ap Hywel ap Gruffudd ab Owain,FALSE,ancestor,1146,Mali ferch Dafydd ap Hywel ap Gruffudd ab Owain 1146
+Q99082590,Dafydd ap Hywel ap Gruffudd ab Owain of Maesmor,FALSE,ancestor,1147,Dafydd ap Hywel ap Gruffudd ab Owain of Maesmor 1147
+Q99082619,Angharad ferch Rhys ap Rotpert ap Gruffudd of Kinmael,FALSE,ancestor,1148,Angharad ferch Rhys ap Rotpert ap Gruffudd of Kinmael 1148
+Q99084425,Isabel Childrey,FALSE,ancestor,1149,Isabel Childrey 1149
+Q99154221,"Sir John Pecche, of Hampton",FALSE,ancestor,1150,"Sir John Pecche, of Hampton 1150"
+Q99154226,Margaret|?Katherine,FALSE,ancestor,1151,Margaret|?Katherine 1151
+Q99155815,Sir Godfrey Foljambe,FALSE,ancestor,1152,Sir Godfrey Foljambe 1152
+Q99155835,Margaret de Villiers,FALSE,ancestor,1153,Margaret de Villiers 1153
+Q99156499,"Lawrence Hamerton, of Wigglesworth",FALSE,ancestor,1154,"Lawrence Hamerton, of Wigglesworth 1154"
+Q99156505,"Richard de Hamerton, of Hamerton, lord of Hamerton, Knolsmere, Wigglesworth & Hellifield",FALSE,ancestor,1155,"Richard de Hamerton, of Hamerton, lord of Hamerton, Knolsmere, Wigglesworth & Hellifield 1155"
+Q99156509,"Adam de Hamerton, lord of Hamerton",FALSE,ancestor,1156,"Adam de Hamerton, lord of Hamerton 1156"
+Q99156514,Katherine Knolle,FALSE,ancestor,1157,Katherine Knolle 1157
+Q99156522,"Elizabeth Radcliffe, of Langfield",FALSE,ancestor,1158,"Elizabeth Radcliffe, of Langfield 1158"
+Q99156529,"William Radcliffe, of Langfield",FALSE,ancestor,1159,"William Radcliffe, of Langfield 1159"
+Q99156535,"Isabel Tempest, of Bracewell",FALSE,ancestor,1160,"Isabel Tempest, of Bracewell 1160"
+Q99186887,Margaret,FALSE,ancestor,1161,Margaret 1161
+Q99188261,Joan (or Agnes),FALSE,ancestor,1162,Joan (or Agnes) 1162
+Q99199155,"Elizabeth Butler (Boteler), of Bewsey",FALSE,ancestor,1163,"Elizabeth Butler (Boteler), of Bewsey 1163"
+Q99201233,Alice Couen (Coven),FALSE,ancestor,1164,Alice Couen (Coven) 1164
+Q99600448,Elizabeth Oakman,FALSE,ancestor,1165,Elizabeth Oakman 1165
+Q99690358,"Thomas Noyes, of Weyhill",FALSE,ancestor,1166,"Thomas Noyes, of Weyhill 1166"
+Q99690359,"Thomas Noyes, of Weyhill",FALSE,ancestor,1167,"Thomas Noyes, of Weyhill 1167"
+Q99690361,John or Robert Noyes,FALSE,ancestor,1168,John or Robert Noyes 1168
+Q99690362,Agnes,FALSE,ancestor,1169,Agnes 1169
+Q99690367,"Richard Pococke, of Chieveley",FALSE,ancestor,1170,"Richard Pococke, of Chieveley 1170"
+Q99690368,Elizabeth Webb,FALSE,ancestor,1171,Elizabeth Webb 1171
+Q99769145,"Joseph Woodworth, Sr.",FALSE,ancestor,1172,"Joseph Woodworth, Sr. 1172"
+Q99769198,Benjamin Woodworth,FALSE,ancestor,1173,Benjamin Woodworth 1173
+Q99769199,Henry Woodworth,FALSE,ancestor,1174,Henry Woodworth 1174
+Q99769224,Joseph III Woodworth,FALSE,ancestor,1175,Joseph III Woodworth 1175
+Q99769225,"Joseph Woodworth, Jr.",FALSE,ancestor,1176,"Joseph Woodworth, Jr. 1176"
+Q99769231,Ruth Owen,FALSE,ancestor,1177,Ruth Owen 1177
+Q99769232,Ruth Owen,FALSE,ancestor,1178,Ruth Owen 1178
+Q99769237,Hannah Woodworth,FALSE,ancestor,1179,Hannah Woodworth 1179
+Q99769238,Martha Damon,FALSE,ancestor,1180,Martha Damon 1180
+Q99769246,"Thomas Tupper, Sr.",FALSE,ancestor,1181,"Thomas Tupper, Sr. 1181"
+Q99800240,Isabel Hathaway (Hatheway),FALSE,ancestor,1182,Isabel Hathaway (Hatheway) 1182
+Q99800348,"Richard Cornwall (Cornewall), 5th Baron of Burford",FALSE,ancestor,1183,"Richard Cornwall (Cornewall), 5th Baron of Burford 1183"
+Q99800370,Cecilia Seymour,FALSE,ancestor,1184,Cecilia Seymour 1184
+Q99800408,Alice Talbot,FALSE,ancestor,1185,Alice Talbot 1185
+Q99803652,"Sir William Mallory, of Studley",FALSE,ancestor,1186,"Sir William Mallory, of Studley 1186"
+Q99803683,"Sir William Mallory, of Studley",FALSE,ancestor,1187,"Sir William Mallory, of Studley 1187"
+Q99803700,"Sir John Mallory, of Studley",FALSE,ancestor,1188,"Sir John Mallory, of Studley 1188"
+Q99803713,"William Mallory, of Hutton-Conyers",FALSE,ancestor,1189,"William Mallory, of Hutton-Conyers 1189"
+Q99803734,Christopher Mallory,FALSE,ancestor,1190,Christopher Mallory 1190
+Q99803746,Isabel,FALSE,ancestor,1191,Isabel 1191
+Q99803748,"Denise|Dionisia Tempest, of Studley",FALSE,ancestor,1192,"Denise|Dionisia Tempest, of Studley 1192"
+Q99803763,Alianore Washington,FALSE,ancestor,1193,Alianore Washington 1193
+Q99803765,Isabel Hamerton,FALSE,ancestor,1194,Isabel Hamerton 1194
+Q99803789,"Joan Constable, of Halsham",FALSE,ancestor,1195,"Joan Constable, of Halsham 1195"
+Q99803833,"Sir William Constable, of Halsham",FALSE,ancestor,1196,"Sir William Constable, of Halsham 1196"
+Q99803842,"Elizabeth Metham, of Metham",FALSE,ancestor,1197,"Elizabeth Metham, of Metham 1197"
+Q99803886,Laura|Lora FitzHugh,FALSE,ancestor,1198,Laura|Lora FitzHugh 1198
+Q99803952,"Edmund Thwaites, of Lund",FALSE,ancestor,1199,"Edmund Thwaites, of Lund 1199"
+Q99803961,"Henry Thwaites, of Lund",FALSE,ancestor,1200,"Henry Thwaites, of Lund 1200"
+Q99803980,"Thomas Thwaites, of Denton",FALSE,ancestor,1201,"Thomas Thwaites, of Denton 1201"
+Q99803993,"Sir John Thwaites, of Thwaites",FALSE,ancestor,1202,"Sir John Thwaites, of Thwaites 1202"
+Q99803996,Joan de Thornton,FALSE,ancestor,1203,Joan de Thornton 1203
+Q99804002,"Alice de la Hay, of Spaldington",FALSE,ancestor,1204,"Alice de la Hay, of Spaldington 1204"
+Q99804009,NN,FALSE,ancestor,1205,NN 1205
+Q99804016,Joan|Jane,FALSE,ancestor,1206,Joan|Jane 1206
+Q99804021,"Jane Norton, of Norton Conyers",FALSE,ancestor,1207,"Jane Norton, of Norton Conyers 1207"
+Q99804028,"Sir John Norton, of Norton-Conyers",FALSE,ancestor,1208,"Sir John Norton, of Norton-Conyers 1208"
+Q99804047,"Sir John Norton, of Norton-Conyers",FALSE,ancestor,1209,"Sir John Norton, of Norton-Conyers 1209"
+Q99804061,"Richard Norton, of Norton-Conyers",FALSE,ancestor,1210,"Richard Norton, of Norton-Conyers 1210"
+Q99804077,Adam Norton,FALSE,ancestor,1211,Adam Norton 1211
+Q99804088,Alice Nunwicke,FALSE,ancestor,1212,Alice Nunwicke 1212
+Q99804104,Katherine Manningham,FALSE,ancestor,1213,Katherine Manningham 1213
+Q99804119,"Elizabeth Tempest, of Studley",FALSE,ancestor,1214,"Elizabeth Tempest, of Studley 1214"
+Q99804140,Sir William Washington,FALSE,ancestor,1215,Sir William Washington 1215
+Q99804145,Margaret de Moreville,FALSE,ancestor,1216,Margaret de Moreville 1216
+Q99804153,"Joan Pigott, of Clotherham",FALSE,ancestor,1217,"Joan Pigott, of Clotherham 1217"
+Q99804161,"Randolph Pigott, of Clotherham",FALSE,ancestor,1218,"Randolph Pigott, of Clotherham 1218"
+Q99804176,"Sir Geoffrey Pigott, of Clotherham",FALSE,ancestor,1219,"Sir Geoffrey Pigott, of Clotherham 1219"
+Q99804195,"Sir Randolph Pigot, of Melmorby",FALSE,ancestor,1220,"Sir Randolph Pigot, of Melmorby 1220"
+Q99804204,"Joan Clotherham, of Clotherham",FALSE,ancestor,1221,"Joan Clotherham, of Clotherham 1221"
+Q99804221,Emma Leeds,FALSE,ancestor,1222,Emma Leeds 1222
+Q99804234,"Sir Roger Leeds, of Northall",FALSE,ancestor,1223,"Sir Roger Leeds, of Northall 1223"
+Q99804242,Jane,FALSE,ancestor,1224,Jane 1224
+Q99804253,Margaret Plumpton,FALSE,ancestor,1225,Margaret Plumpton 1225
+Q99804258,"Sir Robert Plumpton, of Steeton, Yorks",FALSE,ancestor,1226,"Sir Robert Plumpton, of Steeton, Yorks 1226"
+Q99804264,Sir William Plumpton,FALSE,ancestor,1227,Sir William Plumpton 1227
+Q99804266,Alice Gisburne,FALSE,ancestor,1228,Alice Gisburne 1228
+Q99804269,Alice Foljambe,FALSE,ancestor,1229,Alice Foljambe 1229
+Q99804277,Sir Godfrey Foljambe,FALSE,ancestor,1230,Sir Godfrey Foljambe 1230
+Q99804286,Margaret Leek,FALSE,ancestor,1231,Margaret Leek 1231
+Q99804294,Margaret Warde,FALSE,ancestor,1232,Margaret Warde 1232
+Q99804305,"Sir Roger Warde, of Givendale",FALSE,ancestor,1233,"Sir Roger Warde, of Givendale 1233"
+Q99804318,"Sir Roger Warde, of Givendale",FALSE,ancestor,1234,"Sir Roger Warde, of Givendale 1234"
+Q99804330,"Sir John Warde, of Givendale",FALSE,ancestor,1235,"Sir John Warde, of Givendale 1235"
+Q99804342,Sir Simon de la Warde,FALSE,ancestor,1236,Sir Simon de la Warde 1236
+Q99804352,Maude,FALSE,ancestor,1237,Maude 1237
+Q99804362,Katherine Hamerton,FALSE,ancestor,1238,Katherine Hamerton 1238
+Q99804370,John de Hamerton,FALSE,ancestor,1239,John de Hamerton 1239
+Q99804378,Jane Markenfield,FALSE,ancestor,1240,Jane Markenfield 1240
+Q99804383,Sir Thomas Markenfield,FALSE,ancestor,1241,Sir Thomas Markenfield 1241
+Q99804387,Sir Thomas Markenfeld,FALSE,ancestor,1242,Sir Thomas Markenfeld 1242
+Q99804389,NN Miniott,FALSE,ancestor,1243,NN Miniott 1243
+Q99804390,Beatrix Sothill,FALSE,ancestor,1244,Beatrix Sothill 1244
+Q99804405,"Sir Henry Sothill, of Soothill",FALSE,ancestor,1245,"Sir Henry Sothill, of Soothill 1245"
+Q99804414,Dionysia|Denise,FALSE,ancestor,1246,Dionysia|Denise 1246
+Q99804421,Jane|Joan Tunstall,FALSE,ancestor,1247,Jane|Joan Tunstall 1247
+Q99804915,"Oliver Gale, of Thirntoft",FALSE,ancestor,1248,"Oliver Gale, of Thirntoft 1248"
+Q99804920,"James Gale, of Thirntoft",FALSE,ancestor,1249,"James Gale, of Thirntoft 1249"
+Q99804924,"Ellen Marshall, of Richmond",FALSE,ancestor,1250,"Ellen Marshall, of Richmond 1250"
+Q99804933,Mary Lord,FALSE,ancestor,1251,Mary Lord 1251
+Q99804944,"Robert Lord, of Kendal",FALSE,ancestor,1252,"Robert Lord, of Kendal 1252"
+Q99805034,Thomas Urswick,FALSE,ancestor,1253,Thomas Urswick 1253
+Q99805072,John de Moreville,FALSE,ancestor,1254,John de Moreville 1254
+Q99805083,"John Clotherham, of Clotherham",FALSE,ancestor,1255,"John Clotherham, of Clotherham 1255"
+Q99805100,Richard Chamberlain,FALSE,ancestor,1256,Richard Chamberlain 1256
+Q99805126,Sir Robert Plumpton,FALSE,ancestor,1257,Sir Robert Plumpton 1257
+Q99805138,Isabella Kirkoswald,FALSE,ancestor,1258,Isabella Kirkoswald 1258
+Q99805143,John Gisburne,FALSE,ancestor,1259,John Gisburne 1259
+Q99805153,"Sir John Leek (Leeke), of Cotham",FALSE,ancestor,1260,"Sir John Leek (Leeke), of Cotham 1260"
+Q99805195,"Isabel Towers, of Somerby",FALSE,ancestor,1261,"Isabel Towers, of Somerby 1261"
+Q99805221,Sir Andrew Markenfield,FALSE,ancestor,1262,Sir Andrew Markenfield 1262
+Q99805231,"Sir John Miniott, of Carlton Miniott",FALSE,ancestor,1263,"Sir John Miniott, of Carlton Miniott 1263"
+Q99805244,Sir Henry de Sothill,FALSE,ancestor,1264,Sir Henry de Sothill 1264
+Q99805254,"Beatrice de Neville, of Redbourne",FALSE,ancestor,1265,"Beatrice de Neville, of Redbourne 1265"
+Q99805262,William|Henry de Tunstall,FALSE,ancestor,1266,William|Henry de Tunstall 1266
+Q99805689,Margaret le Brun,FALSE,ancestor,1267,Margaret le Brun 1267
+Q99806052,Avice Marmion,FALSE,ancestor,1268,Avice Marmion 1268
+Q99806111,Margery de Lisle,FALSE,ancestor,1269,Margery de Lisle 1269
+Q99806217,Sir Thomas de Metham,FALSE,ancestor,1270,Sir Thomas de Metham 1270
+Q99806218,Elizabeth Stapleton,FALSE,ancestor,1271,Elizabeth Stapleton 1271
+Q99806952,"Sir John Thwaites, of Lofthouse",FALSE,ancestor,1272,"Sir John Thwaites, of Lofthouse 1272"
+Q99806974,Robert de Thornton,FALSE,ancestor,1273,Robert de Thornton 1273
+Q99806990,"Peter de la Hay, of Spaldington",FALSE,ancestor,1274,"Peter de la Hay, of Spaldington 1274"
+Q99807093,Elizabeth,FALSE,ancestor,1275,Elizabeth 1275
+Q99807109,Sir William|Ralph Babthorp,FALSE,ancestor,1276,Sir William|Ralph Babthorp 1276
+Q99807139,Maud Hildyard,FALSE,ancestor,1277,Maud Hildyard 1277
+Q99859139,Joan de Chelrey (Childrey),FALSE,ancestor,1278,Joan de Chelrey (Childrey) 1278
+Q99902116,John Whitney Sr.,FALSE,ancestor,1279,John Whitney Sr. 1279
+Q99902119,Henry Whitney,FALSE,ancestor,1280,Henry Whitney 1280
+Q99902304,Lydia Keeler,FALSE,ancestor,1281,Lydia Keeler 1281
+Q99902308,Silas Keeler,FALSE,ancestor,1282,Silas Keeler 1282
+Q100326337,Sir William Plumpton,NA,NA,NA,NA
+Q100326381,Agnes Harington,NA,NA,NA,NA
+Q100326382,Matilda|Alice Hamerton,NA,NA,NA,NA
+Q100326446,Elizabeth Norton,NA,NA,NA,NA
+Q100447310,William Winthrop,NA,NA,NA,NA
+Q100447630,Sarah Barber,NA,NA,NA,NA
+Q100447677,Josiah Haynes (Haines),NA,NA,NA,NA
+Q100900242,"Elizabeth Hamerton, of Wigglesworth",NA,NA,NA,NA
+Q100901131,"Sir John Mainwaring, of Peover",NA,NA,NA,NA
+Q100901145,"Margaret|Margery Bulkeley, of Cheadle",NA,NA,NA,NA
+Q101208263,Sarah Judson,NA,NA,NA,NA
+Q101231755,Elizabeth Beselles (Bessells),NA,NA,NA,NA
+Q101231836,Dorothy|Elizabeth Arundell,NA,NA,NA,NA
+Q101243731,Moses Draper,NA,NA,NA,NA
+Q101422787,Eunice Taintor,NA,NA,NA,NA
+Q101422820,Henry Chapin,NA,NA,NA,NA
+Q101422841,Japhet Chapin,NA,NA,NA,NA
+Q101423222,Josiah Marshfield,NA,NA,NA,NA
+Q101423285,Mary Foote,NA,NA,NA,NA
+Q101423332,Mary Holcombe,NA,NA,NA,NA
+Q101423354,Margaret Parsons,NA,NA,NA,NA
+Q101423445,Hannah Hitchcock,NA,NA,NA,NA
+Q101423697,Samuel Bliss,NA,NA,NA,NA
+Q101423840,Sarah Field,NA,NA,NA,NA
+Q101424598,"Josiah Foote, Sr",NA,NA,NA,NA
+Q101424633,Thomas Gilbert,NA,NA,NA,NA
+Q101523209,Isabel Nanfan (Nanfant),NA,NA,NA,NA
+Q101523503,Margaret|Margery Appleton,NA,NA,NA,NA
+Q101536506,Anna Gibbs,NA,NA,NA,NA
+Q101566808,Alice Anne Walton,NA,NA,NA,NA
+Q101566876,James M. Walton,NA,NA,NA,NA
+Q102327518,Abia Abiah Swift,NA,NA,NA,NA
+Q102352231,Margaret Bernard,NA,NA,NA,NA
+Q102400157,August Chan Zuckerberg,NA,NA,NA,NA
+Q102433534,Preston Bezos,NA,NA,NA,NA
+Q102433548,second son of Jeff Bezos,NA,NA,NA,NA
+Q102433555,third son of Jeff Bezos,NA,NA,NA,NA
+Q102522194,Joseph Howland,NA,NA,NA,NA
+Q103519605,Abigail Swift,NA,NA,NA,NA
+Q103838063,"Nicholas Harington, of Hoyton",NA,NA,NA,NA
+Q104038604,"John Puleston, of Emral",NA,NA,NA,NA
+Q104038606,Angharad Hanmer,NA,NA,NA,NA
+Q104038718,"James Digges, of Digges Court",NA,NA,NA,NA
+Q104038772,Elizabeth Guildford,NA,NA,NA,NA
+Q104073325,Samuel St. John,NA,NA,NA,NA
+Q104451404,Samuel Foote,NA,NA,NA,NA
+Q104472010,"Sir Thomas (I) Greene, of Greene's Norton",NA,NA,NA,NA
+Q104472110,"Sir John Leeke, of Cotham",NA,NA,NA,NA
+Q104472588,"John Thwaites, of Thwaites, Denton",NA,NA,NA,NA
+Q104473746,"Cecily Cornwall, of Burford",NA,NA,NA,NA
+Q104484521,"Elizabeth Mainwaring, of Over Peover",NA,NA,NA,NA
+Q1045098,Bud Walton,NA,NA,NA,NA
+Q104553386,"Daniel Foote, of Wethersfield",NA,NA,NA,NA
+Q104787347,Rebecca (Marvin) Clark,NA,NA,NA,NA
+Q104799495,Elizabeth Mallory,NA,NA,NA,NA
+Q104913506,Elizabeth Collamore,NA,NA,NA,NA
+Q105100607,"Carl Victor Page, Jr.",NA,NA,NA,NA
+Q105768323,Elizabeth Markenfeld,NA,NA,NA,NA
+Q105770107,"Richard Pigott, of Ripon, Yorks",NA,NA,NA,NA
+Q105770170,"John de Grey, 2nd Lord Grey of Rotherfield",NA,NA,NA,NA
+Q105771120,Margaret Tunstall,NA,NA,NA,NA
+Q105790237,Thomas Danvers,NA,NA,NA,NA
+Q105791234,"John Green, of Drayton",NA,NA,NA,NA
+Q105793162,Alice Uvedale,NA,NA,NA,NA
+Q105794787,"William Finch, of Netherfield",NA,NA,NA,NA
+Q105801465,Margaret Langford,NA,NA,NA,NA
+Q105802183,Catherine Clifton,NA,NA,NA,NA
+Q105802227,"Henry Danvers, of London",NA,NA,NA,NA
+Q105802962,Sanchia Langford,NA,NA,NA,NA
+Q105803073,"William Bond, of Buckland",NA,NA,NA,NA
+Q105803167,Isabel Constable,NA,NA,NA,NA
+Q105803190,"Reinallt ap Huw Hen Conwy, of Bryneuryn",NA,NA,NA,NA
+Q105803208,Annes ferch Owain ap Meurig,NA,NA,NA,NA
+Q105805051,Sir Adam Bostock,NA,NA,NA,NA
+Q105805204,Margery Knolles (Knowles|Knollys),NA,NA,NA,NA
+Q105805964,"William Stradling, of Ruthin",NA,NA,NA,NA
+Q105814234,"Robert ap Thomas Hen Salusbury, of Llyweni",NA,NA,NA,NA
+Q105814299,Gruffudd Fychan ap Gruffudd ab Einion ap Gruffudd of Cors Gedol,NA,NA,NA,NA
+Q105814328,Gwenhwyfar ferch Madog ab Ieuan of Pennarth,NA,NA,NA,NA
+Q105814336,Iorwerth ab Einion ap Gruffudd ap Llywelyn of Ynys y Maengwyn,NA,NA,NA,NA
+Q105814350,Hywel ap Gruffudd Gôch ap Dafydd ap Madog of Rhôs,NA,NA,NA,NA
+Q105814392,"Rhys ap Dafydd ap Hywel ap Gruffudd of Maesmor, lord of Rûg",NA,NA,NA,NA
+Q105814399,Margred ferch Robin ap Gruffudd Gôch ap Dafydd,NA,NA,NA,NA
+Q105815259,"Jane Thwaites, of Denton",NA,NA,NA,NA
+Q105815261,"Sir Geoffrey Pigott, of Clotherham",NA,NA,NA,NA
+Q105815865,Lowri ferch John ap Maredudd,NA,NA,NA,NA
+Q105815874,"Gruffudd ap Robert ap Gruffudd ap Hywel Vaughan, of Plas Hen (Talhenbont)",NA,NA,NA,NA
+Q105815877,Owain ap John ap Maredudd ab Ieuan ap Maredudd of Ystum Cegid,NA,NA,NA,NA
+Q105816792,Margery|Margaret Danvers,NA,NA,NA,NA
+Q105820812,Philippa Hungerford,NA,NA,NA,NA
+Q105821250,Edmund Cornewall,NA,NA,NA,NA
+Q105821280,Margaret Mainwaring,NA,NA,NA,NA
+Q105842388,Anne Mallory,NA,NA,NA,NA
+Q105871915,"Rowland Bulkeley, of Cheadle",NA,NA,NA,NA
+Q105872441,Elizabeth Croft,NA,NA,NA,NA
+Q105873237,Antiocha|Mary Hawkwood,NA,NA,NA,NA
+Q105873559,Anne Danvers,NA,NA,NA,NA
+Q105877768,Hannah Marvin,NA,NA,NA,NA
+Q105901127,Moses Phillips,NA,NA,NA,NA
+Q105904625,George Woolsey II,NA,NA,NA,NA
+Q106637360,"Sir John Mallory, of Studley Royal",NA,NA,NA,NA
+Q106703058,"John Done, of Utkington",NA,NA,NA,NA
+Q106703520,"Sir John de la Pole (Mawddwy), Lord of Mawddwy (Mowthwy)",NA,NA,NA,NA
+Q106840898,John Cornell,NA,NA,NA,NA
+Q107182874,John Morton,NA,NA,NA,NA
+Q107182881,Ephraim Morton,NA,NA,NA,NA
+Q107182892,Eldad Tupper,NA,NA,NA,NA
+Q107182982,Mary Harlow,NA,NA,NA,NA
+Q107263364,Sibylla Thwaites,NA,NA,NA,NA
+Q107263368,Anne Norton,NA,NA,NA,NA
+Q107263388,"Dorothy Mallory, of Studley",NA,NA,NA,NA
+Q107275528,"Sir Richard Hamerton, of Wigglesworth",NA,NA,NA,NA
+Q107275540,"Matilda Thwaites, of Lofthouse",NA,NA,NA,NA
+Q107276596,"Sir William Lisle, of Wodyton",NA,NA,NA,NA
+Q107279015,Mary Shelley,NA,NA,NA,NA
+Q107279081,Katherine Tunstall,NA,NA,NA,NA
+Q107296253,Elizabeth Belding,NA,NA,NA,NA
+Q107302831,Rachel Osborn,NA,NA,NA,NA
+Q107311251,Priscilla Fuller,NA,NA,NA,NA
+Q107622034,Sarah Olcott,NA,NA,NA,NA
+Q107726773,"Nathaniel Foote, IV",NA,NA,NA,NA
+Q108102593,Elizabeth Fish,NA,NA,NA,NA
+Q108639142,Isaac Brush,NA,NA,NA,NA
+Q108678485,Mercy Holmes,NA,NA,NA,NA
+Q108687426,"Michael Spencer, of Lynn",NA,NA,NA,NA
+Q108687502,Joseph Freeman,NA,NA,NA,NA
+Q108688237,"Captain Samuel Doty, I, of Piscataway",NA,NA,NA,NA
+Q108852634,Mehitable Cone,NA,NA,NA,NA
+Q108913086,Katherine Harington,NA,NA,NA,NA
+Q109688636,Elder Thomas Faunce,NA,NA,NA,NA
+Q109733549,Abigail Forbes,NA,NA,NA,NA
+Q109852879,Jane FitzWilliam,NA,NA,NA,NA
+Q110066650,"Sir Edmund Rede (Reade), of Boarstall",NA,NA,NA,NA
+Q110067038,Elizabeth Danvers,NA,NA,NA,NA
+Q110067063,Anthony Fettiplace,NA,NA,NA,NA
+Q110067527,Joan Coningsby,NA,NA,NA,NA
+Q110067748,"John 'Hen' Trevor, of Brynkinault",NA,NA,NA,NA
+Q110067779,Margred ferch Ieuan ap Gruffudd ap Hywel,NA,NA,NA,NA
+Q110067802,Nest ferch Meurig Llwyd ap Meurig Fychan ab Ynyr Fychan,NA,NA,NA,NA
+Q110067840,Angharad (1) ferch Gruffudd Fychan ap Gruffudd ap Dafydd Gôch,NA,NA,NA,NA
+Q110067841,Gwenhwyfar ferch Einion ab Ithel ap Gwrgeneu Fychan of Rhiwaedog,NA,NA,NA,NA
+Q110152890,NN ferch Sir Thomas Barry,NA,NA,NA,NA
+Q110248869,Jane|Joan Norton,NA,NA,NA,NA
+Q110290123,Huw ap Llywelyn ap Hwlcyn of Presaddfed,NA,NA,NA,NA
+Q110290124,Jonet Bulkeley,NA,NA,NA,NA
+Q110290140,Marsli ferch Gruffudd ap Hywel ap Madog,NA,NA,NA,NA
+Q110290212,Mallt ferch Rhys ap Tudur ap Gronwy ap Tudur,NA,NA,NA,NA
+Q110290213,Gwenhwyfar ferch Hywel Fychan ab Ieuan ap Meredudd ap Hywel ap Dafydd,NA,NA,NA,NA
+Q110290214,Hywel Fychan ab Ieuan ap Maredudd ap Hywel ap Dafydd,NA,NA,NA,NA
+Q110290218,"John Owen, of Llanfaethlu",NA,NA,NA,NA
+Q110290362,Gruffudd ap Llywelyn ap Hwlcyn of Chwaen Hen,NA,NA,NA,NA
+Q110290363,Catrin ferch John ap Maredudd,NA,NA,NA,NA
+Q110290369,Angharad ferch Gwilym ap Gruffudd ap Gwilym of Penrhyn,NA,NA,NA,NA
+Q110290374,Rhys ab Ieuan Llwyd ap Gruffudd ap Gronwy,NA,NA,NA,NA
+Q110290377,Lowri ferch Hywel ap Madog ab Ieuan,NA,NA,NA,NA
+Q110290381,Jonet ferch Robert ap Maredudd ap Hwlkin Llwyd,NA,NA,NA,NA
+Q110290420,Gwenhwyfar ferch Hywel Coetmor ap Gruffudd Fychan ap Gruffudd,NA,NA,NA,NA
+Q110290444,Gwen ferch Gruffudd ap Llywelyn ap Cynwrig,NA,NA,NA,NA
+Q110290447,Gwerful ferch Ieuan ab Einion ap Gruffudd,NA,NA,NA,NA
+Q110290488,Efa (2) ferch Gruffudd Gôch ab Adda ap Madog,NA,NA,NA,NA
+Q110290595,Rhys ap Hywel ap Llywelyn ap Hywel of Llanfwrog,NA,NA,NA,NA
+Q110290615,Angharad ferch Tudur ap Gronwy ap Tudur Hên,NA,NA,NA,NA
+Q110290650,"Edmund Bulkeley, of Conway",NA,NA,NA,NA
+Q110290732,Gwenllian ferch Ieuaf ab Adda ab Awr,NA,NA,NA,NA
+Q110290760,Sir Thomas Salusbury,NA,NA,NA,NA
+Q110314384,Isabel Russell,NA,NA,NA,NA
+Q110315639,Anne Worsley,NA,NA,NA,NA
+Q110315640,Richard Hawte,NA,NA,NA,NA
+Q110315923,Anne Wakehurst,NA,NA,NA,NA
+Q110388260,Margaret Norton,NA,NA,NA,NA
+Q110388713,Margred ferch Dafydd ap Gwion Llwyd ap Dafydd ap Madog,NA,NA,NA,NA
+Q110388809,Margred ferch Gronwy ab Iorwerth (of Llai) ap Dafydd Hên ap Gronwy of Moreton,NA,NA,NA,NA
+Q110389233,"Constance Salusbury, of Lleweny",NA,NA,NA,NA
+Q110390618,Angharad (2) ferch Rhys ap Robert ap Gruffudd,NA,NA,NA,NA
+Q110395388,Jane Darrell (Darnell),NA,NA,NA,NA
+Q110398821,"Elizabeth de la Haye, of Spaldington",NA,NA,NA,NA
+Q110413433,Margred ferch Ynyr Vaughan ab Ynyr ap Meurig,NA,NA,NA,NA
+Q110413550,Margred ferch Ednyfed Gam,NA,NA,NA,NA
+Q110413620,Myfanwy ferch Ednyfed ap Tudur ap Gronwy,NA,NA,NA,NA
+Q110414057,Dafydd ap Rhydderch ab Ieuan Llywd ab Ieuan of Parc Rhydderch,NA,NA,NA,NA
+Q110414097,Hywel Selyf ap Meurig Llwyd ap Meurig Fychan ab Ynyr Fuchan of Nannau,NA,NA,NA,NA
+Q110414098,Mali ferch Einion ap Gruffudd ap Llywelyn,NA,NA,NA,NA
+Q110427118,Anne Dennis,NA,NA,NA,NA
+Q110439050,Jane Sackville,NA,NA,NA,NA
+Q110439078,Elizabeth Shelley,NA,NA,NA,NA
+Q110439565,Tudur Fychan ap Gwilym ap Gruffudd ap Gwilym of Penrhyn,NA,NA,NA,NA
+Q110439568,Gronwy Fychan ap Tudur Fychan ap Gronwy of Penmynydd,NA,NA,NA,NA
+Q110439571,"Annes Puleston, of Emral",NA,NA,NA,NA
+Q110440649,"Sir Alexander Metham, of Metham",NA,NA,NA,NA
+Q110441294,Maredudd ap Cynwrig ap Maredudd Ddû ap Gronwy of Porthamel,NA,NA,NA,NA
+Q110441300,John ap Gronwy ab Ieuan ab Einion of Gwynfryn,NA,NA,NA,NA
+Q110441302,Annes ferch Gruffudd ap Llywelyn ap Gruffudd,NA,NA,NA,NA
+Q110441308,Alice ferch Robert ap Gruffudd Vaughan,NA,NA,NA,NA
+Q110441345,Rhys ap Hywel ap Madog of Tregayan,NA,NA,NA,NA
+Q110441347,Mallt ferch Rhys ap Gruffudd of Gloddaeth,NA,NA,NA,NA
+Q110441357,Einion ap Hywel Coetmor ap Gruffudd Fychan ap Gruffudd,NA,NA,NA,NA
+Q110441380,Elen ferch Owain ap Meurig,NA,NA,NA,NA
+Q110441439,Morfudd ferch Dafydd Fychan ap Dafydd Llwyd,NA,NA,NA,NA
+Q110441477,Cwnws ap Dafydd Fychan ap Dafydd Llwyd of Trefeilir,NA,NA,NA,NA
+Q110441484,Robert ab Owain ap Meurig ap Llywelyn,NA,NA,NA,NA
+Q110441495,Rhys ap Llywelyn ap Hwlcyn,NA,NA,NA,NA
+Q110441504,Ieuan ap Rhys ab Ieuan of Pengwern,NA,NA,NA,NA
+Q110441561,Gwerful ferch Ieuan Llwyd ap Gruffudd ap Gronwy,NA,NA,NA,NA
+Q110441662,Margred ferch Gruffudd ap Llywelyn,NA,NA,NA,NA
+Q110441723,Mallt ferch Hwlcyn ap Hywel,NA,NA,NA,NA
+Q110441759,Angharad ferch Hywel y Farf,NA,NA,NA,NA
+Q110441818,Ieuan ap John ap Maredudd of Wern & Brynkir,NA,NA,NA,NA
+Q110441833,Elen ferch Llywelyn ap Hywel,NA,NA,NA,NA
+Q110507661,Sir Thomas Rempston,NA,NA,NA,NA
+Q110521016,Joan le Strange,NA,NA,NA,NA
+Q110526216,Amy Whetehill,NA,NA,NA,NA
+Q110582255,"Richard|Ralph Brereton, of Cheshire",NA,NA,NA,NA
+Q110582273,Tudo ferch Meurig Llwyd ap Meurig Fychan ab Ynyr Fychan of Nannau,NA,NA,NA,NA
+Q110582467,Dyddgu ferch Llywelyn ap Gronwy Fychan ap Gronwy,NA,NA,NA,NA
+Q110586133,"Jane Done, of Utkinton",NA,NA,NA,NA
+Q110615670,Cecily Norton,NA,NA,NA,NA
+Q110615916,Elizabeth Thwaites,NA,NA,NA,NA
+Q110635115,Catrin ferch Owain ap Meurig ap Llywelyn of Bôdeon,NA,NA,NA,NA
+Q110635170,Gwen ferch Thomas Vaughan,NA,NA,NA,NA
+Q110635203,Cwnws ap Hywel ab Iorwerth Ddû ap Gruffudd of Traphwll,NA,NA,NA,NA
+Q110635206,Mallt ferch Dafydd Fychan ap Dafydd Llwyd,NA,NA,NA,NA
+Q110635290,"John Griffith, of Cefnamwich",NA,NA,NA,NA
+Q110635332,Margred ferch Ieuan ab Einion ap Gruffudd,NA,NA,NA,NA
+Q110635333,Gwladys ferch Ieuan Llwyd ap Gruffudd ap Gronwy,NA,NA,NA,NA
+Q110635335,Margred ferch Gruffudd Fychan ap Gruffudd ap Dafydd Gôch,NA,NA,NA,NA
+Q110635525,John ab Ieuan ap Maredudd ap Hywel,NA,NA,NA,NA
+Q110635570,Margred ferch Gruffudd ap Hywel,NA,NA,NA,NA
+Q110635724,Hywel Fychan ab Ieuan ab Einion ap Gruffudd of Bron-y-Foel,NA,NA,NA,NA
+Q110635733,Rhys Gethin ap Gruffudd Fychan of Hendre Rhys Gethin,NA,NA,NA,NA
+Q110635735,Morfudd ferch Hywel ap Meurig Fychan ab Ynyr Fychan,NA,NA,NA,NA
+Q110635799,Elen ferch John ap Maredudd (of Ystumcegid) ab Ieuan ap Maredudd,NA,NA,NA,NA
+Q110636352,Efa ferch Rhys ab Ieuan ap Rhys,NA,NA,NA,NA
+Q110636355,Nest ferch Dafydd ap Maredudd ab Ieuan,NA,NA,NA,NA
+Q110636509,Catrin ferch Maredudd ap Hwlkin Llwyd of Glynllifon,NA,NA,NA,NA
+Q110636637,Madog ap Hywel ap Madog ab Ieuan of Pennarth,NA,NA,NA,NA
+Q110636771,Lleucu ferch Dafydd Fychan,NA,NA,NA,NA
+Q110636843,Marsli (2) ferch Maredudd ap Hywel ap Dafydd,NA,NA,NA,NA
+Q110636987,Rhys ab Ieuan ab Einion ap Gruffudd,NA,NA,NA,NA
+Q110637025,Angharad ferch Maredudd ap Hwlkin Llwyd of Glynllifon,NA,NA,NA,NA
+Q110637470,"James Fettiplace, of Maidencourt",NA,NA,NA,NA
+Q110639014,"Sir John FitzWilliam, of Sprotborough",NA,NA,NA,NA
+Q110653616,"Samuel Spencer, of Haddam",NA,NA,NA,NA
+Q110653629,Hannah Brainerd,NA,NA,NA,NA
+Q110662599,Margred ferch Meurig ap Llywelyn,NA,NA,NA,NA
+Q110730675,Anne Guildford (Guldeford),NA,NA,NA,NA
+Q111452933,Alice Berkeley,NA,NA,NA,NA
+Q111465022,"Janet Done, of Utkinton",NA,NA,NA,NA
+Q111466622,Anne Shelley,NA,NA,NA,NA
+Q111525144,John Markenfield,NA,NA,NA,NA
+Q111863595,Margaret Hand,NA,NA,NA,NA
+Q111917395,Margaret Owen,NA,NA,NA,NA
+Q111971814,Margaret Coningsby,NA,NA,NA,NA
+Q111996102,Jane Mallory,NA,NA,NA,NA
+Q112219957,Mary Hall,NA,NA,NA,NA
+Q112382716,Eleanor Thwaites,NA,NA,NA,NA
+Q112382969,Joan (or Elizabeth) de Thwenge,NA,NA,NA,NA
+Q112382975,"Elizabeth Constable, of Halsham",NA,NA,NA,NA
+Q112531178,Margred ferch Huw ap Robin ap Gruffudd Gôch Conwy,NA,NA,NA,NA
+Q112533675,Gwerful Fychan ferch Hywel ap Madog ab Ieuan,NA,NA,NA,NA
+Q112943051,Jane Hungerford,NA,NA,NA,NA
+Q112943139,Ann Stafford,NA,NA,NA,NA
+Q113336067,Abigail Bouton,NA,NA,NA,NA
+Q114341842,Mehitable Ingraham,NA,NA,NA,NA
+Q114436518,Elizabeth Clarke,NA,NA,NA,NA
+Q114797128,Sgt. Obadiah Dickinson,NA,NA,NA,NA
+Q114797156,Rebecca Smith,NA,NA,NA,NA
+Q114797199,John Dickinson,NA,NA,NA,NA
+Q114797208,"Samuel Dickenson, I",NA,NA,NA,NA
+Q114797209,Hezekiah Dickenson,NA,NA,NA,NA
+Q114832034,Faith Foster,NA,NA,NA,NA
+Q115563954,Elizabeth Camp,NA,NA,NA,NA
+Q115573795,Mindwell Loomis,NA,NA,NA,NA
+Q115575022,"Marah ""Alice"" Shaylor",NA,NA,NA,NA
+Q115575170,Rebecca Ackley,NA,NA,NA,NA
+Q115575390,Timothy Spencer,NA,NA,NA,NA
+Q115575415,Thomas Lawrence Spencer,NA,NA,NA,NA
+Q115655966,Hannah Higley,NA,NA,NA,NA
+Q115678575,Joanna Vaughan,NA,NA,NA,NA
+Q115707595,Esther Colton,NA,NA,NA,NA
+Q115861033,"Enoch Drake, I",NA,NA,NA,NA
+Q115904050,Mary Marshall,NA,NA,NA,NA
+Q116026824,"John Norton, of Norton Conyers",NA,NA,NA,NA
+Q116029022,"Simon Leke (Leeke), of Cotham",NA,NA,NA,NA
+Q116042263,"John Bamfield, of Poltimore",NA,NA,NA,NA
+Q116042288,"Constantine Darell, of Collingbourne",NA,NA,NA,NA
+Q116054227,Elizabeth|Joanna Villiers,NA,NA,NA,NA
+Q116054343,Elizabeth Hungerford,NA,NA,NA,NA
+Q116054485,Iorwerth ab Ieuan ab Adda ab Iorwerth Ddû ab Ednyfedd Gâm of Plâs Newydd,NA,NA,NA,NA
+Q116054596,Angharad Barre,NA,NA,NA,NA
+Q116054866,Hywel ab Ynyr Fychan ab Ynyr ap Meurig,NA,NA,NA,NA
+Q116058827,Thomas Tunstall,NA,NA,NA,NA
+Q116108311,"William Fettiplace, of Stokenchurch",NA,NA,NA,NA
+Q116108905,Margred ferch Dafydd ab Endyfed Gam ab Iorwerth Foel,NA,NA,NA,NA
+Q116108912,Morfudd ferch Gruffudd Fychan ap Gruffudd ap Madog Fychan,NA,NA,NA,NA
+Q116110812,Gruffudd ap Maredudd Ddû ap Gruffudd ap Maredudd,NA,NA,NA,NA
+Q116115071,Dafydd Llwyd ab Ithel ap Gwrgeneu Fychan ap Gwrgeneu,NA,NA,NA,NA
+Q116118346,Elizabeth Wydville,NA,NA,NA,NA
+Q116125148,"Eleanor Done, of Utkinton",NA,NA,NA,NA
+Q116136480,"Joan Scott, of Scott's Hall",NA,NA,NA,NA
+Q116145424,Joyce Worsley,NA,NA,NA,NA
+Q116145528,Margred ferch John ap Maredudd ab Ieuan,NA,NA,NA,NA
+Q116146711,Rhys ap Rhydderch ab Ieuan Llwyd ab Ieuan,NA,NA,NA,NA
+Q116146762,Gwladus ferch Dafydd ap Hywel ap Gruffudd of Rûg,NA,NA,NA,NA
+Q116147192,Lleucu ferch Maredudd ab Ieuan Gôch ap Dafydd Gôch,NA,NA,NA,NA
+Q116147485,Robin|Rotpert Llwyd ap Rhys ap Robert ap Gruffudd,NA,NA,NA,NA
+Q116147488,Owain Fychan ab Owain Hên ap Gruffudd ab Owain of Llangwm,NA,NA,NA,NA
+Q116147489,Gwenllian ferch Tudur ab Ithel Fychan ab Ithel Llwyd,NA,NA,NA,NA
+Q116147642,Mabli ferch Dafydd ap Rhys ab Ieuan,NA,NA,NA,NA
+Q116147659,Annes ferch Huw Conwy,NA,NA,NA,NA
+Q116147728,Angharad ferch Ynyr Fychan ab Ynyr ap Meurig,NA,NA,NA,NA
+Q116147758,Mali Llwyd ferch Ieuan Llwyd ap Gruffudd ap Gronwy,NA,NA,NA,NA
+Q116147967,Marsli ferch Edmund Stanley,NA,NA,NA,NA
+Q116148115,"John ap Robin ap Gruffudd Gôch ap Dafydd Conwy, of Plas ucha",NA,NA,NA,NA
+Q116148116,Nest ferch Gruffudd ap Hywel Coetmor,NA,NA,NA,NA
+Q116148156,Gwenhwyfar ferch Edmund Stanley,NA,NA,NA,NA
+Q116155939,Gwilym ab Ieuan Llwyd ap Gruffudd ap Gronwy,NA,NA,NA,NA
+Q116155940,Elen ferch Einion ab Ynyr Fychan,NA,NA,NA,NA
+Q116155953,Margred ferch Rhydderch ab Ieuan Llwyd ab Ieuan ap Gruffudd Foel,NA,NA,NA,NA
+Q116155956,Maredudd Fychan ap Maredudd ab Ieuan Gôch ap Dafydd Gôch,NA,NA,NA,NA
+Q116155958,Angharad ferch Hwlkin Llwyd,NA,NA,NA,NA
+Q116156567,Morgan Llwyd ab Ieuan ap Maredudd,NA,NA,NA,NA
+Q116156581,Edmund Llwyd ap Robert ap Maredudd of Glynllifon,NA,NA,NA,NA
+Q116156604,Richard ap Robert ap Maredudd ap Hwlcyn,NA,NA,NA,NA
+Q116156741,"Thomas Langford, of Bradfield",NA,NA,NA,NA
+Q116168743,Jane Harcourt,NA,NA,NA,NA
+Q116171550,Sir Henry Sothill,NA,NA,NA,NA
+Q116174215,"Richard Walwyn, of Hellens",NA,NA,NA,NA
+Q116177831,Griselda Belknap,NA,NA,NA,NA
+Q116180393,Ann Mallory,NA,NA,NA,NA
+Q116265997,Lydia Lockwood,NA,NA,NA,NA
+Q116459886,Sarah Backus,NA,NA,NA,NA
+Q116477683,Gwladus ferch Dafydd Fychan ap Dfaydd Llwyd ap Cynwrig,NA,NA,NA,NA
+Q116477835,Gruffudd ab Ynyr Fychan ab Ynyr ap Meurig,NA,NA,NA,NA
+Q116477955,Myfanwy ferch Hywel ap Madog,NA,NA,NA,NA
+Q116477987,Gwenhwyfar ferch Ieuan Llwyd ap Gruffudd ap Gronwy ap Hywel,NA,NA,NA,NA
+Q116478408,Isabel ferch Gruffudd ap Dafydd ab Ieuan,NA,NA,NA,NA
+Q116478419,John Bodwdra ab Ieuan ap Maredudd ab Ieuan Llwyd,NA,NA,NA,NA
+Q116478478,Dafydd Llwyd ap John ap Gruffudd of Llangwnadle,NA,NA,NA,NA
+Q116478520,Gruffudd ap John ap Maredudd of Issallt,NA,NA,NA,NA
+Q116478530,Hywel ap Dafydd Fychan ab Ieuan ap Maredudd of Saethon,NA,NA,NA,NA
+Q116478542,John ap Robin|Robert Fychan ap Gruffudd ap Hywel Wynn alias Whyte,NA,NA,NA,NA
+Q116478545,"Gwilym Glynne, of Lleuar",NA,NA,NA,NA
+Q116478782,Einion ap Llywelyn ap Cynwrig ab Osborn Wyddel,NA,NA,NA,NA
+Q116479588,Lowri ferch Gronwy ab Ieuan ab Einion,NA,NA,NA,NA
+Q116479724,Huw ap Robert Vaughan,NA,NA,NA,NA
+Q116480317,Martha Cotton,NA,NA,NA,NA
+Q116812674,Elizabeth ferch Owain ap Meyrick ap Llywelyn,NA,NA,NA,NA
+Q116812709,"John ap Thomas Hên ap Henry Salusbury, of Bachymbyd",NA,NA,NA,NA
+Q116812713,Dafydd ap Hywel Coetmor ap Gruffudd Fychan ap Gruffudd,NA,NA,NA,NA
+Q116868243,Silence Tower,NA,NA,NA,NA
+Q116924148,Capt Ichabod Tupper,NA,NA,NA,NA
+Q117289934,Rebecca Jackson,NA,NA,NA,NA
+Q117305996,Maredudd ab Ednyfed Gam ab Iorwerth Foel ab Iorwerth Fychan,NA,NA,NA,NA
+Q117306773,Rhys ap Gruffudd Gôch ab Adda of Ceri,NA,NA,NA,NA
+Q117306787,Ieuan ab Ednyfed Gam,NA,NA,NA,NA
+Q117306877,Lowri ferch Robert Fychan a[ Gruffudd ap Hywel,NA,NA,NA,NA
+Q117306894,Rhys ab Ieuan ab Einion ap Gruffudd,NA,NA,NA,NA
+Q117306898,Maredudd Drwstan ap Dafydd ap Maredudd ap Dafydd Gôch,NA,NA,NA,NA
+Q117306996,Maredudd Fychan ap Maredudd ap Hywel of Llanbister,NA,NA,NA,NA
+Q117307150,Rhys ap Gruffudd ap Gwilym ap Gruffudd of Plas y Nant,NA,NA,NA,NA
+Q117307161,Lleuci ferch Gruffudd ap Hywel Coetmor ap Gruffudd Fychan,NA,NA,NA,NA
+Q117450284,Sarah Bonham,NA,NA,NA,NA
+Q118164050,Joseph Gates,NA,NA,NA,NA
+Q119010127,Nehemiah Dickinson,NA,NA,NA,NA
+Q120326196,"Ephraim Foote, Jr.",NA,NA,NA,NA
+Q121394511,Caleb Stanley,NA,NA,NA,NA
+Q121686207,Joseph Faunce,NA,NA,NA,NA
+Q121856312,Sarah Lawrence,NA,NA,NA,NA
+Q121856383,Mary Blackwell,NA,NA,NA,NA
+Q121863279,Joseph Josiah Hallett,NA,NA,NA,NA
+Q122259973,Christian Hungerford,NA,NA,NA,NA
+Q122260331,"Sir Isaac Appleton, of Waldingfield",NA,NA,NA,NA
+Q122361445,"Richard ab Iorwerth ap Dafydd ab Ednyfed Gam Trevor, of Oswestry",NA,NA,NA,NA
+Q122361552,Angharad Fechan ferch Llywelyn ab Owain ap Gruffudd,NA,NA,NA,NA
+Q122362846,"Joan|Margaret Tempest, of Bracewell",NA,NA,NA,NA
+Q122364354,"Robert|Francis Gale, of Akeham Grange",NA,NA,NA,NA
+Q122364575,Margery|Margaret|Marian Constable,NA,NA,NA,NA
+Q123336416,Aurelia Chan Zuckerberg,NA,NA,NA,NA
+Q123668403,Katherine Nye,NA,NA,NA,NA
+Q123729264,"Sarah Hadlock, I",NA,NA,NA,NA
+Q123930131,Patience Holmes,NA,NA,NA,NA
+Q123991823,Elizabeth Turner,NA,NA,NA,NA
+Q124007704,Sarah Mighill,NA,NA,NA,NA
+Q124049000,Sarah Kellogg,NA,NA,NA,NA
+Q124066750,Sarah Thomas,NA,NA,NA,NA
+Q124704707,Eleanor FitzAlan,NA,NA,NA,NA
+Q124744652,Deacon Joseph Dickenson,NA,NA,NA,NA
+Q125223690,"John Barber, I",NA,NA,NA,NA
+Q125223923,Joseph Barber,NA,NA,NA,NA
+Q125224172,Josiah Barber,NA,NA,NA,NA
+Q125224210,"Lt. Thomas Barber, II, of Simsbury",NA,NA,NA,NA
+Q125230058,Elizabeth Loomis,NA,NA,NA,NA
+Q125417224,Abraham Day,NA,NA,NA,NA
+Q125417244,Irene Day,NA,NA,NA,NA
+Q125604199,"Experience Damon, Sr.",NA,NA,NA,NA
+Q125986300,Richard Hallett,NA,NA,NA,NA
+Q126098281,Joseph Bledsoe,NA,NA,NA,NA
+Q126681359,Hannah Jennings,NA,NA,NA,NA
+Q126890776,Simon Gates,NA,NA,NA,NA
+Q127227267,Anne Hungerford,NA,NA,NA,NA
+Q127227841,Mary Hungerford,NA,NA,NA,NA
+Q127328853,Mary Stetson,NA,NA,NA,NA
+Q128210460,Elizabeth Lazell,NA,NA,NA,NA
+Q128809143,Mehitable Burnham,NA,NA,NA,NA
+Q129194160,Freedom Chamberlain,NA,NA,NA,NA
+Q129679148,"Stephen Gates, II",NA,NA,NA,NA
+Q129910745,"John Drake, of Hartford, Connecticut Colony",NA,NA,NA,NA
+Q130320501,"Abraham Bledsoe, Sr",NA,NA,NA,NA
+Q130335812,Joan Danvers,NA,NA,NA,NA
+Q130338874,Elen ferch Ieuan ab Einion ap Gruffudd ap Llywelyn,NA,NA,NA,NA
+Q130338909,Janet ferch Huw Conwy,NA,NA,NA,NA
+Q130339177,Angharad (2) ferch Gruffudd Fychan ap Gruffudd ap Dafydd Gôch,NA,NA,NA,NA
+Q130339229,Gruffudd Leiaf ap Gruffudd Fychan ap Gruffudd ap Dafydd Gôch,NA,NA,NA,NA
+Q130339232,Catrin ferch Maredudd ab Ieuan ap Maredudd of Celynennan,NA,NA,NA,NA
+Q130339411,"Sir Kynard de la Bere (Delabere), of Kinnersley Castle",NA,NA,NA,NA
+Q130339412,Joan Barre,NA,NA,NA,NA
+Q130340340,Annesta ferch Rhys ap Robert ap Gruffudd,NA,NA,NA,NA
+Q130340374,Gronwy Wyn ap Gruffudd ap Gronwy ap Hywel,NA,NA,NA,NA
+Q130340470,Gruffudd ap Maredudd ap Hywel ap Philip Dorddu,NA,NA,NA,NA
+Q130340475,Morfudd ferch Ieuan Llwyd ap Gruffudd ap Gronwy,NA,NA,NA,NA
+Q130340641,"Mary Done, of Utkinton",NA,NA,NA,NA
+Q130353223,"Roger Poure, of Bletchingdon",NA,NA,NA,NA
+Q130353227,"Elizabeth Danvers, of Banbury",NA,NA,NA,NA
+Q130358745,Gwerful ferch Rhydderch ab Ieuan Llwyd ab Ieuan,NA,NA,NA,NA
+Q130358785,Philip ap Rhydderch ab Ieuan Llwyd ab Ieuan of Llanddewibrefi,NA,NA,NA,NA
+Q130358908,Gwerful ferch Gronwy ab Ieuan ab Einion,NA,NA,NA,NA
+Q130391297,William Scrope,NA,NA,NA,NA
+Q130648060,"Humphrey Coningsby, of Nene Solers",NA,NA,NA,NA
+Q130648366,Jonet ferch Gruffudd ap Gwilym,NA,NA,NA,NA
+Q130728603,William DuVal,NA,NA,NA,NA
+Q130919959,"William Spencer, Sr.",NA,NA,NA,NA
+Q130987089,Thomas Woodworth,NA,NA,NA,NA
+Q131154601,Thomas Davenport,NA,NA,NA,NA
+Q131179528,Jonathan Draper,NA,NA,NA,NA
+Q131299979,Joseph Ketchum,NA,NA,NA,NA
+Q131347206,Thomas ap Rhydderch ab Ieuan Llwyd ab Ieuan,NA,NA,NA,NA
+Q131355888,Desire Standish,NA,NA,NA,NA
+Q131356643,Ruth Clark,NA,NA,NA,NA
+Q131356672,Mary Clark,NA,NA,NA,NA
+Q131364646,Mercy Norton,NA,NA,NA,NA
+Q131366956,Rachel Judd,NA,NA,NA,NA
+Q131369585,Capt. Joseph Drake,NA,NA,NA,NA
+Q131447977,Dorothy Isham,NA,NA,NA,NA
+Q131447983,Editha Bigelow,NA,NA,NA,NA
+Q131577421,Benjamin Keeler,NA,NA,NA,NA
+Q131584766,John Edward Ketchum,NA,NA,NA,NA
+Q131584775,Jerusha Ketcham,NA,NA,NA,NA
+Q131741162,"John Bond, of Lutton",NA,NA,NA,NA
+Q131784453,Elizabeth Beckenshaw,NA,NA,NA,NA
+Q131786919,Elizabeth Sargent,NA,NA,NA,NA
+Q131787330,Isaac Perkins,NA,NA,NA,NA
+Q131787339,Lydia Newcomb,NA,NA,NA,NA
+Q132132332,Abner Woodworth,NA,NA,NA,NA
+Q132528670,Mary Rowe,NA,NA,NA,NA
+Q133264155,Elizabeth Johnson,NA,NA,NA,NA
+Q133461211,Gwerful ferch Ieuan Fychan ab Ieuan ab Adda,NA,NA,NA,NA
+Q133461301,Llywelyn Gôch ap Rhydderch ap Rhys ab Ieuan Llwyd ab Ieuan,NA,NA,NA,NA
+Q134471606,Martha Fones Winthrop,NA,NA,NA,NA
+Q135286366,John Titus,NA,NA,NA,NA
+Q135582897,John Samuel Strait,NA,NA,NA,NA
+Q135682229,"Lewys ab Owain ap Meurig ap Llywelyn Owen, of Frondeg",NA,NA,NA,NA
+Q135841386,"Jacob Perkins, II",NA,NA,NA,NA
+Q136243199,Sibyl Croft,NA,NA,NA,NA
+Q136336570,Mary Sackville,NA,NA,NA,NA
+Q136506456,Gwenllian (2) ferch Dafydd ap Hywel ap Gruffudd,NA,NA,NA,NA
+Q136506497,Ieuan ab Y Giwn Llwyd ap Dafydd ap Madog of Yr Hendwr,NA,NA,NA,NA
+Q1489164,Gabriel Duvall,NA,NA,NA,NA
+Q14940017,George Browne,NA,NA,NA,NA
+Q15441072,Nathaniel Morton,NA,NA,NA,NA
+Q16152750,Samuel Appleton,NA,NA,NA,NA
+Q16854048,"Matthew Marvin, Jr.",NA,NA,NA,NA
+Q16854050,"Matthias Sention, Jr.",NA,NA,NA,NA
+Q16859354,John Keeler,NA,NA,NA,NA
+Q16863406,Eleanor St Clere,NA,NA,NA,NA
+Q1701151,"John Mowbray, 2. Duke of Norfolk",NA,NA,NA,NA
+Q17138647,Joan Mowbray,NA,NA,NA,NA
+Q17140018,Elizabeth FitzHugh,NA,NA,NA,NA
+Q18203821,Goronwy ap Tudur Fychan,NA,NA,NA,NA
+Q1840340,Megan Ellison,NA,NA,NA,NA
+Q18531404,William Hody,NA,NA,NA,NA
+Q18535667,Gwilym ap Tudur,NA,NA,NA,NA
+Q18546885,Thomas Croft,NA,NA,NA,NA
+Q18576361,Isabel Chaworth,NA,NA,NA,NA
+Q18672778,William Harrington,NA,NA,NA,NA
+Q18810612,Baldwin Mountford,NA,NA,NA,NA
+Q18875700,Edmund Mountford,NA,NA,NA,NA
+Q18922323,Henry Stradling,NA,NA,NA,NA
+Q20065311,Humphrey Stafford,NA,NA,NA,NA
+Q20685109,Carrie Walton Penner,NA,NA,NA,NA
+Q20713522,Thomas Jermyn,NA,NA,NA,NA
+Q2159225,"Robert Willoughby, 6. Baron Willoughby de Eresby",NA,NA,NA,NA
+Q2168348,Richard Shelley,NA,NA,NA,NA
+Q22276668,Arielle Zuckerberg,NA,NA,NA,NA
+Q22276670,Donna Zuckerberg,NA,NA,NA,NA
+Q22302383,Maxima Zuckerberg,NA,NA,NA,NA
+Q23011254,Jennifer Katharine Gates,NA,NA,NA,NA
+Q23011256,Phoebe Adele Gates,NA,NA,NA,NA
+Q23011257,Rory John Gates,NA,NA,NA,NA
+Q23661898,"Henry FitzHugh, 5. Baron FitzHugh",NA,NA,NA,NA
+Q23784752,Mark Bezos,NA,NA,NA,NA
+Q24524594,Steuart Walton,NA,NA,NA,NA
+Q25183361,Thomas Spencer,NA,NA,NA,NA
+Q25712290,Robert Harcourt,NA,NA,NA,NA
+Q26218366,"Elizabeth Ferrers, 6. Baroness Ferrers of Groby",NA,NA,NA,NA
+Q27493894,"Stephen Scrope, 2. Baron Scrope of Masham",NA,NA,NA,NA
+Q27978779,"Thomas Berkeley, 5th Baron Berkeley",NA,NA,NA,NA
+Q28321778,Thomas Frowyk,NA,NA,NA,NA
+Q292708,Randi Zuckerberg,NA,NA,NA,NA
+Q317279,Owain Glyndŵr,NA,NA,NA,NA
+Q3431392,Richard le Scrope,NA,NA,NA,NA
+Q4079744,Howard Graham Buffett,NA,NA,NA,NA
+Q44507372,Joan Belknap,NA,NA,NA,NA
+Q4772162,Anthony Browne,NA,NA,NA,NA
+Q4772765,Anthony Hungerford of Black Bourton,NA,NA,NA,NA
+Q484669,John T. Walton,NA,NA,NA,NA
+Q51857953,William Beauchamp,NA,NA,NA,NA
+Q51862057,Roger Strange,NA,NA,NA,NA
+Q5233363,David Ellison,NA,NA,NA,NA
+Q5339478,Edmund Freeman,NA,NA,NA,NA
+Q5341845,Edward Belknap,NA,NA,NA,NA
+Q5343554,Edward Hungerford,NA,NA,NA,NA
+Q5354429,Eleanor de Mowbray,NA,NA,NA,NA
+Q5362663,Elizabeth Darrell,NA,NA,NA,NA
+Q55721066,Thomas Mayhew Jr.,NA,NA,NA,NA
+Q56222319,Doris Buffett,NA,NA,NA,NA
+Q58327962,Isabel Worsley,NA,NA,NA,NA
+Q5930543,Hugh Denys,NA,NA,NA,NA
+Q60627637,Thomas CHARLTON,NA,NA,NA,NA
+Q61895868,Robert or Thomas Knollys,NA,NA,NA,NA
+Q61911816,Elizabeth Mortimer,NA,NA,NA,NA
+Q61913325,Anne Belknap,NA,NA,NA,NA
+Q61913375,Elizabeth Goushill,NA,NA,NA,NA
+Q61927402,Margaret Bromflete,NA,NA,NA,NA
+Q61962934,Sir Thomas Willoughby,NA,NA,NA,NA
+Q61963533,Joan FitzHugh,NA,NA,NA,NA
+Q61971583,"William le Botiler, 3rd Baron le Botiller",NA,NA,NA,NA
+Q6205590,"Joan de Beauchamp, Baroness Bergavenny",NA,NA,NA,NA
+Q6219518,John Arundel,NA,NA,NA,NA
+Q6228565,John Darell,NA,NA,NA,NA
+Q6236610,John Gurdon,NA,NA,NA,NA
+Q6239433,John Hoar,NA,NA,NA,NA
+Q6240151,John Howland,NA,NA,NA,NA
+Q6256452,John Sackville,NA,NA,NA,NA
+Q6257124,John Scott of Scott's Hall,NA,NA,NA,NA
+Q6257376,John Seymour,NA,NA,NA,NA
+Q6265597,"John de Mowbray, 1st Earl of Nottingham",NA,NA,NA,NA
+Q6290416,Josiah Barber,NA,NA,NA,NA
+Q6739909,"Thomas Mowbray, 2. Earl of Nottingham",NA,NA,NA,NA
+Q6758768,Maredudd ap Tudur,NA,NA,NA,NA
+Q6779107,Mary Bradbury,NA,NA,NA,NA
+Q6792880,Maurice Berkeley,NA,NA,NA,NA
+Q715792,"Thomas Fitzalan, 12. Earl of Arundel",NA,NA,NA,NA
+Q7173047,Peter Buffett,NA,NA,NA,NA
+Q720766,John Winthrop,NA,NA,NA,NA
+Q7287258,"Ralph Boteler, 1. Baron Sudeley",NA,NA,NA,NA
+Q7308908,"Reginald West, 6th Baron De La Warr",NA,NA,NA,NA
+Q7324902,Richard Cornell,NA,NA,NA,NA
+Q7326109,Richard Guildford,NA,NA,NA,NA
+Q7344361,Robert FitzHugh,NA,NA,NA,NA
+Q7345699,"Robert Hungerford, 2nd Baron Hungerford",NA,NA,NA,NA
+Q7351373,Robert ap Maredudd,NA,NA,NA,NA
+Q7351439,Robert de Umfraville,NA,NA,NA,NA
+Q75239847,Margaret de Mowbray,NA,NA,NA,NA
+Q75240092,Elizabeth FitzWilliam,NA,NA,NA,NA
+Q75241172,Sir Lawrence Cheney,NA,NA,NA,NA
+Q75241175,Alice Tunstall,NA,NA,NA,NA
+Q75241193,Marina Beller,NA,NA,NA,NA
+Q75241204,Alice Hawte,NA,NA,NA,NA
+Q75241287,Elizabeth de Umfreville,NA,NA,NA,NA
+Q75247595,Nest (?),NA,NA,NA,NA
+Q75248129,Maud de Umfreville,NA,NA,NA,NA
+Q75248195,Gilbert V de Umfraville,NA,NA,NA,NA
+Q75248201,Joan de Umfreville,NA,NA,NA,NA
+Q75248237,Agnes de Umfreville,NA,NA,NA,NA
+Q75248362,Elizabeth Hungerford,NA,NA,NA,NA
+Q75251080,Lady Margaret FitzAlan,NA,NA,NA,NA
+Q75253659,Joan Goushill,NA,NA,NA,NA
+Q75255418,William Landwade Cotton,NA,NA,NA,NA
+Q75257135,Sir Thomas de Willoughby,NA,NA,NA,NA
+Q75257696,Sir Geoffrey le Scrope,NA,NA,NA,NA
+Q75268130,Elizabeth Willoughby,NA,NA,NA,NA
+Q75268879,Humphrey Arundell,NA,NA,NA,NA
+Q75271895,Sir Maurice Berkeley,NA,NA,NA,NA
+Q75271898,Katharine Berkeley,NA,NA,NA,NA
+Q75279212,Sir William FitzWilliam,NA,NA,NA,NA
+Q75299012,Isabel LeStrange,NA,NA,NA,NA
+Q75299337,Emmote Wheathill,NA,NA,NA,NA
+Q75382747,John FitzAlan,NA,NA,NA,NA
+Q75382824,Anice de Cromwell,NA,NA,NA,NA
+Q75387414,Sir Richard Dayrell,NA,NA,NA,NA
+Q75387589,Margaret Fychan,NA,NA,NA,NA
+Q75387654,Maud de Grey,NA,NA,NA,NA
+Q75389443,Sir John le Scrope,NA,NA,NA,NA
+Q75389481,Angharad ferch Adda,NA,NA,NA,NA
+Q75400613,Elizabeth Stafford,NA,NA,NA,NA
+Q75401045,Henry Berkeley,NA,NA,NA,NA
+Q75418810,Thomas Meade,NA,NA,NA,NA
+Q75418817,Joyce Stafford,NA,NA,NA,NA
+Q75420107,John de Berkeley,NA,NA,NA,NA
+Q75420110,Maurice Berkeley,NA,NA,NA,NA
+Q75420128,James Berkeley,NA,NA,NA,NA
+Q75420130,Thomas Berkeley,NA,NA,NA,NA
+Q75433099,Dorothy Gale,NA,NA,NA,NA
+Q75443650,Elizabeth Whettle,NA,NA,NA,NA
+Q75446938,"Ralph de Cromwell, 2. Baron Cromwell",NA,NA,NA,NA
+Q75453577,Elizabeth Beconshaw,NA,NA,NA,NA
+Q75464102,Margaret Foljambe,NA,NA,NA,NA
+Q75464240,Elizabeth FitzHugh,NA,NA,NA,NA
+Q75508292,John Duvall,NA,NA,NA,NA
+Q75517094,Maud FitzHugh,NA,NA,NA,NA
+Q75517581,Anne FitzWilliam,NA,NA,NA,NA
+Q75520983,Joyce Burnell,NA,NA,NA,NA
+Q75521423,Katherine Burnell,NA,NA,NA,NA
+Q75523325,Margery Darrell,NA,NA,NA,NA
+Q75541548,John Carew,NA,NA,NA,NA
+Q75552091,William Brereton,NA,NA,NA,NA
+Q75552096,Ellen Mainwaring,NA,NA,NA,NA
+Q75556560,John Villiers,NA,NA,NA,NA
+Q75558031,Agnes Danvers,NA,NA,NA,NA
+Q75565176,Florence Darrell,NA,NA,NA,NA
+Q75577605,Thomas Stanley,NA,NA,NA,NA
+Q75586469,Walter Hungerford,NA,NA,NA,NA
+Q75587674,Elizabeth de Cromwell,NA,NA,NA,NA
+Q75591248,John Harcourt,NA,NA,NA,NA
+Q75609668,Robert Browne,NA,NA,NA,NA
+Q75609676,Katherine Browne,NA,NA,NA,NA
+Q75609679,Thomas Browne,NA,NA,NA,NA
+Q75609681,Jane Browne,NA,NA,NA,NA
+Q75610279,Thomas Coningsby,NA,NA,NA,NA
+Q75612429,William Browne,NA,NA,NA,NA
+Q75613020,Sir John Mortimer,NA,NA,NA,NA
+Q75616820,Isabel Harington,NA,NA,NA,NA
+Q75618747,Robert Lewis,NA,NA,NA,NA
+Q75624098,Dorothy Vaughan,NA,NA,NA,NA
+Q75645577,John Berkeley,NA,NA,NA,NA
+Q75669363,Randall Mainwaring,NA,NA,NA,NA
+Q75674916,Elizabeth Blount,NA,NA,NA,NA
+Q75675922,Elizabeth Berkeley,NA,NA,NA,NA
+Q75723425,Marmaduke Darell,NA,NA,NA,NA
+Q75760439,Sir Thomas Blount,NA,NA,NA,NA
+Q75764614,Elijah Keeler,NA,NA,NA,NA
+Q75764741,Judith Woodworth,NA,NA,NA,NA
+Q75764956,John House,NA,NA,NA,NA
+Q75765694,Rebecca Foote,NA,NA,NA,NA
+Q75769369,Sir Edward Croft,NA,NA,NA,NA
+Q75771276,Sir John Fitzwilliam,NA,NA,NA,NA
+Q75772979,Elizabeth Shelley,NA,NA,NA,NA
+Q75774933,Sir Robert Clifton,NA,NA,NA,NA
+Q75774984,John Dutton,NA,NA,NA,NA
+Q75775745,Sir Thomas Cornwall,NA,NA,NA,NA
+Q75776170,Catharine Berkeley,NA,NA,NA,NA
+Q75787328,Elizabeth Woodville,NA,NA,NA,NA
+Q75791763,Anne Harcourt,NA,NA,NA,NA
+Q75791771,Margaret Danvers,NA,NA,NA,NA
+Q75792220,Richard Croft,NA,NA,NA,NA
+Q75794045,Joan Fitzwilliam,NA,NA,NA,NA
+Q75794057,Ann Fitzwilliam,NA,NA,NA,NA
+Q75794120,Katherine de la Haye,NA,NA,NA,NA
+Q75795926,Sir William Troutbeck,NA,NA,NA,NA
+Q75811441,Elizabeth Darcy,NA,NA,NA,NA
+Q75811446,Margery Darcy,NA,NA,NA,NA
+Q75826767,Edward Shelley,NA,NA,NA,NA
+Q75926037,Humphrey Coningsby,NA,NA,NA,NA
+Q75926168,John Coningsby,NA,NA,NA,NA
+Q75926333,Dorothy Berkeley,NA,NA,NA,NA
+Q75926334,Mary Francis Berkeley,NA,NA,NA,NA
+Q75926337,Anne Berkeley,NA,NA,NA,NA
+Q75926346,Margaret Coningsby,NA,NA,NA,NA
+Q75926350,Jane Coningsby,NA,NA,NA,NA
+Q75926351,Amphelice Coningsby,NA,NA,NA,NA
+Q75926408,unknown daughter Coningsby,NA,NA,NA,NA
+Q75926411,unknown daughter Coningsby,NA,NA,NA,NA
+Q75926456,Humphrey Coningsby,NA,NA,NA,NA
+Q75926779,Mary Berkeley,NA,NA,NA,NA
+Q75926793,Elizabeth Berkeley,NA,NA,NA,NA
+Q75926807,Mary Berkeley,NA,NA,NA,NA
+Q75927104,Henry Berkeley,NA,NA,NA,NA
+Q75927107,William Berkeley,NA,NA,NA,NA
+Q75927109,Elizabeth Berkeley,NA,NA,NA,NA
+Q75927110,Catherine Berkeley,NA,NA,NA,NA
+Q75927114,Ane Berkeley,NA,NA,NA,NA
+Q75927117,Dorothy Berkeley,NA,NA,NA,NA
+Q75927442,Henry Berkeley,NA,NA,NA,NA
+Q75927451,Ann Berkeley,NA,NA,NA,NA
+Q75927661,Margaret Lisle,NA,NA,NA,NA
+Q75927690,John Lisle,NA,NA,NA,NA
+Q75927691,Alice Lisle,NA,NA,NA,NA
+Q75927693,Beaconshaw Lisle,NA,NA,NA,NA
+Q75927694,Tryphena Lisle,NA,NA,NA,NA
+Q75927697,Maybella Lisle,NA,NA,NA,NA
+Q75927698,Mary Lisle,NA,NA,NA,NA
+Q75927699,Anna Lisle,NA,NA,NA,NA
+Q75927701,William Lisle,NA,NA,NA,NA
+Q75927711,William Lisle,NA,NA,NA,NA
+Q75927714,Daniel Lisle,NA,NA,NA,NA
+Q75927717,Edward Lisle,NA,NA,NA,NA
+Q75927719,Richard Lisle,NA,NA,NA,NA
+Q75927722,Elizabeth Lisle,NA,NA,NA,NA
+Q75927725,Mabel Lisle,NA,NA,NA,NA
+Q75927726,Bridget Lisle,NA,NA,NA,NA
+Q75927729,Mary Lisle,NA,NA,NA,NA
+Q75927943,Henry Berkeley,NA,NA,NA,NA
+Q75933747,John Waller,NA,NA,NA,NA
+Q75955684,Agnes Berkeley,NA,NA,NA,NA
+Q75958837,Gruffudd ap Jenkin Hanmer,NA,NA,NA,NA
+Q75958840,Elen Dutton,NA,NA,NA,NA
+Q75958880,Dafydd ap Gronwy,NA,NA,NA,NA
+Q75961237,John ap Meurig,NA,NA,NA,NA
+Q75965997,Anne Horne,NA,NA,NA,NA
+Q75972656,Sir John Tempest,NA,NA,NA,NA
+Q75972670,Sir Piers Tempest,NA,NA,NA,NA
+Q75972738,Sir Robert Tempest,NA,NA,NA,NA
+Q75972748,Roger Tempest,NA,NA,NA,NA
+Q75972849,Rowland Tempest,NA,NA,NA,NA
+Q75981774,Margaret (?),NA,NA,NA,NA
+Q75984685,William Mainwaring,NA,NA,NA,NA
+Q76008792,unknown daughter Berkeley,NA,NA,NA,NA
+Q76008794,unknown daughter Berkeley,NA,NA,NA,NA
+Q76008795,unknown daughter Berkeley,NA,NA,NA,NA
+Q76021497,Lucy Winthrop,NA,NA,NA,NA
+Q76031800,Ralph Constable,NA,NA,NA,NA
+Q76048561,Marsli ferch Maredudd,NA,NA,NA,NA
+Q76048570,Jonet Stanley,NA,NA,NA,NA
+Q76048583,Jonet Salesbury,NA,NA,NA,NA
+Q7607464,"William Berkeley, 1. Marquess of Berkeley",NA,NA,NA,NA
+Q76083260,Sir Christopher Ward,NA,NA,NA,NA
+Q76101065,Agnes Green,NA,NA,NA,NA
+Q76154646,"John Lestrange, 6th Lord Strange (of Knokyn)",NA,NA,NA,NA
+Q76154810,Sir Walter Hungerford,NA,NA,NA,NA
+Q76154851,Sir Anthony Hungerford,NA,NA,NA,NA
+Q76154864,Sir Edward Hungerford,NA,NA,NA,NA
+Q76154879,Margaret Hungerford,NA,NA,NA,NA
+Q76154931,Susan Danvers,NA,NA,NA,NA
+Q76157544,Margery Cornish,NA,NA,NA,NA
+Q76157547,Mary Everard,NA,NA,NA,NA
+Q76164984,Joan Mallory,NA,NA,NA,NA
+Q76165879,John Shelley,NA,NA,NA,NA
+Q76169677,Margaret Willoughby,NA,NA,NA,NA
+Q76174313,Philip Belknap,NA,NA,NA,NA
+Q76183945,Elizabeth Belknap,NA,NA,NA,NA
+Q76183947,"John le Botiler, 5th Lord Sudeley",NA,NA,NA,NA
+Q76183949,"William le Botiler, 6th Lord Sudeley",NA,NA,NA,NA
+Q76183957,Elizabeth Botiler,NA,NA,NA,NA
+Q76183965,William Belknap,NA,NA,NA,NA
+Q76197511,Eliakim Tupper,NA,NA,NA,NA
+Q76201130,Sir Christopher Harcourt,NA,NA,NA,NA
+Q76214372,Robin ap Gruffudd ap Gwilym,NA,NA,NA,NA
+Q76214373,Rhys ap Gruffudd,NA,NA,NA,NA
+Q76214376,Rhys ap Gruffudd,NA,NA,NA,NA
+Q76214389,Gruffudd Derwas ap Meurig,NA,NA,NA,NA
+Q76214393,Dafydd ab Ieuan,NA,NA,NA,NA
+Q76214402,Henry Fychan Salesbury,NA,NA,NA,NA
+Q76218735,Agnes Blount,NA,NA,NA,NA
+Q76220738,John Harcourt,NA,NA,NA,NA
+Q76238123,Margaret de Willoughby,NA,NA,NA,NA
+Q76241015,Isabel de la Haye,NA,NA,NA,NA
+Q76248176,Joane FitzHugh,NA,NA,NA,NA
+Q76253975,Agnes Constable,NA,NA,NA,NA
+Q76263773,Margaret de Mowbray,NA,NA,NA,NA
+Q76268796,Maud FitzHugh,NA,NA,NA,NA
+Q76273180,Hywel ap Ieuan Fychan,NA,NA,NA,NA
+Q76273185,Iorwerth 'Ddu' ap Ednyfed,NA,NA,NA,NA
+Q76273211,Llywelyn ap Iorwerth,NA,NA,NA,NA
+Q76273226,Hywel ap Tudur,NA,NA,NA,NA
+Q76273228,Gruffudd ap Rhys,NA,NA,NA,NA
+Q76273231,Catherine Salusbury,NA,NA,NA,NA
+Q76277946,William Tunstall,NA,NA,NA,NA
+Q76277947,Margaret Tunstall,NA,NA,NA,NA
+Q76277952,Grace Hamerton,NA,NA,NA,NA
+Q76297251,Margaret Hody,NA,NA,NA,NA
+Q76315785,Sir James Shelley,NA,NA,NA,NA
+Q76315786,Sir Edward Shelley,NA,NA,NA,NA
+Q76322600,Elizabeth Haute,NA,NA,NA,NA
+Q76323842,Richard Sackville,NA,NA,NA,NA
+Q76326562,unknown daughter Hungerford,NA,NA,NA,NA
+Q76326564,unknown daughter Hungerford,NA,NA,NA,NA
+Q76326566,unknown daughter Hungerford,NA,NA,NA,NA
+Q76326567,unknown daughter Hungerford,NA,NA,NA,NA
+Q76326569,unknown daughter Hungerford,NA,NA,NA,NA
+Q76326571,unknown daughter Hungerford,NA,NA,NA,NA
+Q76328218,Ellen FitzWilliam,NA,NA,NA,NA
+Q76329294,Sir James Harington,NA,NA,NA,NA
+Q76329876,Tryphena Hoar,NA,NA,NA,NA
+Q76331438,Isabel Brereton,NA,NA,NA,NA
+Q76331526,Alice Freeman,NA,NA,NA,NA
+Q76332923,Richard Shelley,NA,NA,NA,NA
+Q76332924,Sir John Shelley,NA,NA,NA,NA
+Q76344535,Humphrey Seymour,NA,NA,NA,NA
+Q76345016,Katherine Shelley,NA,NA,NA,NA
+Q76345429,John Belknap,NA,NA,NA,NA
+Q76345433,Anne Belknap,NA,NA,NA,NA
+Q76345437,Elizabeth Belknap,NA,NA,NA,NA
+Q76345439,Griselde Belknap,NA,NA,NA,NA
+Q76345443,Mary Belknap,NA,NA,NA,NA
+Q76345450,Griselde Belknap,NA,NA,NA,NA
+Q76345463,Daniel Belknap,NA,NA,NA,NA
+Q76345465,Margaret Belknap,NA,NA,NA,NA
+Q76353308,Christopher FitzWilliam,NA,NA,NA,NA
+Q76353310,Francis FitzWilliam,NA,NA,NA,NA
+Q76353312,Thomas FitzWilliam,NA,NA,NA,NA
+Q76353313,Richard FitzWilliam,NA,NA,NA,NA
+Q76356343,Sir William Stanley,NA,NA,NA,NA
+Q76358329,William Belknap,NA,NA,NA,NA
+Q76358863,Sir William Haute,NA,NA,NA,NA
+Q76359829,Agnes Thwaites,NA,NA,NA,NA
+Q7647504,Susan Alice Buffett,NA,NA,NA,NA
+Q7789832,Thomas Frowyk,NA,NA,NA,NA
+Q7794998,"Thomas West, 2nd Baron West",NA,NA,NA,NA
+Q7795453,"Thomas de Berkeley, 5th Baron Berkeley",NA,NA,NA,NA
+Q7851359,Tudur ap Gruffudd,NA,NA,NA,NA
+Q7964279,Walter Beauchamp,NA,NA,NA,NA
+Q7964321,"Walter Blount, 1st Baron Mountjoy",NA,NA,NA,NA
+Q8007044,William Coningsby,NA,NA,NA,NA
+Q8007582,William Danvers,NA,NA,NA,NA
+Q83372603,Margery Knolles,NA,NA,NA,NA
+Q84284455,Hannah Mayhew,NA,NA,NA,NA
+Q89267333,Elizabeth Cornell,NA,NA,NA,NA
+Q90163166,Samuel Phillips,NA,NA,NA,NA
+Q91555997,Henry J. Howland,NA,NA,NA,NA
+Q91807710,Thomas Cornell,NA,NA,NA,NA
+Q92327665,Sarah Doty,NA,NA,NA,NA
+Q92371644,John Appleton,NA,NA,NA,NA
+Q92466067,Kristianne Gates,NA,NA,NA,NA
+Q92466304,Libby G. MacPhee,NA,NA,NA,NA
+Q92560289,Mary Doty,NA,NA,NA,NA
+Q934384,"Richard Woodville, 1. Earl Rivers",NA,NA,NA,NA
+Q96075919,Anne Fettiplace,NA,NA,NA,NA
+Q96075964,Anne Croft,NA,NA,NA,NA
+Q96075968,Alicia dela Bere,NA,NA,NA,NA
+Q96076725,Josiah Chapin,NA,NA,NA,NA
+Q96077371,Johanna Hoar,NA,NA,NA,NA
+Q96197983,Mareen Duvall 'the Younger',NA,NA,NA,NA
+Q96198423,Edward Tyler,NA,NA,NA,NA
+Q96198937,Mary Day,NA,NA,NA,NA
+Q96199083,Elizabeth Foote,NA,NA,NA,NA
+Q96199102,Thomas Day,NA,NA,NA,NA
+Q96199473,Mary Emerson,NA,NA,NA,NA
+Q96201542,Ann Cheyney,NA,NA,NA,NA
+Q96201661,Jacob Perkins,NA,NA,NA,NA
+Q96202293,Samuel Cornell,NA,NA,NA,NA
+Q96202585,Priscilla Faunce,NA,NA,NA,NA
+Q96215902,Ruth Gates,NA,NA,NA,NA
+Q96216078,John Stanley II,NA,NA,NA,NA
+Q96216128,Mary Marvin,NA,NA,NA,NA
+Q96216559,Aaron Day,NA,NA,NA,NA
+Q96216894,Abigail Noyes,NA,NA,NA,NA
+Q96216921,Dorothy Noyes,NA,NA,NA,NA
+Q96217463,Reynold Marvin,NA,NA,NA,NA
+Q96237443,Abigail Stanley,NA,NA,NA,NA
+Q96237590,Joseph Gaylord,NA,NA,NA,NA
+Q96243838,Gruffudd ab Einion ap Gwyddelwern ap Gruffyd,NA,NA,NA,NA
+Q96243951,Jane Mallory,NA,NA,NA,NA
+Q96244272,Mary Foote,NA,NA,NA,NA
+Q96305877,Samuel Keeler,NA,NA,NA,NA
+Q96311147,Edmond Titus,NA,NA,NA,NA
+Q96311202,Martha Mallory,NA,NA,NA,NA
+Q96311647,William Cave,NA,NA,NA,NA
+Q96311649,Mary Mallory,NA,NA,NA,NA
+Q96311843,William Mallory,NA,NA,NA,NA
+Q96322805,Robert Prowse,NA,NA,NA,NA
+Q96337934,William Ijams,NA,NA,NA,NA
+Q96338043,Mareen Duvall 'the Elder',NA,NA,NA,NA
+Q96338759,Richard Cheyney,NA,NA,NA,NA
+Q96372447,Thomas Doty,NA,NA,NA,NA
+Q96376882,Isaac Perkins Sr.,NA,NA,NA,NA
+Q96413292,Martha Thomas,NA,NA,NA,NA
+Q96413885,John Doty,NA,NA,NA,NA
+Q96414252,Israel Tupper,NA,NA,NA,NA
+Q96480382,William Spencer,NA,NA,NA,NA
+Q96572780,Elizabeth Tyler,NA,NA,NA,NA
+Q96777045,Nathaniel Dickinson,NA,NA,NA,NA
+Q96778288,John Feake,NA,NA,NA,NA
+Q96778436,Elizabeth Feake,NA,NA,NA,NA
+Q96778504,Hannah Feake,NA,NA,NA,NA
+Q96983843,Sarah Day,NA,NA,NA,NA
+Q96985153,Joanna Gaylord,NA,NA,NA,NA
+Q97041384,Mary Hatch,NA,NA,NA,NA
+Q97094276,Job Drake,NA,NA,NA,NA
+Q97094795,Thomas Perkins,NA,NA,NA,NA
+Q97094802,Abraham Perkins,NA,NA,NA,NA
+Q97103884,Sarah Marvin,NA,NA,NA,NA
+Q97531963,Mary Howland,NA,NA,NA,NA
+Q97536585,Medad Tupper,NA,NA,NA,NA
+Q97568561,"Isabel Clifton, of Bradborne",NA,NA,NA,NA
+Q97568635,"Sir Henry Frowick, of Ipswell, Oxon",NA,NA,NA,NA
+Q98053388,Elizabeth Isaac,NA,NA,NA,NA
+Q98103241,"John Langston, of Caversfield",NA,NA,NA,NA
+Q98103245,Amy|Amicia Danvers,NA,NA,NA,NA
+Q98103768,"Thomas Tupper, III",NA,NA,NA,NA
+Q98399850,Huw ab Owain,NA,NA,NA,NA
+Q98422877,Robert Foote,NA,NA,NA,NA
+Q98961916,"Roger Seymour, of Andover, Hamps.",NA,NA,NA,NA
+Q98967062,Eleanor Dennis,NA,NA,NA,NA
+Q98967137,John Dennis,NA,NA,NA,NA
+Q98967174,Isabel Berkeley,NA,NA,NA,NA
+Q99066601,"James Berkeley, of Thornbury",NA,NA,NA,NA
+Q99066709,Gaenor ferch Robert ap Maredudd ap Hwlcyn Lloyd of Glynllifon,NA,NA,NA,NA
+Q99066781,Morus ap John ap Maredudd ab Ieuan of Clenenney,NA,NA,NA,NA
+Q99067957,Lora FitzHugh,NA,NA,NA,NA
+Q99068149,Matilda|Janet? Dennis,NA,NA,NA,NA
+Q99068428,"Madog Puleston, of Cristionydd",NA,NA,NA,NA
+Q99068480,Angharad ferch Gruffudd ap Llywelyn ap Cynwrig ab Osbwrn Wyddel of Cors y Gedol,NA,NA,NA,NA
+Q99068529,Lleucu ferch Dafydd ab Y Giwn Llwyd (of Yr Hendwr) ap Dafydd ap Madog,NA,NA,NA,NA
+Q99069537,Sir Robert Whitney,NA,NA,NA,NA
+Q99069899,Nest ferch Rhys ap Robert ap Gruffudd ap Hywel,NA,NA,NA,NA
+Q99070143,William Fychan (Griffith) ap Gwilym ap Gruffudd ap Gwilym of Penrhyn,NA,NA,NA,NA
+Q99070237,Gruffudd ap Hywel y Farf ap Llywelyn ap Hywel of Treiorworth,NA,NA,NA,NA
+Q99070297,Nest Fechan ferch Maredudd ap Hwlcyn Llwyd ap Tudur Gôch,NA,NA,NA,NA
+Q99072497,Meurig Fychan ab Ynyr Fychan ab Ynyr ap Meurig of Nannau,NA,NA,NA,NA
+Q99082491,Llywelyn ab Ednyfed Gam ab Iorwerth Foel ab Iorwerth Fychan,NA,NA,NA,NA
+Q99094145,"Thomas Bernard, of Clare, Suffolk",NA,NA,NA,NA
+Q99107546,"Richard Chamberlain, of Tilsworth, Beds",NA,NA,NA,NA
+Q99107561,"Joan Danvers, of Colthorpe",NA,NA,NA,NA
+Q99171619,"Sir Gerard Sothill, of Redbourne",NA,NA,NA,NA
+Q99177450,Jane Hawte (Haute),NA,NA,NA,NA
+Q99211427,Jane|Joan Beler,NA,NA,NA,NA
+Q99220283,Deborah Howland,NA,NA,NA,NA
+Q99249854,Mary Payson,NA,NA,NA,NA
+Q99302473,Tibod verch Einion ap Gruffydd ap Llywelyn of Cors y Gedol,NA,NA,NA,NA
+Q99399789,"James Draper, Jr.",NA,NA,NA,NA
+Q99432351,Elizabeth (Howland) Low,NA,NA,NA,NA
+Q99600447,Mary Eames,NA,NA,NA,NA
+Q99674956,"Cecily Mainwaring, of Over Peover",NA,NA,NA,NA
+Q99735441,Margery Flint,NA,NA,NA,NA
+Q99767733,Joanna Hody,NA,NA,NA,NA
+Q99769143,Benjamin Woodworth,NA,NA,NA,NA
+Q99769205,Margaret Fish,NA,NA,NA,NA
+Q99769425,Isaac Woodworth,NA,NA,NA,NA
+Q99856316,Joseph Doty,NA,NA,NA,NA
+Q99902210,Elizabeth Rockwell,NA,NA,NA,NA
+Q99904842,Josiah Whitney,NA,NA,NA,NA
+Q99906401,Richard Whitney,NA,NA,NA,NA
+Q99907446,Joseph Whitney,NA,NA,NA,NA
+Q99907721,Henry Whitney,NA,NA,NA,NA
+Q99912192,Anne St. John,NA,NA,NA,NA
+Q99928371,Mercy Lockwood,NA,NA,NA,NA
