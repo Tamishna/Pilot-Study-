@@ -1390,9 +1390,6 @@ cat("Saved global master graph →", out_file, "\n")
 
 #### 7. Extended kinship: uncles/aunts + cousins for each seed ####
 
-
-#### 7. Extended kinship (uncles/aunts, cousins, etc.) ####
-
 library(dplyr)
 library(purrr)
 library(tidyr)
