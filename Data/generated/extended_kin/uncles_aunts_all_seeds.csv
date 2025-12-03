@@ -1,0 +1,4 @@
+seed_name,relationship,seed_qid,parent_qid,parent_role,uncle_aunt_qid,sibling_type,uncle_aunt_name,parent_name
+Larry Ellison,maternal_uncle_aunt,Q92759,Q30302765,mother,Q105270138,sibling_p3373,NA,Florence Spellman
+Jim Walton,paternal_uncle_aunt,Q741784,Q497827,father,Q1045098,sibling_any,Bud Walton,Sam Walton
+Jim Walton,paternal_uncle_aunt,Q741784,Q497827,father,Q1045098,sibling_p3373,Bud Walton,Sam Walton

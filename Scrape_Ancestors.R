@@ -79,7 +79,7 @@ dir.create("data_prepared", showWarnings = FALSE, recursive = TRUE)
 dir.create("cache/parents", showWarnings = FALSE, recursive = TRUE)
 
 MAX_DEPTH   <- 20        # safety cap on generations
-SEED_LIMIT  <- 10       # set to a small number for pilot run; NA = all
+SEED_LIMIT  <- 6    # set to a small number for pilot run; NA = all
 BASE_SLEEP  <- 0.25      # polite delay
 RETRY_TRIES <- 3
 BACKOFF     <- 1.7
@@ -94,6 +94,8 @@ if (!is.na(SEED_LIMIT)) {
   seeds <- head(seeds, SEED_LIMIT)
 }
 cat("Seed count:", length(seeds), "\n")
+
+global_start <- Sys.time()
 
 # Helpers: caching + safe query
 parent_cache_file <- function(qid) file.path("cache/parents", paste0(qid, ".rds"))
@@ -660,8 +662,54 @@ hr <- export_horizontal_relationships(
 )
 cat("Files in generated/: ", paste(list.files("generated"), collapse = ", "), "\n")
 
-###NEW 
 
+# Deduplicate spouse edges: it was showing the same couple for inferred and direct wikidata spouse edges, now it will appear once
+
+hr_all_raw <- hr$edges_all
+
+# 1) Collapse spouse/spouse_p26 per unordered pair
+spouse_collapsed <- hr_all_raw %>%
+  dplyr::filter(type %in% c("spouse", "spouse_p26")) %>%
+  dplyr::mutate(
+    pair_from = pmin(from, to),
+    pair_to   = pmax(from, to)
+  ) %>%
+  dplyr::group_by(pair_from, pair_to) %>%
+  dplyr::summarise(
+    # New unified type
+    type = "spouse",
+    # Optional: remember what was seen (spouse; spouse_p26; or both)
+    source_types = paste(sort(unique(type)), collapse = ";"),
+    .groups = "drop"
+  )
+
+# 2) Keep all non-spouse edges as they are
+others <- hr_all_raw %>%
+  dplyr::filter(!type %in% c("spouse", "spouse_p26"))
+
+# 3) Combine back into a cleaned horizontal edge table
+hr_edges_nodup <- dplyr::bind_rows(
+  others,
+  spouse_collapsed %>%
+    dplyr::transmute(
+      from = pair_from,
+      to   = pair_to,
+      type,
+      source_types
+    )
+)
+
+# Optional: ensure no exact from–to–type duplicates remain
+hr_edges_nodup <- hr_edges_nodup %>%
+  dplyr::distinct(from, to, type, .keep_all = TRUE)
+
+# Replace the old table with the cleaned one for everything below
+hr$edges_all <- hr_edges_nodup
+
+cat("After collapsing spouse/spouse_p26 → unique spouse edges:",
+    nrow(hr_edges_nodup), "rows\n")
+
+###NEW 
 #### 4. Compute generation + depth for ALL seeds ####
 
 library(dplyr)
@@ -991,6 +1039,8 @@ dir_create("graphs/master_seeds")
 # Get vertex and edge data from the global graph g_all
 vdf_all <- igraph::as_data_frame(g_all, what = "vertices")
 edf_all <- igraph::as_data_frame(g_all, what = "edges")
+
+View(vdf_all)
 
 # Nodes for visNetwork (ALL people)
 nodes_vis_all <- data.frame(
@@ -1338,4 +1388,272 @@ cat("Saved global master graph →", out_file, "\n")
 # 
 # ### The End ###
 
+#### 7. Extended kinship: uncles/aunts + cousins for each seed ####
+
+
+#### 7. Extended kinship (uncles/aunts, cousins, etc.) ####
+
+library(dplyr)
+library(purrr)
+library(tidyr)
+library(readr)
+
+# Vertical parent–child edges: child -> parent
+vert_edges_core <- edges %>%
+  filter(type %in% c("has_father", "has_mother")) %>%
+  transmute(
+    child       = from,
+    parent      = to,
+    parent_type = type    
+  )
+
+# All sibling edges (inferred + P3373)
+sib_edges_core <- hr$edges_all %>%
+  filter(grepl("^sibling", type)) %>%
+  transmute(
+    from,
+    to,
+    sibling_type = type
+  )
+
+#name lookup
+name_map <- nodes %>%
+  transmute(
+    qid  = node,
+    name = coalesce(nodeLabel, node)
+  )
+
+get_parents <- function(qid) {
+  vert_edges_core %>%
+    filter(child == qid) %>%
+    transmute(
+      parent_qid  = parent,
+      parent_role = if_else(parent_type == "has_father", "father", "mother")
+    ) %>%
+    distinct()
+}
+
+get_children <- function(qid) {
+  vert_edges_core %>%
+    filter(parent == qid) %>%
+    transmute(
+      child_qid   = child,
+      parent_qid  = parent,
+      parent_role = if_else(parent_type == "has_father", "father", "mother")
+    ) %>%
+    distinct()
+}
+
+get_siblings_any <- function(qid) {
+  sib_long <- bind_rows(
+    sib_edges_core %>% transmute(ego = from, alter = to, sibling_type),
+    sib_edges_core %>% transmute(ego = to,   alter = from, sibling_type)
+  )
+  
+  sib_long %>%
+    filter(ego == qid, !is.na(alter)) %>%
+    transmute(
+      ego_qid     = ego,
+      sibling_qid = alter,
+      sibling_type
+    ) %>%
+    distinct()
+}
+
+inspect_seed_family <- function(seed_qid) {
+  seed_name <- name_map$name[match(seed_qid, name_map$qid)]
+  
+## 7.1) Siblings + children of seed
+  
+  sibs <- get_siblings_any(seed_qid) %>%
+    left_join(name_map, by = c("sibling_qid" = "qid")) %>%
+    rename(sibling_name = name) %>%
+    mutate(
+      seed_qid  = seed_qid,
+      seed_name = seed_name,
+      .before   = 1
+    )
+  
+  kids <- get_children(seed_qid) %>%
+    left_join(name_map, by = c("child_qid" = "qid")) %>%
+    rename(child_name = name) %>%
+    mutate(
+      seed_qid  = seed_qid,
+      seed_name = seed_name,
+      .before   = 1
+    )
+  
+  ## 7.2) Seed’s siblings’ children (nieces/nephews of seed) 
+  
+  nieces_nephews <- tibble()
+  if (nrow(sibs) > 0) {
+    nieces_nephews <- sibs %>%
+      select(seed_qid, seed_name, sibling_qid, sibling_name) %>%
+      left_join(
+        vert_edges_core %>%
+          transmute(
+            parent_qid = parent,
+            child_qid  = child,
+            parent_type
+          ),
+        by = c("sibling_qid" = "parent_qid")
+      ) %>%
+      filter(!is.na(child_qid)) %>%
+      left_join(name_map, by = c("child_qid" = "qid")) %>%
+      rename(niece_nephew_name = name) %>%
+      mutate(
+        relationship = case_when(
+          parent_type == "has_father" ~ "niece_nephew_through_paternal_sibling",
+          parent_type == "has_mother" ~ "niece_nephew_through_maternal_sibling",
+          TRUE                        ~ "niece_nephew"
+        )
+      ) %>%
+      select(seed_qid, seed_name,
+             sibling_qid, sibling_name,
+             child_qid, niece_nephew_name,
+             relationship)
+  }
+  
+  ## 7.3) Seed’s children & their uncles/aunts (seed’s siblings)
+  
+  uncles_of_kids <- tibble()
+  if (nrow(sibs) > 0 && nrow(kids) > 0) {
+    uncles_of_kids <- kids %>%
+      select(seed_qid, seed_name,
+             child_qid, child_name, parent_role) %>%
+      tidyr::crossing(
+        sibs %>% select(sibling_qid, sibling_name)
+      ) %>%
+      mutate(
+        relationship = case_when(
+          parent_role == "father" ~ "paternal_uncle_aunt_of_child",
+          parent_role == "mother" ~ "maternal_uncle_aunt_of_child",
+          TRUE                    ~ "uncle_aunt_of_child"
+        )
+      )
+  }
+  
+  ## 7.4) Seed’s parents, their siblings (uncles/aunts) & their children 
+  
+  parents <- get_parents(seed_qid) %>%
+    left_join(name_map, by = c("parent_qid" = "qid")) %>%
+    rename(parent_name = name)
+  
+  ua <- tibble()
+  if (nrow(parents) > 0) {
+    ua_list <- lapply(seq_len(nrow(parents)), function(i) {
+      p_qid  <- parents$parent_qid[i]
+      p_role <- parents$parent_role[i]
+      
+      sib_p <- get_siblings_any(p_qid)
+      if (nrow(sib_p) == 0) return(NULL)
+      
+      sib_p %>%
+        transmute(
+          seed_qid       = seed_qid,
+          parent_qid     = p_qid,
+          parent_role    = p_role,
+          uncle_aunt_qid = sibling_qid,
+          sibling_type   = sibling_type
+        )
+    })
+    
+    ua_list <- Filter(Negate(is.null), ua_list)
+    if (length(ua_list) > 0) {
+      ua <- bind_rows(ua_list) %>%
+        left_join(name_map, by = c("uncle_aunt_qid" = "qid")) %>%
+        rename(uncle_aunt_name = name) %>%
+        left_join(name_map, by = c("parent_qid" = "qid")) %>%
+        rename(parent_name = name) %>%
+        mutate(
+          seed_name = seed_name,
+          relationship = case_when(
+            parent_role == "father" ~ "paternal_uncle_aunt",
+            parent_role == "mother" ~ "maternal_uncle_aunt",
+            TRUE                    ~ "uncle_aunt"
+          ),
+          .before = 1
+        )
+    }
+  }
+  
+  cousins <- tibble()
+  if (nrow(ua) > 0) {
+    cousins <- ua %>%
+      select(seed_qid, seed_name,
+             parent_qid, parent_name, parent_role,
+             uncle_aunt_qid, uncle_aunt_name, sibling_type) %>%
+      left_join(
+        vert_edges_core %>%
+          transmute(
+            uncle_aunt_qid = parent,
+            cousin_qid     = child,
+            parent_type
+          ),
+        by = "uncle_aunt_qid"
+      ) %>%
+      filter(!is.na(cousin_qid)) %>%
+      left_join(name_map, by = c("cousin_qid" = "qid")) %>%
+      rename(cousin_name = name) %>%
+      mutate(
+        relationship = case_when(
+          parent_role == "father" ~ "paternal_first_cousin",
+          parent_role == "mother" ~ "maternal_first_cousin",
+          TRUE                    ~ "first_cousin"
+        )
+      )
+  }
+  
+  list(
+    siblings       = sibs,
+    children       = kids,
+    nieces_nephews = nieces_nephews,
+    uncles_of_kids = uncles_of_kids,
+    uncles_aunts   = ua,
+    cousins        = cousins
+  )
+}
+
+# Use the limited seed set, not all df$id_wikidata
+all_seeds <- seeds
+cat("Computing local family for", length(all_seeds), "seeds...\n")
+
+kin_list <- lapply(all_seeds, inspect_seed_family)
+
+# Combine across seeds for each relationship type
+siblings_all       <- bind_rows(lapply(kin_list, `[[`, "siblings"))
+children_all       <- bind_rows(lapply(kin_list, `[[`, "children"))
+nieces_nephews_all <- bind_rows(lapply(kin_list, `[[`, "nieces_nephews"))
+uncles_of_kids_all <- bind_rows(lapply(kin_list, `[[`, "uncles_of_kids"))
+uncles_aunts_all   <- bind_rows(lapply(kin_list, `[[`, "uncles_aunts"))
+cousins_all        <- bind_rows(lapply(kin_list, `[[`, "cousins"))
+
+dir.create("generated/extended_kin", showWarnings = FALSE, recursive = TRUE)
+
+write_csv(siblings_all,       "generated/extended_kin/siblings_all_seeds.csv")
+write_csv(children_all,       "generated/extended_kin/children_all_seeds.csv")
+write_csv(nieces_nephews_all, "generated/extended_kin/nieces_nephews_all_seeds.csv")
+write_csv(uncles_of_kids_all, "generated/extended_kin/uncles_of_kids_all_seeds.csv")
+write_csv(uncles_aunts_all,   "generated/extended_kin/uncles_aunts_all_seeds.csv")
+write_csv(cousins_all,        "generated/extended_kin/cousins_all_seeds.csv")
+
+cat("✔ Saved extended kinship CSVs for all seeds in SEED_LIMIT to generated/extended_kin/\n")
+
+
+##End of timer
+global_end <- Sys.time()
+
+total_time <- as.numeric(global_end - global_start, units = "secs")
+avg_time   <- total_time / length(seeds)
+
+cat("\n===== OVERALL SEED PIPELINE TIMING =====\n")
+cat("Seeds used in ancestry (SEED_LIMIT):", length(seeds), "\n")
+cat("Total time (ancestors + spouses/siblings + kinship):",
+    round(total_time, 2), "seconds\n")
+cat("Average time per seed:",
+    round(avg_time, 3), "seconds\n")
+cat("Estimated time for 200 seeds:",
+    round(avg_time * 200, 1), "seconds (",
+    round(avg_time * 200 / 60, 2), "minutes )\n")
+        
 

@@ -1,0 +1,22 @@
+seed_qid,seed_name,ego_qid,sibling_qid,sibling_type,sibling_name
+Q312556,Jeff Bezos,Q312556,Q23784752,sibling_any,Mark Bezos
+Q312556,Jeff Bezos,Q312556,Q23784752,sibling_p3373,Mark Bezos
+Q5284,Bill Gates,Q5284,Q92466067,sibling_any,Kristianne Gates
+Q5284,Bill Gates,Q5284,Q92466304,sibling_any,Libby G. MacPhee
+Q5284,Bill Gates,Q5284,Q92466067,sibling_p3373,Kristianne Gates
+Q5284,Bill Gates,Q5284,Q92466304,sibling_p3373,Libby G. MacPhee
+Q47213,Warren Buffett,Q47213,Q56222319,sibling_any,Doris Buffett
+Q47213,Warren Buffett,Q47213,Q56222319,sibling_p3373,Doris Buffett
+Q47213,Warren Buffett,Q47213,Q102197117,sibling_p3373,NA
+Q36215,Mark Zuckerberg,Q36215,Q22276668,sibling_any,Arielle Zuckerberg
+Q36215,Mark Zuckerberg,Q36215,Q22276670,sibling_any,Donna Zuckerberg
+Q36215,Mark Zuckerberg,Q36215,Q292708,sibling_any,Randi Zuckerberg
+Q36215,Mark Zuckerberg,Q36215,Q292708,sibling_p3373,Randi Zuckerberg
+Q36215,Mark Zuckerberg,Q36215,Q22276668,sibling_p3373,Arielle Zuckerberg
+Q36215,Mark Zuckerberg,Q36215,Q22276670,sibling_p3373,Donna Zuckerberg
+Q741784,Jim Walton,Q741784,Q289571,sibling_any,Alice Walton
+Q741784,Jim Walton,Q741784,Q484669,sibling_any,John T. Walton
+Q741784,Jim Walton,Q741784,Q736477,sibling_any,S. Robson Walton
+Q741784,Jim Walton,Q741784,Q289571,sibling_p3373,Alice Walton
+Q741784,Jim Walton,Q741784,Q484669,sibling_p3373,John T. Walton
+Q741784,Jim Walton,Q741784,Q736477,sibling_p3373,S. Robson Walton

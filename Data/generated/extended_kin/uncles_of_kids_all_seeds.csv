@@ -1,0 +1,34 @@
+seed_qid,seed_name,child_qid,child_name,parent_role,sibling_qid,sibling_name,relationship
+Q312556,Jeff Bezos,Q102433534,Preston Bezos,father,Q23784752,Mark Bezos,paternal_uncle_aunt_of_child
+Q312556,Jeff Bezos,Q102433548,second son of Jeff Bezos,father,Q23784752,Mark Bezos,paternal_uncle_aunt_of_child
+Q312556,Jeff Bezos,Q102433555,third son of Jeff Bezos,father,Q23784752,Mark Bezos,paternal_uncle_aunt_of_child
+Q5284,Bill Gates,Q23011254,Jennifer Katharine Gates,father,Q92466067,Kristianne Gates,paternal_uncle_aunt_of_child
+Q5284,Bill Gates,Q23011254,Jennifer Katharine Gates,father,Q92466304,Libby G. MacPhee,paternal_uncle_aunt_of_child
+Q5284,Bill Gates,Q23011256,Phoebe Adele Gates,father,Q92466067,Kristianne Gates,paternal_uncle_aunt_of_child
+Q5284,Bill Gates,Q23011256,Phoebe Adele Gates,father,Q92466304,Libby G. MacPhee,paternal_uncle_aunt_of_child
+Q5284,Bill Gates,Q23011257,Rory John Gates,father,Q92466067,Kristianne Gates,paternal_uncle_aunt_of_child
+Q5284,Bill Gates,Q23011257,Rory John Gates,father,Q92466304,Libby G. MacPhee,paternal_uncle_aunt_of_child
+Q47213,Warren Buffett,Q4079744,Howard Graham Buffett,father,Q102197117,NA,paternal_uncle_aunt_of_child
+Q47213,Warren Buffett,Q4079744,Howard Graham Buffett,father,Q56222319,Doris Buffett,paternal_uncle_aunt_of_child
+Q47213,Warren Buffett,Q7173047,Peter Buffett,father,Q102197117,NA,paternal_uncle_aunt_of_child
+Q47213,Warren Buffett,Q7173047,Peter Buffett,father,Q56222319,Doris Buffett,paternal_uncle_aunt_of_child
+Q47213,Warren Buffett,Q7647504,Susan Alice Buffett,father,Q102197117,NA,paternal_uncle_aunt_of_child
+Q47213,Warren Buffett,Q7647504,Susan Alice Buffett,father,Q56222319,Doris Buffett,paternal_uncle_aunt_of_child
+Q36215,Mark Zuckerberg,Q102400157,August Chan Zuckerberg,father,Q22276668,Arielle Zuckerberg,paternal_uncle_aunt_of_child
+Q36215,Mark Zuckerberg,Q102400157,August Chan Zuckerberg,father,Q22276670,Donna Zuckerberg,paternal_uncle_aunt_of_child
+Q36215,Mark Zuckerberg,Q102400157,August Chan Zuckerberg,father,Q292708,Randi Zuckerberg,paternal_uncle_aunt_of_child
+Q36215,Mark Zuckerberg,Q123336416,Aurelia Chan Zuckerberg,father,Q22276668,Arielle Zuckerberg,paternal_uncle_aunt_of_child
+Q36215,Mark Zuckerberg,Q123336416,Aurelia Chan Zuckerberg,father,Q22276670,Donna Zuckerberg,paternal_uncle_aunt_of_child
+Q36215,Mark Zuckerberg,Q123336416,Aurelia Chan Zuckerberg,father,Q292708,Randi Zuckerberg,paternal_uncle_aunt_of_child
+Q36215,Mark Zuckerberg,Q22302383,Maxima Zuckerberg,father,Q22276668,Arielle Zuckerberg,paternal_uncle_aunt_of_child
+Q36215,Mark Zuckerberg,Q22302383,Maxima Zuckerberg,father,Q22276670,Donna Zuckerberg,paternal_uncle_aunt_of_child
+Q36215,Mark Zuckerberg,Q22302383,Maxima Zuckerberg,father,Q292708,Randi Zuckerberg,paternal_uncle_aunt_of_child
+Q741784,Jim Walton,Q101566808,Alice Anne Walton,father,Q289571,Alice Walton,paternal_uncle_aunt_of_child
+Q741784,Jim Walton,Q101566808,Alice Anne Walton,father,Q484669,John T. Walton,paternal_uncle_aunt_of_child
+Q741784,Jim Walton,Q101566808,Alice Anne Walton,father,Q736477,S. Robson Walton,paternal_uncle_aunt_of_child
+Q741784,Jim Walton,Q101566876,James M. Walton,father,Q289571,Alice Walton,paternal_uncle_aunt_of_child
+Q741784,Jim Walton,Q101566876,James M. Walton,father,Q484669,John T. Walton,paternal_uncle_aunt_of_child
+Q741784,Jim Walton,Q101566876,James M. Walton,father,Q736477,S. Robson Walton,paternal_uncle_aunt_of_child
+Q741784,Jim Walton,Q24524594,Steuart Walton,father,Q289571,Alice Walton,paternal_uncle_aunt_of_child
+Q741784,Jim Walton,Q24524594,Steuart Walton,father,Q484669,John T. Walton,paternal_uncle_aunt_of_child
+Q741784,Jim Walton,Q24524594,Steuart Walton,father,Q736477,S. Robson Walton,paternal_uncle_aunt_of_child

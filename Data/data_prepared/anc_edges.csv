@@ -1305,11 +1305,6 @@ Q18821787,Q76214368,has_father,Gwilym ap Gruffudd,Gruffudd ap Gwilym,1
 Q18821787,Q76214369,has_mother,Gwilym ap Gruffudd,Generys ferch Madog,1
 Q99070099,Q75616810,has_father,Janet Stanley,Sir William de Stanley,1
 Q99070099,Q75616811,has_mother,Janet Stanley,Margery de Hooton,1
-Q736477,Q497827,has_father,S. Robson Walton,Sam Walton,1
-Q736477,Q256075,has_mother,S. Robson Walton,Helen Robson Walton,1
-Q289571,Q497827,has_father,Alice Walton,Sam Walton,1
-Q289571,Q256075,has_mother,Alice Walton,Helen Robson Walton,1
-Q4934,Q15791098,has_father,Larry Page,Carl Victor Page,1
 Q23784752,Q92464290,has_mother,Mark Bezos,Jacklyn Gise,1
 Q135582897,Q106630017,has_father,John Samuel Strait,John Joseph Strait,1
 Q135582897,Q106630018,has_mother,John Samuel Strait,Martha Eudora Strait,1
@@ -2301,8 +2296,12 @@ Q22276670,Q20900225,has_father,Donna Zuckerberg,Edward Zuckerberg,1
 Q292708,Q20900226,has_mother,Randi Zuckerberg,Karen Kempner,1
 Q22276668,Q20900226,has_mother,Arielle Zuckerberg,Karen Kempner,1
 Q22276670,Q20900226,has_mother,Donna Zuckerberg,Karen Kempner,1
+Q289571,Q497827,has_father,Alice Walton,Sam Walton,1
 Q484669,Q497827,has_father,John T. Walton,Sam Walton,1
+Q736477,Q497827,has_father,S. Robson Walton,Sam Walton,1
+Q289571,Q256075,has_mother,Alice Walton,Helen Robson Walton,1
 Q484669,Q256075,has_mother,John T. Walton,Helen Robson Walton,1
+Q736477,Q256075,has_mother,S. Robson Walton,Helen Robson Walton,1
 Q1045098,Q92597022,has_father,Bud Walton,Thomas Gibson Walton,1
 Q1045098,Q96311724,has_mother,Bud Walton,Nancy Lee Lawrence,1
 Q96311649,Q96311650,has_father,Mary Mallory,Roger Mallory,1
@@ -2896,7 +2895,6 @@ Q130648366,Q76214369,has_mother,Jonet ferch Gruffudd ap Gwilym,Generys ferch Mad
 Q76214372,Q76214369,has_mother,Robin ap Gruffudd ap Gwilym,Generys ferch Madog,1
 Q76356343,Q75616810,has_father,Sir William Stanley,Sir William de Stanley,1
 Q76356343,Q75616811,has_mother,Sir William Stanley,Margery de Hooton,1
-Q105100607,Q15791098,has_father,"Carl Victor Page, Jr.",Carl Victor Page,1
 Q102433548,Q312556,has_father,second son of Jeff Bezos,Jeff Bezos,1
 Q102433555,Q312556,has_father,third son of Jeff Bezos,Jeff Bezos,1
 Q102433534,Q312556,has_father,Preston Bezos,Jeff Bezos,1
@@ -2909,7 +2907,6 @@ Q7647504,Q47213,has_father,Susan Alice Buffett,Warren Buffett,1
 Q23011254,Q5284,has_father,Jennifer Katharine Gates,Bill Gates,1
 Q23011256,Q5284,has_father,Phoebe Adele Gates,Bill Gates,1
 Q23011257,Q5284,has_father,Rory John Gates,Bill Gates,1
-Q20685109,Q736477,has_father,Carrie Walton Penner,S. Robson Walton,1
 Q24524594,Q741784,has_father,Steuart Walton,Jim Walton,1
 Q101566808,Q741784,has_father,Alice Anne Walton,Jim Walton,1
 Q101566876,Q741784,has_father,James M. Walton,Jim Walton,1

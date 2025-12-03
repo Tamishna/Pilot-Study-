@@ -1,0 +1,18 @@
+seed_qid,seed_name,child_qid,parent_qid,parent_role,child_name
+Q312556,Jeff Bezos,Q102433548,Q312556,father,second son of Jeff Bezos
+Q312556,Jeff Bezos,Q102433555,Q312556,father,third son of Jeff Bezos
+Q312556,Jeff Bezos,Q102433534,Q312556,father,Preston Bezos
+Q5284,Bill Gates,Q23011254,Q5284,father,Jennifer Katharine Gates
+Q5284,Bill Gates,Q23011256,Q5284,father,Phoebe Adele Gates
+Q5284,Bill Gates,Q23011257,Q5284,father,Rory John Gates
+Q47213,Warren Buffett,Q4079744,Q47213,father,Howard Graham Buffett
+Q47213,Warren Buffett,Q7173047,Q47213,father,Peter Buffett
+Q47213,Warren Buffett,Q7647504,Q47213,father,Susan Alice Buffett
+Q92759,Larry Ellison,Q1840340,Q92759,father,Megan Ellison
+Q92759,Larry Ellison,Q5233363,Q92759,father,David Ellison
+Q36215,Mark Zuckerberg,Q22302383,Q36215,father,Maxima Zuckerberg
+Q36215,Mark Zuckerberg,Q102400157,Q36215,father,August Chan Zuckerberg
+Q36215,Mark Zuckerberg,Q123336416,Q36215,father,Aurelia Chan Zuckerberg
+Q741784,Jim Walton,Q24524594,Q741784,father,Steuart Walton
+Q741784,Jim Walton,Q101566808,Q741784,father,Alice Anne Walton
+Q741784,Jim Walton,Q101566876,Q741784,father,James M. Walton
